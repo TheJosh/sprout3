@@ -46,7 +46,7 @@ var totalSelector = $.fn.totalSelector = function() {
                 dropdown += '<div class="total-selector__dropdown__field__total">' + fieldValue + '</div>';
                 dropdown += '<button class="total-selector__dropdown__field__button total-selector__dropdown__field__button--increase';
 
-                if(fieldMax != undefined && fieldValue+1 <= fieldMax) {
+                if(fieldMax != undefined && fieldValue+1 >= fieldMax) {
                     dropdown += ' total-selector__dropdown__field__button--min';
                 }
 
