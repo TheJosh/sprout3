@@ -19,7 +19,7 @@ exportDir: export
 publicDir: public
 sourceDir: '../skin/default'
 defaultPattern: all
-defaultShowPatternInfo: false
+defaultShowPatternInfo: true
 plugins:
     reload:
         enabled: true
