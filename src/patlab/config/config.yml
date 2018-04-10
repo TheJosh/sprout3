@@ -17,7 +17,7 @@ styleGuideExcludes: ''
 cacheBusterOn: 'true'
 exportDir: export
 publicDir: public
-sourceDir: '../skin/patlab'
+sourceDir: '../skin/default'
 defaultPattern: all
 defaultShowPatternInfo: false
 plugins:
