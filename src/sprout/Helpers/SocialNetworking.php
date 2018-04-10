@@ -203,7 +203,7 @@ class SocialNetworking
         $link = Kohana::config('sprout.social_media.' . $type);
 
         if (! $type or ! $link) {
-            $link = 'javascript:;" style="box-shadow: 0 0 5px 5px #f00" title="no link target set in skin config!';
+            $link = 'javascript:;" style="cursor: default;" title="no link target set in skin config!';
         }
         $out = "<a href=\"{$link}\"";
         if ($new_window) $out .= ' target="_blank" ';

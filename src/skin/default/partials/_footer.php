@@ -2,6 +2,7 @@
 use Sprout\Helpers\Enc;
 use Sprout\Helpers\Text;
 use Sprout\Helpers\Url;
+use Sprout\Helpers\SocialNetworking;
 ?>
 
 <footer id="footer">
@@ -97,32 +98,32 @@ use Sprout\Helpers\Url;
                 <div class="col-xs-12 col-sm-6 col-sm--right-align">
                     <ul class="social-list social-list--inline">
                         <li class="social-list__item">
-                            <a href="#">
-                                <svg class="icon icon-facebook"><use xlink:href="<?= Url::current(true); ?>#icon-facebook"></use></svg>
+                            <?php echo SocialNetworking::pageLink('facebook'); ?>
+                                <?php include 'skin/default/images/icon-system/icon_facebook.svg';  ?>
                                 <span class="-vis-hidden">Follow us on Facebook</span>
                             </a>
                         </li>
                         <li class="social-list__item">
-                            <a href="#">
-                                <svg class="icon icon-twitter"><use xlink:href="<?= Url::current(true); ?>#icon-twitter"></use></svg>
+                            <?php echo SocialNetworking::pageLink('twitter'); ?>
+                                <?php include 'skin/default/images/icon-system/icon_twitter.svg';  ?>
                                 <span class="-vis-hidden">Follow us on Twitter</span>
                             </a>
                         </li>
                         <li class="social-list__item">
-                            <a href="#">
-                                <svg class="icon icon-instagram"><use xlink:href="<?= Url::current(true); ?>#icon-instagram"></use></svg>
+                            <?php echo SocialNetworking::pageLink('instagram'); ?>
+                                <?php include 'skin/default/images/icon-system/icon_instagram.svg';  ?>
                                 <span class="-vis-hidden">Follow us on Instagram</span>
                             </a>
                         </li>
                         <li class="social-list__item">
-                            <a href="#">
-                                <svg class="icon icon-youtube"><use xlink:href="<?= Url::current(true); ?>#icon-youtube"></use></svg>
+                            <?php echo SocialNetworking::pageLink('youtube'); ?>
+                                <?php include 'skin/default/images/icon-system/icon_youtube.svg';  ?>
                                 <span class="-vis-hidden">Follow us on YouTube</span>
                             </a>
                         </li>
                         <li class="social-list__item">
                             <a href="#">
-                                <svg class="icon icon-pinterest"><use xlink:href="<?= Url::current(true); ?>#icon-pinterest"></use></svg>
+                                <?php include 'skin/default/images/icon-system/icon_pinterest.svg';  ?>
                                 <span class="-vis-hidden">Follow us on Pinterest</span>
                             </a>
                         </li>
