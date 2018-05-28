@@ -86,7 +86,13 @@ class PatternCodeHelper extends \PatternLab\PatternData\Helper {
 				if (isset($patternStoreData["patternRaw"])) {
 					
 					$header  = (!$this->exportClean) ? $patternLoader->render(array("pattern" => $patternHead, "data" => $data)) : "";
-					$code    = $patternLoader->render(array("pattern" => $patternStoreData["patternRaw"], "data" => $data));
+					try {
+						$code    = $patternLoader->render(array("pattern" => $patternStoreData["patternRaw"], "data" => $data));
+					} catch (\RuntimeException $ex) {
+						echo "Exception while compiling pattern {$patternData['patternName']}", PHP_EOL;
+						echo "Error: {$ex->getMessage()}", PHP_EOL;
+						echo "Stack: ", print_r($ex->getTrace(), true), PHP_EOL;
+					}
 					$footer  = (!$this->exportClean) ? $patternLoader->render(array("pattern" => $patternFoot, "data" => $data)) : "";
 					
 					PatternData::setPatternOption($patternStoreKey,"header",$header);

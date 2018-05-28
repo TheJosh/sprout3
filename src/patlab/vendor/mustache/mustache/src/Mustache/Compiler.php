@@ -507,6 +507,7 @@ class Mustache_Compiler
 
     const VARIABLE = '
         $value = $this->resolveValue($context->%s(%s), $context);%s
+        if (!is_scalar($value)) { throw new \RuntimeException("Non-scalar value returned from data.json for %s: " . print_r($value, true)); }
         $buffer .= %s%s;
     ';
 
@@ -527,7 +528,7 @@ class Mustache_Compiler
         $filters = $this->getFilters($filters, $level);
         $value   = $escape ? $this->getEscape() : '$value';
 
-        return sprintf($this->prepare(self::VARIABLE, $level), $method, $id, $filters, $this->flushIndent(), $value);
+        return sprintf($this->prepare(self::VARIABLE, $level), $method, $id, $filters, $id, $this->flushIndent(), $value);
     }
 
     const FILTER = '
