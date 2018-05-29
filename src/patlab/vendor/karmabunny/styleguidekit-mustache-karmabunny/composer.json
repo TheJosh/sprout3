@@ -1,5 +1,5 @@
 {
-  "name":             "pattern-lab/styleguidekit-mustache-default",
+  "name":             "karmabunny/styleguidekit-mustache-karmabunny",
   "description":      "The default Mustache-based StyleguideKit for Pattern Lab. Contains styles and mark-up for Pattern Lab's front-end.",
   "keywords":         ["mustache", "pattern lab", "styleguide"],
   "homepage":         "http://patternlab.io",
