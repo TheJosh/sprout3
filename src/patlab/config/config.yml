@@ -31,5 +31,5 @@ lineageMatch: '{{>([ ]+)?([A-Za-z0-9-_]+)(?:\:[A-Za-z0-9-]+)?(?:(| )\(.*)?([ ]+)
 lineageMatchKey: 2
 patternExtension: mustache
 mustacheHelperExt: helper.php
-styleguideKit: pattern-lab/styleguidekit-mustache-default
-styleguideKitPath: vendor/pattern-lab/styleguidekit-mustache-default
+styleguideKit: karmabunny/styleguidekit-mustache-default
+styleguideKitPath: vendor/karmabunny/styleguidekit-mustache-default

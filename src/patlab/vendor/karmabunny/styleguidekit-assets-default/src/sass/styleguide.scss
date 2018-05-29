@@ -904,7 +904,7 @@ $sg-border-radius-med : 6px;
 */
 .sg-pattern-title {
     font-family: $sg-font !important;
-    font-size: 1.6rem !important;
+    font-size: 0.85rem !important;
     line-height: 1 !important;
     font-weight: bold !important;
     margin: 0 !important;
@@ -1134,7 +1134,7 @@ $sg-border-radius-med : 6px;
 * 1) This is an optional description that sits below the category title.
 */
 .sg-pattern-category-body {
-    font-size: 80%;
+    font-size: 85%;
     line-height: 1.3;
 
     &:empty {
