@@ -1,3 +1,24 @@
+@-webkit-viewport {
+    width: device-width;
+    zoom: 1.0;
+}
+@-moz-viewport {
+    width: device-width;
+    zoom: 1.0;
+}
+@-ms-viewport {
+    width: device-width;
+    zoom: 1.0;
+}
+@-o-viewport {
+    width: device-width;
+    zoom: 1.0;
+}
+@viewport {
+    width: device-width;
+    zoom: 1.0;
+}
+
 
 /* ------------------------------------------------------
 Variables for easy find and replace
@@ -92,23 +113,162 @@ Table of Contents for search based navigation
 **** Box Model Reset
 ------------------------------------------------------ */
 
-
+html {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: inherit;
+            box-sizing: inherit;
+}
 
 /* ------------------------------------------------------
 **** Breakpoints
 ------------------------------------------------------ */
 
+/* BP Smaller */
+@media screen and (min-width: 35em) { /* 560px */
 
+}
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+
+}
+
+/* BP medium */
+@media only screen and (min-width: 62em) { /* 992px */
+
+}
+
+/* BP large */
+@media only screen and (min-width: 75em) { /* 1200px */
+
+}
 
 /* ------------------------------------------------------
 **** Typography
 ------------------------------------------------------ */
 
+html {
+    font-size: 62.5%;
+}
+
+body {
+    line-height: 1.4;
+    font-size: 1.6em;
+    color: #222;
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 /* ---- Fonts ---- */
+
+/* - Montserrat - */
+
+/*
+font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+*/
+
+/* Light (used as regular) */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/montserrat/montserrat-light-webfont.eot');
+    src: url('../fonts/montserrat/montserrat-light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/montserrat/montserrat-light-webfont.woff2') format('woff2'),
+    url('../fonts/montserrat/montserrat-light-webfont.woff') format('woff'),
+    url('../fonts/montserrat/montserrat-light-webfont.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Regular (used as semibold) */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/montserrat/montserrat-regular-webfont.eot');
+    src: url('../fonts/montserrat/montserrat-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/montserrat/montserrat-regular-webfont.woff2') format('woff2'),
+    url('../fonts/montserrat/montserrat-regular-webfont.woff') format('woff'),
+    url('../fonts/montserrat/montserrat-regular-webfont.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* Semi bold (used as bold) */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/montserrat/montserrat-semibold-webfont.eot');
+    src: url('../fonts/montserrat/montserrat-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/montserrat/montserrat-semibold-webfont.woff2') format('woff2'),
+    url('../fonts/montserrat/montserrat-semibold-webfont.woff') format('woff'),
+    url('../fonts/montserrat/montserrat-semibold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: bold;
+}
 
 
 /* ---- Headings ---- */
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+    margin: 0 0 1.7rem 0;
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+h1 small,
+h2 small,
+h3 small,
+h4 small,
+h5 small,
+h6 small {
+    font-weight: normal;
+    line-height: 1;
+    color: #8a7b7b;
+}
 
+p + h1,
+p + h2,
+p + h3,
+p + h4,
+p + h5,
+p + h6 {
+    margin-top: 3rem;
+}
+
+
+h1, .h1 {
+    font-size: 2.8rem;
+}
+
+h2, .h2 {
+    font-size: 2.4rem;
+}
+
+h3, .h3 {
+    font-size: 1.9rem;
+}
+
+h4, .h4 {
+    font-size: 1.8rem;
+}
+
+h5, .h5 {
+    font-size: 1.7rem;
+}
+
+h6, .h6 {
+    font-size: 1.6rem;
+}
 
 .heading-inline {
     display: inline;
@@ -116,27 +276,256 @@ Table of Contents for search based navigation
     padding: 0;
 }
 
+p,
+ol,
+ul,
+dl,
+address {
+    margin: 0 0 1.5rem;
+}
 
+small {
+    font-size: 1.28rem;
+}
 
 
 /* ---- Lists ---- */
+ul,
+ol {
+    padding: 0 0 0 2rem;
+}
+
+li ul,
+li ol {
+    margin: 1rem 0;
+}
+
+ul.inline,
+ol.inline {
+    list-style-type: none;
+    margin-left: 0;
+}
+ul.inline > li,
+ol.inline > li {
+    display: inline-block;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+ol {
+    list-style-type: none;
+    counter-reset: item;
+}
+
+ol ul {
+    list-style-type: disc;
+}
+
+ol > li {
+    display: table;
+    counter-increment: item;
+    margin-bottom: 0.6em;
+}
+
+ol > li:before {
+    content: counters(item, ".") ". ";
+    display: table-cell;
+    padding-right: 0.6em;
+}
+
+li ol > li {
+    margin: 0;
+}
+
+li ol > li:before {
+    content: counters(item, ".") " ";
+}
 
 
 /* ---- Breadcrumbs ---- */
+.breadcrumb {
+    list-style: none;
+    margin: 1.5rem 0;
+    padding: 0;
+    font-size: 1.4rem;
+    color: #848484;
+}
+.breadcrumb > li {
+    display: inline;
+}
+.breadcrumb > li:before {
+    content: "\00a0/\00a0";
+}
+.breadcrumb > li:first-child:before {
+    content: none;
+}
 
 
 /* ---- Blockquotes ---- */
+blockquote {
+    margin: 1.5rem 0;
+    padding: 20px 25px 20px;
+    background: #f6f6f6;
+    font-style: italic;
+    position: relative;
+    clear: both;
+}
+
+blockquote *:first-child {
+    margin-top: 0;
+}
+
+blockquote *:last-child {
+    margin-bottom: 0;
+}
+
+blockquote:before,
+blockquote:after {
+    position: absolute;
+    font-size: 13rem;
+    display: block;
+    height: 25px;
+    width: 50px;
+    color: #35ab75;
+    font-style: italic;
+    line-height: 10px;
+    font-family: "Big Caslon","Book Antiqua","Palatino Linotype",Georgia,serif;
+}
+
+blockquote:before {
+    content: '\201C';
+    top: 38px;
+    left: -8px;
+}
+
+blockquote:after {
+    content: '\201D';
+    bottom: -36px;
+    right: 18px;
+}
+
+/* BP medium */
+@media only screen and (min-width: 62em) { /* 992px */
+    .blockquote--left {
+        float: left;
+        width: 45%;
+        margin-left: 0px;
+        margin-right: 20px;
+        clear: right;
+    }
+
+    .blockquote--right {
+        float: right;
+        width: 45%;
+        margin-left: 20px;
+        margin-right: 0px;
+        clear: left;
+    }
+}
 
 
 /* ---- HR ---- */
-
-
+hr {
+    -webkit-box-sizing: content-box;
+            box-sizing: content-box;
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 2em 0;
+    padding: 0;
+}
 
 
 /* ---- Text level elements ---- */
+abbr[title] {
+    border-bottom: 1px dotted #c6bfbf;
+    cursor: help;
+}
+
+b, strong {
+    font-weight: bold;
+}
+
+dfn {
+    font-style: italic;
+}
+
+ins {
+    background-color: #f6f6f6;
+    color: #473f3f;
+    text-decoration: none;
+}
+
+mark {
+    background-color: #f6f6f6;
+    color: #473f3f;
+    font-style: italic;
+    font-weight: bold;
+}
+
+pre,
+code,
+kbd,
+samp {
+    font-family: 'Monaco', 'Courier New', monospace;
+    color: #484040;
+    background: #efefef;
+    background: rgba(0, 0, 0, .07);
+    padding: 0 2px;
+    margin: 0 -2px;
+}
+
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -.5em;
+}
+
+sub {
+    bottom: -.25em;
+}
 
 
 /* ---- Links ---- */
+a {
+    color: #35ab75;
+    word-break: break-word;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #2d9c69;
+}
+
+/* Address `outline` inconsistency between Chrome and other browsers. */
+a:focus {
+    outline: thin dotted;
+}
+
+/* Improve readability when focused and also mouse hovered in all browsers. */
+a:active,
+a:hover {
+    outline: 0;
+}
+
+/* Include file type and size in document links */
+a.document::after {
+    content: " (" attr(data-ext) " " attr(data-size) ")";
+}
 
 
 /* ------------------------------------------------------
@@ -201,9 +590,154 @@ Table of Contents for search based navigation
 }
 
 /* ---- Buttons ---- */
+.button {
+    display: inline-block;
+    margin-bottom: 0;
+    white-space: nowrap;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background-color: #35ab75;
+    text-decoration: none;
+    border-radius: 3px;
+    border: none;
+    text-transform: lowercase;
+    outline: none;
+    opacity: 1;
+    position: relative;
+    font-weight: 600;
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    line-height: 1.2;
+}
+
+/* Small */
+.button,
+.button.button-small {
+    font-size: 1.4rem;
+    padding: 8px 10px 8px;
+}
 
 
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+    /* Regular */
+    .button {
+        padding: 12px 18px 12px;
+        font-size: 1.5rem;
+    }
 
+
+}
+
+/* BP medium */
+@media only screen and (min-width: 62em) { /* 992px */
+    /* Large */
+    .button.button-large {
+        font-size: 1.9rem;
+        padding: 14px 26px;
+    }
+}
+
+
+/* Green (default) */
+.button,
+.button.button-green {
+    background-color: #35ab75;
+    color: #fff;
+}
+.button.icon-before:before,
+.button.icon-after:after,
+.button.button-green.icon-before:before,
+.button.button-green.icon-after:after {
+    color: #0d7344;
+}
+.button:hover,
+.button.button-green:hover,
+.button:focus,
+.button.button-green:focus {
+    background-color: #2C9867;
+    color: #fff;
+}
+
+/* Orange */
+.button.button-orange {
+    background-color: #F77450;
+    color: #fff;
+}
+.button.button-orange.icon-before:before,
+.button.button-orange.icon-after:after {
+    color: #CC4925;
+}
+.button.button-orange:hover,
+.button.button-orange:focus {
+    background-color: #E45E3A;
+    color: #fff;
+}
+
+/* Red */
+.button.button-red {
+    background-color: #DC5959;
+    color: #fff;
+}
+.button.button-red.icon-before:before,
+.button.button-red.icon-after:after {
+    color: #A22B2B;
+}
+.button.button-red:hover,
+.button.button-red:focus {
+    background-color: #CC4C4C;
+    color: #fff;
+}
+
+/* Grey */
+.button.button-grey {
+    background-color: #D0D3DA;
+    color: #24292f;
+}
+.button.button-grey.icon-before:before,
+.button.button-grey.icon-after:after {
+    color: #81848A;
+}
+.button.button-grey:hover,
+.button.button-grey:focus {
+    background-color: #BCBFC5;
+    color: #24292f;
+}
+
+/* Blue */
+.button.button-blue {
+    background-color: #596474;
+    color: #fff;
+}
+.button.button-blue.icon-before:before,
+.button.button-blue.icon-after:after {
+    color: #2A333E;
+}
+.button.button-blue:hover,
+.button.button-blue:focus {
+    background-color: #4D5765;
+    color: #fff;
+}
+
+/* Block */
+.button-block {
+    display: block;
+    width: 100%;
+}
+
+/* Disabled/unavailable button style */
+.button[disabled],
+.button-disabled,
+.button-disabled:hover,
+.button-disabled:focus,
+.button-disabled:active {
+    border: none;
+    opacity: 0.4;
+    cursor: default;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+}
 
 /* Firefox: Get rid of the inner focus border */
 .button::-moz-focus-inner {

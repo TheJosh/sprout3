@@ -1,5 +1,5 @@
 ---
-title: Lists
+title: Search
 ---
 
 [Insert description here]

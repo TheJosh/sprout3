@@ -37,22 +37,39 @@
 
 @import "../_patterns/00-atoms/text/lists";
 
+@import "../_patterns/00-atoms/text/inline-list";
 
 
-/* ---- Buttons ---- */
 
+/* ---- Buttons and links ---- */
+
+
+
+@import "../_patterns/00-atoms/buttons-and-links/button";
 
 
 
 
 /* ---- Images ---- */
 
+@import "../_patterns/00-atoms/images/images";
 
 
 
 /* ---- Forms ---- */
 
 
+
+
+
+/* ---- Helpers ---- */
+
+
+@import "../_patterns/00-atoms/helpers/clearfix";
+
+@import "../_patterns/00-atoms/helpers/floats";
+
+@import "../_patterns/00-atoms/helpers/pseudo-element-content";
 
 
 /* ------------------------------------------------------
@@ -63,11 +80,12 @@
 
 @import "../_patterns/01-molecules/text/blockquote";
 
+@import "../_patterns/01-molecules/text/expando";
+
 
 
 /* ---- Lists ---- */
 
-@import "../_patterns/01-molecules/lists/inline-list";
 
 @import "../_patterns/01-molecules/lists/sidebar-linklist";
 
@@ -77,6 +95,7 @@
 /* ---- Navigation ---- */
 
 
+@import "../_patterns/01-molecules/navigation/breadcrumb";
 
 
 /* ---- Forms ---- */

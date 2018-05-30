@@ -1,5 +1,5 @@
 ---
-title: Lists
+title: Expando sections
 ---
 
 [Insert description here]

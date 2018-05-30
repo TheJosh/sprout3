@@ -73,6 +73,19 @@
   },
   "seconds": "31",
   "company": {
-    "name": "Testing this thing"
-  }
+    "name": "Company Name"
+  },
+  "btnText": "Button",
+  "linkText": "Find out more",
+  "breadcrumb" : [
+    {
+    "link": "#",
+    "text": "Home"
+    },
+    {
+    "link": "#",
+    "text": "About"
+    }
+  ],
+  "breadcrumbCurrent": "Current Page"
 }

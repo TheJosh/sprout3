@@ -10630,6 +10630,45 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/_button.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/_button.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons\/_button.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons\/_button.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons\/_text-button.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons\/_text-button.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/skin\/default\/_patterns\/00-atoms\/buttons\/button.md": {
 		"cB": 0,
 		"cS": 0,
@@ -10704,6 +10743,58 @@
 		"oA": 0,
 		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons\/text-button.mustache",
 		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_clearfix.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/_clearfix.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_floats.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/_floats.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_pseudo-element-content.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/_pseudo-element-content.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/images\/_images.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/images\/_images.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/skin\/default\/_patterns\/00-atoms\/images\/logo-reversed.md": {
 		"cB": 0,
@@ -10790,6 +10881,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/skin\/default\/_patterns\/00-atoms\/text\/_inline-elements.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/text\/_inline-list.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/text\/_inline-list.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -11077,6 +11181,19 @@
 		"oAP": "\/skin\/default\/_patterns\/01-molecules\/lists\/inline-list.mustache",
 		"oF": 0
 		},
+	"\/skin\/default\/_patterns\/01-molecules\/navigation\/breadcrumb.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/navigation\/breadcrumb.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/skin\/default\/_patterns\/01-molecules\/navigation\/footer-nav.md": {
 		"cB": 0,
 		"cS": 0,
@@ -11161,6 +11278,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/_blockquote.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/text\/_expando.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/_expando.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

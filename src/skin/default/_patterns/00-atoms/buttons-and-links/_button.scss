@@ -1,0 +1,151 @@
+
+.button {
+    display: inline-block;
+    margin-bottom: 0;
+    white-space: nowrap;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background-color: #35ab75;
+    text-decoration: none;
+    border-radius: 3px;
+    border: none;
+    text-transform: lowercase;
+    outline: none;
+    opacity: 1;
+    position: relative;
+    font-weight: 600;
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    line-height: 1.2;
+}
+
+/* Small */
+.button,
+.button.button-small,
+.button.button--small {
+    font-size: 1.4rem;
+    padding: 8px 10px 8px;
+}
+
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+    /* Regular */
+    .button {
+        padding: 12px 18px 12px;
+        font-size: 1.5rem;
+    }
+
+}
+
+/* BP medium */
+@media only screen and (min-width: 62em) { /* 992px */
+    /* Large */
+    .button.button-large,
+    .button.button--large {
+        font-size: 1.9rem;
+        padding: 14px 26px;
+    }
+}
+
+
+/* Green */
+.button {
+    background-color: #35ab75;
+    color: #fff;
+}
+.button.icon-before:before,
+.button.icon-after:after {
+    color: #0d7344;
+}
+.button:hover,
+.button:focus {
+    background-color: #2C9867;
+    color: #fff;
+}
+
+/* Orange */
+.button.button--alt {
+    background-color: #F77450;
+    color: #fff;
+}
+.button.button--alt.icon-before:before,
+.button.button--alt.icon-after:after {
+    color: #CC4925;
+}
+.button.button--alt:hover,
+.button.button--alt:focus {
+    background-color: #E45E3A;
+    color: #fff;
+}
+
+/* Red */
+.button.button--negative {
+    background-color: #DC5959;
+    color: #fff;
+}
+.button.button--negative.icon-before:before,
+.button.button--negative.icon-after:after {
+    color: #A22B2B;
+}
+.button.button--negative:hover,
+.button.button--negative:focus {
+    background-color: #CC4C4C;
+    color: #fff;
+}
+
+/* Grey */
+.button.button--neutral {
+    background-color: #D0D3DA;
+    color: #24292f;
+}
+.button.button--neutral.icon-before:before,
+.button.button--neutral.icon-after:after {
+    color: #81848A;
+}
+.button.button--neutral:hover,
+.button.button--neutral:focus {
+    background-color: #35ab4d;
+    color: #24292f;
+}
+
+/* Green */
+.button.button--positive {
+    background-color: #28943e;
+    color: #fff;
+}
+.button.button--positive.icon-before:before,
+.button.button--positive.icon-after:after {
+    color: #0d7344;
+}
+.button.button--positive:hover,
+.button.button--positive:focus {
+    background-color: #BCBFC5;
+    color: #fff;
+}
+
+/* Block */
+.button--block {
+    display: block;
+    width: 100%;
+}
+
+/* Disabled/unavailable button style */
+.button[disabled],
+.button--disabled,
+.button--disabled:hover,
+.button--disabled:focus,
+.button--disabled:active {
+    border: none;
+    opacity: 0.4;
+    cursor: default;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+}
+
+/* Firefox: Get rid of the inner focus border */
+.button::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
