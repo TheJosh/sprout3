@@ -1,13 +1,19 @@
 <!DOCTYPE html>
-<html class="{{ htmlClass }}">
+<html class="no-js {{ htmlClass }}">
   <head>
     <title>{{ title }}</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width" />
 
+    <link href="../../css/common.css{{ cacheBuster }}" rel="stylesheet">
+    <script src="../../js/common.js{{ cacheBuster }}" type="text/javascript"></script>
+
     <link rel="stylesheet" href="../../css/global.css?{{ cacheBuster }}" media="all" />
     <link rel="stylesheet" href="../../css/pattern-scaffolding.css?{{ cacheBuster }}" media="all" />
 
+    <script src="../../js/jquery.magnific-popup.min.js?{{ cacheBuster }}" type="text/javascript"></script>
+    <script src="../../js/modernizr.js?{{ cacheBuster }}" type="text/javascript"></script>
+    <script src="../../js/skin.js?{{ cacheBuster }}" type="text/javascript"></script>
     <!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
     {{{ patternLabHead }}}
     <!-- End Pattern Lab -->
