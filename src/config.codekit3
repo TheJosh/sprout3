@@ -12074,6 +12074,19 @@
 		"oAP": "\/skin\/default\/_patterns\/00-atoms\/00-global\/03-fonts.mustache",
 		"oF": 0
 		},
+	"\/skin\/default\/_patterns\/00-atoms\/00-global\/_animation.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/00-global\/_animation.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/skin\/default\/_patterns\/00-atoms\/00-global\/_breakpoints.scss": {
 		"aP": 1,
 		"bl": 0,

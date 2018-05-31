@@ -1,0 +1,42 @@
+@-webkit-keyframes fadeInDown {
+    from {
+        opacity: 0;
+        -webkit-transform: translateY(-30px);
+                transform: translateY(-30px);
+    }
+}
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        -webkit-transform: translateY(-30px);
+                transform: translateY(-30px);
+    }
+}
+
+.animate-fade {
+    animation: fadeInDown 400ms ease-in-out;
+}
+
+.demo-animate .demo-animate__item {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.demo-animate:hover .demo-animate__item {
+    clip: auto;
+    height: auto;
+    overflow: visible;
+    position: relative;
+    width: auto;
+    padding: 5px;
+    -webkit-animation: fadeInDown 400ms ease-in-out;
+            animation: fadeInDown 400ms ease-in-out;
+    -webkit-animation-fill-mode: forwards;
+            animation-fill-mode: forwards;
+}
