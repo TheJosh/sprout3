@@ -309,37 +309,6 @@ Table of Contents for search based navigation
 
 
 /* ---- Highlight ---- */
-.highlight,
-.highlight--right,
-.highlight--left {
-    margin: 0 0 1.5rem;
-    padding: 30px;
-    background: #f6f6f6;
-    clear: both;
-}
-
-/* BP medium */
-@media only screen and (min-width: 62em) { /* 992px */
-    .highlight--left {
-        float: left;
-        width: 45%;
-        margin-right: 20px;
-        clear: right;
-    }
-
-    .highlight--right {
-        float: right;
-        width: 45%;
-        margin-left: 20px;
-        clear: left;
-    }
-}
-
-.highlight *:last-child,
-.highlight--right *:last-child,
-.highlight--left *:last-child {
-    margin-bottom: 0;
-}
 
 
 /* ---- Site Messages ---- */

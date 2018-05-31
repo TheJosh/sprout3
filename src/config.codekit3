@@ -3133,6 +3133,173 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/patlab\/public\/cache": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/patlab\/public\/cache",
+		"oF": 0
+		},
+	"\/patlab\/public\/config\/sprout.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/config\/sprout.php",
+		"oF": 0
+		},
+	"\/patlab\/public\/css\/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/.htaccess",
+		"oF": 0
+		},
+	"\/patlab\/public\/css\/cart.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/cart-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/common.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/common-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/flexboxgrid-ie9.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/flexboxgrid-ie9-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/flexboxgrid.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/flexboxgrid-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/frankenmenu.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/frankenmenu-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/global.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/global-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/global.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/global.css.map",
+		"oF": 0
+		},
+	"\/patlab\/public\/css\/global_original-unedited.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/global_original-unedited-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/global_original.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/global_original-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/magnific-popup.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/magnific-popup-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/normalize.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/normalize-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/partials\/_search_results.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/patlab\/public\/css\/partials\/_search_results-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/pattern-scaffolding-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/pattern-scaffolding-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/pattern-scaffolding.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/pattern-scaffolding-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/css\/richtext.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/css\/richtext-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/patlab\/public\/email.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -3146,6 +3313,90 @@
 		"oA": 1,
 		"oAP": "\/patlab\/public\/exception.php",
 		"oF": 1
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-light-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-light-webfont.eot",
+		"oF": 0
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-light-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-light-webfont.ttf",
+		"oF": 0
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-light-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-light-webfont.woff",
+		"oF": 0
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-light-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-light-webfont.woff2",
+		"oF": 0
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-regular-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-regular-webfont.eot",
+		"oF": 0
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-regular-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-regular-webfont.ttf",
+		"oF": 0
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-regular-webfont.woff",
+		"oF": 0
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-regular-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-regular-webfont.woff2",
+		"oF": 0
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-semibold-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-semibold-webfont.eot",
+		"oF": 0
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-semibold-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-semibold-webfont.ttf",
+		"oF": 0
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-semibold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-semibold-webfont.woff",
+		"oF": 0
+		},
+	"\/patlab\/public\/fonts\/montserrat\/montserrat-semibold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/fonts\/montserrat\/montserrat-semibold-webfont.woff2",
+		"oF": 0
 		},
 	"\/patlab\/public\/google_analytics.php": {
 		"cB": 0,
@@ -3161,6 +3412,317 @@
 		"oAP": "\/patlab\/public\/home.php",
 		"oF": 1
 		},
+	"\/patlab\/public\/images\/form-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/form-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icomoon\/demo-external-svg.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/images\/icomoon\/demo-external-svg.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/images\/icomoon\/demo-files\/demo.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/images\/icomoon\/demo-files\/demo-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/images\/icomoon\/demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/images\/icomoon\/demo.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/images\/icomoon\/Read Me.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/images\/icomoon\/Read Me.txt",
+		"oF": 0
+		},
+	"\/patlab\/public\/images\/icomoon\/selection.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/patlab\/public\/images\/icomoon\/selection-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/patlab\/public\/images\/icomoon\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/images\/icomoon\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/patlab\/public\/images\/icomoon\/SVG\/facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icomoon\/SVG\/facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icomoon\/SVG\/instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icomoon\/SVG\/instagram.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icomoon\/SVG\/pinterest.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icomoon\/SVG\/pinterest.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icomoon\/SVG\/search.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icomoon\/SVG\/search.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icomoon\/SVG\/twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icomoon\/SVG\/twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icomoon\/SVG\/youtube.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icomoon\/SVG\/youtube.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icomoon\/svgxuse.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/images\/icomoon\/svgxuse-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/images\/icomoon\/symbol-defs.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icomoon\/symbol-defs.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icon-system\/icon_calendar.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icon-system\/icon_calendar.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icon-system\/icon_email.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icon-system\/icon_email.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icon-system\/icon_facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icon-system\/icon_facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icon-system\/icon_instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icon-system\/icon_instagram.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icon-system\/icon_linkedin.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icon-system\/icon_linkedin.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icon-system\/icon_pinterest.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icon-system\/icon_pinterest.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icon-system\/icon_search.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icon-system\/icon_search.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icon-system\/icon_twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icon-system\/icon_twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/icon-system\/icon_youtube.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/icon-system\/icon_youtube.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/logo_email.gif": {
+		"ft": 4194304,
+		"iS": 860,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/images\/logo_email.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/patlab\/public\/images\/sprout-logo-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/sprout-logo-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/sprout-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/patlab\/public\/images\/sprout-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/patlab\/public\/images\/temp\/hero-banner.jpg": {
+		"ft": 16384,
+		"iS": 436022,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/images\/temp\/hero-banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/patlab\/public\/images\/temp\/promo-box1.jpg": {
+		"ft": 16384,
+		"iS": 62775,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/images\/temp\/promo-box1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/patlab\/public\/images\/temp\/promo-box2.jpg": {
+		"ft": 16384,
+		"iS": 45707,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/images\/temp\/promo-box2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/patlab\/public\/images\/temp\/promo-box3.jpg": {
+		"ft": 16384,
+		"iS": 56952,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/images\/temp\/promo-box3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/patlab\/public\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -3175,12 +3737,187 @@
 		"oAP": "\/patlab\/public\/inner.php",
 		"oF": 1
 		},
+	"\/patlab\/public\/js\/cart.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/cart-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/common.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/common-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/frankenmenu.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/frankenmenu-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/jquery.hoverIntent.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/jquery.hoverIntent-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/jquery.magnific-popup.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/jquery.magnific-popup.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/jquery.matchHeight-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/jquery.matchHeight-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/modernizr.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/modernizr-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/placeholders.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/placeholders.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/respond-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/respond-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/responsive-tables.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/responsive-tables-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/selectivizr-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/selectivizr-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/skin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/skin-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/superfish.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/superfish.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/patlab\/public\/js\/svgeezy.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/js\/svgeezy.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/patlab\/public\/latest-change.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/patlab\/public\/latest-change.txt",
 		"oF": 1
+		},
+	"\/patlab\/public\/partials\/_footer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/patlab\/public\/partials\/_footer.php",
+		"oF": 0
+		},
+	"\/patlab\/public\/partials\/_header.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/patlab\/public\/partials\/_header.php",
+		"oF": 0
+		},
+	"\/patlab\/public\/partials\/_hero-banner.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/patlab\/public\/partials\/_hero-banner.php",
+		"oF": 0
+		},
+	"\/patlab\/public\/partials\/_mobile-header.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/patlab\/public\/partials\/_mobile-header.php",
+		"oF": 0
+		},
+	"\/patlab\/public\/partials\/_promos-three.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/patlab\/public\/partials\/_promos-three.php",
+		"oF": 0
 		},
 	"\/patlab\/public\/patternlab-components\/packages\/pattern-lab-plugin-reload.json": {
 		"ft": 524288,
@@ -3199,6 +3936,804 @@
 		"oF": 1,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-00-brand-colors\/00-atoms-00-global-00-brand-colors.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-00-brand-colors\/00-atoms-00-global-00-brand-colors.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-00-brand-colors\/00-atoms-00-global-00-brand-colors.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-00-brand-colors\/00-atoms-00-global-00-brand-colors.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-00-brand-colors\/00-atoms-00-global-00-brand-colors.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-00-brand-colors\/00-atoms-00-global-00-brand-colors.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-01-neutral-colors\/00-atoms-00-global-01-neutral-colors.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-01-neutral-colors\/00-atoms-00-global-01-neutral-colors.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-01-neutral-colors\/00-atoms-00-global-01-neutral-colors.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-01-neutral-colors\/00-atoms-00-global-01-neutral-colors.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-01-neutral-colors\/00-atoms-00-global-01-neutral-colors.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-01-neutral-colors\/00-atoms-00-global-01-neutral-colors.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-02-utility-colors\/00-atoms-00-global-02-utility-colors.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-02-utility-colors\/00-atoms-00-global-02-utility-colors.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-02-utility-colors\/00-atoms-00-global-02-utility-colors.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-02-utility-colors\/00-atoms-00-global-02-utility-colors.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-02-utility-colors\/00-atoms-00-global-02-utility-colors.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-02-utility-colors\/00-atoms-00-global-02-utility-colors.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-03-fonts\/00-atoms-00-global-03-fonts.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-03-fonts\/00-atoms-00-global-03-fonts.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-03-fonts\/00-atoms-00-global-03-fonts.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-03-fonts\/00-atoms-00-global-03-fonts.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-03-fonts\/00-atoms-00-global-03-fonts.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-03-fonts\/00-atoms-00-global-03-fonts.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-01-base\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-01-base\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-01-button\/00-atoms-buttons-and-links-01-button.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-01-button\/00-atoms-buttons-and-links-01-button.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-01-button\/00-atoms-buttons-and-links-01-button.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-01-button\/00-atoms-buttons-and-links-01-button.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-01-button\/00-atoms-buttons-and-links-01-button.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-01-button\/00-atoms-buttons-and-links-01-button.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-02-button-options\/00-atoms-buttons-and-links-02-button-options.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-02-button-options\/00-atoms-buttons-and-links-02-button-options.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-02-button-options\/00-atoms-buttons-and-links-02-button-options.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-02-button-options\/00-atoms-buttons-and-links-02-button-options.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-02-button-options\/00-atoms-buttons-and-links-02-button-options.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-02-button-options\/00-atoms-buttons-and-links-02-button-options.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-forms\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-forms\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-clearfix\/00-atoms-helpers-clearfix.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-clearfix\/00-atoms-helpers-clearfix.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-clearfix\/00-atoms-helpers-clearfix.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-clearfix\/00-atoms-helpers-clearfix.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-clearfix\/00-atoms-helpers-clearfix.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-clearfix\/00-atoms-helpers-clearfix.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-floats\/00-atoms-helpers-floats.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-floats\/00-atoms-helpers-floats.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-floats\/00-atoms-helpers-floats.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-floats\/00-atoms-helpers-floats.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-floats\/00-atoms-helpers-floats.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-floats\/00-atoms-helpers-floats.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-images-logo-reversed\/00-atoms-images-logo-reversed.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-images-logo-reversed\/00-atoms-images-logo-reversed.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-images-logo-reversed\/00-atoms-images-logo-reversed.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-images-logo-reversed\/00-atoms-images-logo-reversed.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-images-logo-reversed\/00-atoms-images-logo-reversed.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-images-logo-reversed\/00-atoms-images-logo-reversed.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-images-logo\/00-atoms-images-logo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-images-logo\/00-atoms-images-logo.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-images-logo\/00-atoms-images-logo.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-images-logo\/00-atoms-images-logo.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-images-logo\/00-atoms-images-logo.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-images-logo\/00-atoms-images-logo.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-images\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-images\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-headings\/00-atoms-text-headings.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-headings\/00-atoms-text-headings.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-headings\/00-atoms-text-headings.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-headings\/00-atoms-text-headings.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-headings\/00-atoms-text-headings.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-headings\/00-atoms-text-headings.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-hr\/00-atoms-text-hr.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-hr\/00-atoms-text-hr.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-hr\/00-atoms-text-hr.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-hr\/00-atoms-text-hr.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-hr\/00-atoms-text-hr.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-hr\/00-atoms-text-hr.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-inline-elements\/00-atoms-text-inline-elements.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-inline-elements\/00-atoms-text-inline-elements.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-inline-elements\/00-atoms-text-inline-elements.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-inline-elements\/00-atoms-text-inline-elements.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-inline-elements\/00-atoms-text-inline-elements.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-inline-elements\/00-atoms-text-inline-elements.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-inline-list\/00-atoms-text-inline-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-inline-list\/00-atoms-text-inline-list.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-inline-list\/00-atoms-text-inline-list.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-inline-list\/00-atoms-text-inline-list.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-inline-list\/00-atoms-text-inline-list.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-inline-list\/00-atoms-text-inline-list.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-lists\/00-atoms-text-lists.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-lists\/00-atoms-text-lists.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-lists\/00-atoms-text-lists.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-lists\/00-atoms-text-lists.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-lists\/00-atoms-text-lists.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-lists\/00-atoms-text-lists.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-paragraph\/00-atoms-text-paragraph.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-paragraph\/00-atoms-text-paragraph.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-paragraph\/00-atoms-text-paragraph.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-paragraph\/00-atoms-text-paragraph.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-paragraph\/00-atoms-text-paragraph.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-paragraph\/00-atoms-text-paragraph.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-preformatted-text\/00-atoms-text-preformatted-text.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-preformatted-text\/00-atoms-text-preformatted-text.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-preformatted-text\/00-atoms-text-preformatted-text.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-preformatted-text\/00-atoms-text-preformatted-text.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-preformatted-text\/00-atoms-text-preformatted-text.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-preformatted-text\/00-atoms-text-preformatted-text.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-search\/01-molecules-forms-search.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-search\/01-molecules-forms-search.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-search\/01-molecules-forms-search.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-search\/01-molecules-forms-search.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-search\/01-molecules-forms-search.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-search\/01-molecules-forms-search.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-lists-inline-list\/01-molecules-lists-inline-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-lists-inline-list\/01-molecules-lists-inline-list.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-lists-inline-list\/01-molecules-lists-inline-list.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-lists-inline-list\/01-molecules-lists-inline-list.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-lists-inline-list\/01-molecules-lists-inline-list.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-lists-inline-list\/01-molecules-lists-inline-list.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-lists\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-lists\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-breadcrumb\/01-molecules-navigation-breadcrumb.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-breadcrumb\/01-molecules-navigation-breadcrumb.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-breadcrumb\/01-molecules-navigation-breadcrumb.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-breadcrumb\/01-molecules-navigation-breadcrumb.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-breadcrumb\/01-molecules-navigation-breadcrumb.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-breadcrumb\/01-molecules-navigation-breadcrumb.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-footer-nav\/01-molecules-navigation-footer-nav.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-footer-nav\/01-molecules-navigation-footer-nav.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-footer-nav\/01-molecules-navigation-footer-nav.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-footer-nav\/01-molecules-navigation-footer-nav.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-footer-nav\/01-molecules-navigation-footer-nav.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-footer-nav\/01-molecules-navigation-footer-nav.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-pagination\/01-molecules-navigation-pagination.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-pagination\/01-molecules-navigation-pagination.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-pagination\/01-molecules-navigation-pagination.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-pagination\/01-molecules-navigation-pagination.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-pagination\/01-molecules-navigation-pagination.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-pagination\/01-molecules-navigation-pagination.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-primary-nav\/01-molecules-navigation-primary-nav.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-primary-nav\/01-molecules-navigation-primary-nav.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-primary-nav\/01-molecules-navigation-primary-nav.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-primary-nav\/01-molecules-navigation-primary-nav.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation-primary-nav\/01-molecules-navigation-primary-nav.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation-primary-nav\/01-molecules-navigation-primary-nav.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-navigation\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-navigation\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-01-blockquote\/01-molecules-text-01-blockquote.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-01-blockquote\/01-molecules-text-01-blockquote.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-01-blockquote\/01-molecules-text-01-blockquote.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-01-blockquote\/01-molecules-text-01-blockquote.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-01-blockquote\/01-molecules-text-01-blockquote.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-01-blockquote\/01-molecules-text-01-blockquote.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-02-blockquote-options\/01-molecules-text-02-blockquote-options.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-02-blockquote-options\/01-molecules-text-02-blockquote-options.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-02-blockquote-options\/01-molecules-text-02-blockquote-options.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-02-blockquote-options\/01-molecules-text-02-blockquote-options.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-02-blockquote-options\/01-molecules-text-02-blockquote-options.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-02-blockquote-options\/01-molecules-text-02-blockquote-options.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-expando\/01-molecules-text-expando.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-expando\/01-molecules-text-expando.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-expando\/01-molecules-text-expando.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-expando\/01-molecules-text-expando.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-expando\/01-molecules-text-expando.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-expando\/01-molecules-text-expando.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-site-messages\/01-molecules-text-site-messages.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-site-messages\/01-molecules-text-site-messages.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-site-messages\/01-molecules-text-site-messages.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-site-messages\/01-molecules-text-site-messages.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-site-messages\/01-molecules-text-site-messages.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-site-messages\/01-molecules-text-site-messages.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-00-global-footer\/02-organisms-00-global-footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-00-global-footer\/02-organisms-00-global-footer.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-00-global-footer\/02-organisms-00-global-footer.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-00-global-footer\/02-organisms-00-global-footer.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-00-global-footer\/02-organisms-00-global-footer.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-00-global-footer\/02-organisms-00-global-footer.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-00-global-header\/02-organisms-00-global-header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-00-global-header\/02-organisms-00-global-header.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-00-global-header\/02-organisms-00-global-header.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-00-global-header\/02-organisms-00-global-header.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-00-global-header\/02-organisms-00-global-header.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-00-global-header\/02-organisms-00-global-header.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-00-global\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-00-global\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/04-templates-homepage\/04-templates-homepage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/04-templates-homepage\/04-templates-homepage.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/04-templates-homepage\/04-templates-homepage.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/04-templates-homepage\/04-templates-homepage.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/04-templates-homepage\/04-templates-homepage.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/04-templates-homepage\/04-templates-homepage.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/05-pages-00-homepage\/05-pages-00-homepage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/05-pages-00-homepage\/05-pages-00-homepage.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/05-pages-00-homepage\/05-pages-00-homepage.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/05-pages-00-homepage\/05-pages-00-homepage.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/05-pages-00-homepage\/05-pages-00-homepage.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/05-pages-00-homepage\/05-pages-00-homepage.mustache",
+		"oF": 0
 		},
 	"\/patlab\/public\/popup.php": {
 		"cB": 0,
@@ -4398,274 +5933,274 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/.bowerrc": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/.bowerrc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/.bowerrc",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/.bowerrc",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/.editorconfig": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/.editorconfig": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/.editorconfig",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/.editorconfig",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/.gitignore": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/.gitignore",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/.gitignore",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/.jshintrc": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/.jshintrc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/.jshintrc",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/.jshintrc",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/bower.json": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/bower-min.json",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/bower-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/composer.json": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/composer.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/composer-min.json",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/composer-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/index.html": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/index.html",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/index.html",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/classList.min.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/classList.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/classList.min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/classList.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/EventEmitter.min.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/EventEmitter.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/EventEmitter.min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/EventEmitter.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/hogan-3.0.2.min.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/hogan-3.0.2.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/hogan-3.0.2.min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/hogan-3.0.2.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/jquery.min.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/jquery.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/jquery.min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/jquery.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/jwerty.min.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/jwerty.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/jwerty.min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/jwerty.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/prism.min.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/prism.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/prism.min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/prism.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/script.min.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/script.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/script.min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/script.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/typeahead.bundle.min.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/typeahead.bundle.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/bower_components\/typeahead.bundle.min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/bower_components\/typeahead.bundle.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/css\/prism-typeahead.css": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/css\/prism-typeahead.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/css\/prism-typeahead-min.css",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/css\/prism-typeahead-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/css\/prism-typeahead.min.css": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/css\/prism-typeahead.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/css\/prism-typeahead.min-min.css",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/css\/prism-typeahead.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/css\/styleguide.css": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/css\/styleguide.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/css\/styleguide-min.css",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/css\/styleguide-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/css\/styleguide.min.css": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/css\/styleguide.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/css\/styleguide.min-min.css",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/css\/styleguide.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/fonts\/icomoon.eot": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/fonts\/icomoon.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/fonts\/icomoon.eot",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/fonts\/icomoon.eot",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/fonts\/icomoon.svg": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/fonts\/icomoon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/fonts\/icomoon.svg",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/fonts\/icomoon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/fonts\/icomoon.ttf": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/fonts\/icomoon.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/fonts\/icomoon.ttf",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/fonts\/icomoon.ttf",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/fonts\/icomoon.woff": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/fonts\/icomoon.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/fonts\/icomoon.woff",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/fonts\/icomoon.woff",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/js\/patternlab-pattern.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/js\/patternlab-pattern.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/js\/patternlab-pattern-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/js\/patternlab-pattern-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/js\/patternlab-pattern.min.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/js\/patternlab-pattern.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/js\/patternlab-pattern.min-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/js\/patternlab-pattern.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/js\/patternlab-viewer.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/js\/patternlab-viewer.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/js\/patternlab-viewer-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/js\/patternlab-viewer-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/js\/patternlab-viewer.min.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/js\/patternlab-viewer.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/dist\/styleguide\/js\/patternlab-viewer.min-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/dist\/styleguide\/js\/patternlab-viewer.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/gulpfile.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/gulpfile.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/gulpfile-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/gulpfile-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/LICENSE": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/LICENSE",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/LICENSE",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/package.json": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/package.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/package-min.json",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/package-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/README.md": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -4674,7 +6209,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/README.html",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -4683,199 +6218,199 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/css\/prism-okaidia.css": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/css\/prism-okaidia.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/css\/prism-okaidia-min.css",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/css\/prism-okaidia-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/html\/index.html": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/html\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/html\/index.html",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/html\/index.html",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/html\/partials\/base-template.html": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/html\/partials\/base-template.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/html\/partials\/base-template.html",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/html\/partials\/base-template.html",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/html\/partials\/ish-controls.html": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/html\/partials\/ish-controls.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/html\/partials\/ish-controls.html",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/html\/partials\/ish-controls.html",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/html\/partials\/panel-code-template.html": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/html\/partials\/panel-code-template.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/html\/partials\/panel-code-template.html",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/html\/partials\/panel-code-template.html",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/html\/partials\/pattern-nav.html": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/html\/partials\/pattern-nav.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/html\/partials\/pattern-nav.html",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/html\/partials\/pattern-nav.html",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/data-saver.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/data-saver.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/data-saver-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/data-saver-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/layout.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/layout.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/layout-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/layout-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/modal-styleguide.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/modal-styleguide.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/modal-styleguide-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/modal-styleguide-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/modal-viewer.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/modal-viewer.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/modal-viewer-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/modal-viewer-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/panels-util.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/panels-util.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/panels-util-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/panels-util-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/panels-viewer.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/panels-viewer.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/panels-viewer-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/panels-viewer-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/panels.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/panels.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/panels-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/panels-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/pattern-finder.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/pattern-finder.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/pattern-finder-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/pattern-finder-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/plugin-loader.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/plugin-loader.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/plugin-loader-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/plugin-loader-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/postmessage.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/postmessage.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/postmessage-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/postmessage-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/prism-languages.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/prism-languages.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/prism-languages-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/prism-languages-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/styleguide.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/styleguide.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/styleguide-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/styleguide-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/url-handler.js": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/url-handler.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/js\/url-handler-min.js",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/js\/url-handler-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/sass\/styleguide.css": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/sass\/styleguide.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/sass\/styleguide-min.css",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/sass\/styleguide-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/sass\/styleguide.css.map": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/sass\/styleguide.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/sass\/styleguide.css.map",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/sass\/styleguide.css.map",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/sass\/styleguide.scss": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/sass\/styleguide.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -4883,42 +6418,42 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-default\/src\/sass\/styleguide.css",
-		"oF": 2,
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-assets-karmabunny\/src\/sass\/styleguide.css",
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/.editorconfig": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/.editorconfig": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/.editorconfig",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/.editorconfig",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/composer.json": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/composer.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/composer-min.json",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/composer-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/LICENSE": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/LICENSE",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/LICENSE",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/package.json": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/package.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/package-min.json",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/package-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/README.md": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -4927,7 +6462,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/README.html",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -4936,46 +6471,46 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/partials\/general-footer.mustache": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/partials\/general-footer.mustache": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/partials\/general-footer.mustache",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/partials\/general-footer.mustache",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/partials\/general-header.mustache": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/partials\/general-header.mustache": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/partials\/general-header.mustache",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/partials\/general-header.mustache",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/partials\/patternSection.mustache": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/partials\/patternSection.mustache": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/partials\/patternSection.mustache",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/partials\/patternSection.mustache",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/partials\/patternSectionSubtype.mustache": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/partials\/patternSectionSubtype.mustache": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/partials\/patternSectionSubtype.mustache",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/partials\/patternSectionSubtype.mustache",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/README": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/README": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/README",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/README",
 		"oF": 0
 		},
-	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/viewall.mustache": {
+	"\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/viewall.mustache": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-default\/views\/viewall.mustache",
+		"oAP": "\/patlab\/vendor\/karmabunny\/styleguidekit-mustache-karmabunny\/views\/viewall.mustache",
 		"oF": 0
 		},
 	"\/patlab\/vendor\/kevinlebrun\/colors.php\/composer.json": {
@@ -10630,6 +12165,106 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/01-button.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/01-button.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/01-button.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/01-button.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/02-button-options.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/02-button-options.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/02-button-options.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/02-button-options.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-text-link.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-text-link.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-text-link.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-text-link.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link-options.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link-options.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link-options.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link-options.mustache",
+		"oF": 0
+		},
 	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/_button.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -10642,107 +12277,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons\/_button.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons\/_button.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons\/_text-button.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons\/_text-button.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons\/button.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons\/button.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons\/button.mustache": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons\/button.mustache",
-		"oF": 0
-		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons\/small-button.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons\/small-button.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons\/small-button.mustache": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons\/small-button.mustache",
-		"oF": 0
-		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons\/text-button.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons\/text-button.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons\/text-button.mustache": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons\/text-button.mustache",
-		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_clearfix.scss": {
 		"aP": 1,
@@ -10770,6 +12304,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_hiding.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/_hiding.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_pseudo-element-content.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -10782,6 +12329,56 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/clearfix.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/clearfix.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/clearfix.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/clearfix.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/floats.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/floats.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/floats.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/floats.mustache",
+		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/00-atoms\/images\/_images.scss": {
 		"aP": 1,
@@ -10999,6 +12596,31 @@
 		"oAP": "\/skin\/default\/_patterns\/00-atoms\/text\/inline-elements.mustache",
 		"oF": 0
 		},
+	"\/skin\/default\/_patterns\/00-atoms\/text\/inline-list.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/text\/inline-list.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/text\/inline-list.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/text\/inline-list.mustache",
+		"oF": 0
+		},
 	"\/skin\/default\/_patterns\/00-atoms\/text\/lists.md": {
 		"cB": 0,
 		"cS": 0,
@@ -11092,18 +12714,30 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/skin\/default\/_patterns\/01-molecules\/lists\/_inline-list.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/search.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/01-molecules\/lists\/_inline-list.css",
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/search.html",
 		"oF": 0,
+		"oFM": 0,
 		"oS": 0,
-		"uL": 1
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/search.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/search.mustache",
+		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/01-molecules\/lists\/_sidebar-linklist.scss": {
 		"aP": 1,
@@ -11114,44 +12748,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/skin\/default\/_patterns\/01-molecules\/lists\/_sidebar-linklist.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/skin\/default\/_patterns\/01-molecules\/lists\/breadcrumb.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/01-molecules\/lists\/breadcrumb.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/skin\/default\/_patterns\/01-molecules\/lists\/breadcrumb.mustache": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/_patterns\/01-molecules\/lists\/breadcrumb.mustache",
-		"oF": 0
-		},
-	"\/skin\/default\/_patterns\/01-molecules\/lists\/breadcrumb.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/_patterns\/01-molecules\/lists\/breadcrumb.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -11179,6 +12775,31 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/skin\/default\/_patterns\/01-molecules\/lists\/inline-list.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/navigation\/breadcrumb.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/navigation\/breadcrumb.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/navigation\/breadcrumb.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/navigation\/breadcrumb.mustache",
 		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/01-molecules\/navigation\/breadcrumb.scss": {
@@ -11269,6 +12890,56 @@
 		"oAP": "\/skin\/default\/_patterns\/01-molecules\/navigation\/primary-nav.mustache",
 		"oF": 0
 		},
+	"\/skin\/default\/_patterns\/01-molecules\/text\/01-blockquote.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/01-blockquote.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/text\/01-blockquote.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/01-blockquote.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/text\/02-blockquote-options.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/02-blockquote-options.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/text\/02-blockquote-options.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/02-blockquote-options.mustache",
+		"oF": 0
+		},
 	"\/skin\/default\/_patterns\/01-molecules\/text\/_blockquote.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -11295,6 +12966,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_patterns\/01-molecules\/text\/_highlight.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/_highlight.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/skin\/default\/_patterns\/01-molecules\/text\/_site-messages.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -11308,7 +12992,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/skin\/default\/_patterns\/01-molecules\/text\/blockquote.md": {
+	"\/skin\/default\/_patterns\/01-molecules\/text\/expando.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -11317,7 +13001,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/blockquote.html",
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/expando.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -11326,11 +13010,61 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/skin\/default\/_patterns\/01-molecules\/text\/blockquote.mustache": {
+	"\/skin\/default\/_patterns\/01-molecules\/text\/expando.mustache": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/blockquote.mustache",
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/expando.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/text\/highlight.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/highlight.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/text\/highlight.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/highlight.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/text\/site-messages.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/site-messages.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/text\/site-messages.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/text\/site-messages.mustache",
 		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/02-organisms.md": {
@@ -11479,6 +13213,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/skin\/default\/css\/common.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/skin\/default\/css\/common-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/skin\/default\/css\/flexboxgrid-ie9.css": {
 		"aP": 1,
 		"bl": 0,
@@ -11536,8 +13280,18 @@
 		"oA": 0,
 		"oAP": "\/skin\/default\/css\/global.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
+		},
+	"\/skin\/default\/css\/global_original-unedited.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/skin\/default\/css\/global_original-unedited-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/skin\/default\/css\/global_original.css": {
 		"aP": 1,
@@ -12045,6 +13799,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/skin\/default\/js\/cart-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/skin\/default\/js\/common.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/skin\/default\/js\/common-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
