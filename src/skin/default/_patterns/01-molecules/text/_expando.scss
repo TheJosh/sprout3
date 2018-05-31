@@ -27,6 +27,7 @@
     display: block;
     margin: 0 0 12px;
 }
+
 .expando-open__icon {
     position: absolute;
     top: 50%;
@@ -36,6 +37,7 @@
     height: 26px;
     transform: translate(0, -50%);
 }
+
 .expando-open__icon:before,
 .expando-open__icon:after {
     content: " ";
@@ -50,6 +52,7 @@
     margin: 0 auto;
     transition: transform 200ms ease;
 }
+
 .expando-open__icon:after {
     transform: rotate(90deg);
 }
@@ -64,6 +67,7 @@
 .expando-open:hover .expando-open__icon {
     background-color: #e4e4e8;
 }
+
 .expando-open:hover .expando-open__icon:before,
 .expando-open:hover .expando-open__icon:after {
     background-color: #222932;
@@ -98,9 +102,11 @@
     margin: 0 auto;
     transition: transform 200ms ease;
 }
+
 .expando__close:before {
     transform: rotate(-45deg);
 }
+
 .expando__close:after {
     transform: rotate(45deg);
 }
@@ -125,9 +131,11 @@
     animation: fadeInDown 200ms ease;
     animation-fill-mode: forwards;
 }
+
 .expando-open--expanded .expando-open__icon:before {
     transform: rotate(-45deg);
 }
+
 .expando-open--expanded .expando-open__icon:after {
     transform: rotate(45deg);
 }
