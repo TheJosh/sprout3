@@ -144,11 +144,6 @@ Table of Contents for search based navigation
 
 
 
-/* Firefox: Get rid of the inner focus border */
-.button::-moz-focus-inner {
-    padding: 0;
-    border: 0;
-}
 
 /* - Inline buttons - */
 .inline-buttons__item,
@@ -179,7 +174,7 @@ Table of Contents for search based navigation
     }
 }
 
-/* BP Smaller */
+
 @media screen and (min-width: 35em) { /* 560px */
     .inline-buttons {
         display: -webkit-box;
@@ -215,7 +210,7 @@ Table of Contents for search based navigation
     }
 }
 
-/* BP small */
+
 @media screen and (min-width: 60em) { /* 960px */
     .inline-buttons__title {
         -webkit-box-flex: 0;
@@ -228,20 +223,7 @@ Table of Contents for search based navigation
 
 
 /* ---- Animations ---- */
-@-webkit-keyframes fadeInDown {
-    from {
-        opacity: 0;
-        -webkit-transform: translateY(-30px);
-                transform: translateY(-30px);
-    }
-}
-@keyframes fadeInDown {
-    from {
-        opacity: 0;
-        -webkit-transform: translateY(-30px);
-                transform: translateY(-30px);
-    }
-}
+
 
 /* ---- Expando ---- */
 
@@ -2721,26 +2703,6 @@ thead td {
 
 /* ---- Floats and positioning ---- */
 
-.left,
-.center,
-.right {
-    margin: 30px auto;
-    display: block;
-}
-
-
-/* BP Smaller */
-@media screen and (min-width: 35em) { /* 560px */
-    .left {
-        margin: 0 30px 30px 0;
-        float: left;
-    }
-
-    .right {
-        margin: 0 0 30px 30px;
-        float: right;
-    }
-}
 
 /* ------------------------------------------------------
 **** Template Layout
@@ -2770,67 +2732,6 @@ thead td {
 }
 
 /* ---- Simple content alignment classes ---- */
-
-/*
-
-For use with flexgrid or when you don't need anything else
-The breakpoints align with flexgrid breakpoints
-
-*/
-
-/* - Right - */
-
-.col--right-align {
-    text-align: right;
-}
-
-/* BP small */
-@media screen and (min-width: 48em) { /* 768px */
-    .col-sm--right-align {
-        text-align: right;
-    }
-}
-
-/* BP medium */
-@media only screen and (min-width: 62em) { /* 992px */
-    .col-md--right-align {
-        text-align: right;
-    }
-}
-
-/* BP large */
-@media only screen and (min-width: 75em) { /* 1200px */
-    .col-lg--right-align {
-        text-align: right;
-    }
-}
-
-/* - Left - */
-
-.col--left-align {
-    text-align: left;
-}
-
-/* BP small */
-@media screen and (min-width: 48em) { /* 768px */
-    .col-sm--left-align {
-        text-align: left;
-    }
-}
-
-/* BP medium */
-@media only screen and (min-width: 62em) { /* 992px */
-    .col-md--left-align {
-        text-align: left;
-    }
-}
-
-/* BP large */
-@media only screen and (min-width: 75em) { /* 1200px */
-    .col-lg--left-align {
-        text-align: left;
-    }
-}
 
 
 /* ---- Blocks ---- */
