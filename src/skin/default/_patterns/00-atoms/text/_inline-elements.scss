@@ -69,6 +69,7 @@ small {
 a {
     color: #35ab75;
     word-break: break-word;
+    transition: all 250ms ease-in-out;
 }
 
 a:hover,

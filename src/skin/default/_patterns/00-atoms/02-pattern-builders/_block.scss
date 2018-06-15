@@ -1,0 +1,41 @@
+
+.block {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.block-mb {
+    margin-bottom: 20px;
+}
+
+.block-large {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.block-mb-large {
+    margin-bottom: 20px;
+}
+
+@media screen and (min-width: 23.75em) { /* 380px */
+    .block-large {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .block-mb-large {
+        margin-bottom: 25px;
+    }
+}
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+    .block-large {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .block-mb-large {
+        margin-bottom: 30px;
+    }
+}

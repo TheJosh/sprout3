@@ -3270,16 +3270,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/patlab\/public\/css\/pattern-scaffolding-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/patlab\/public\/css\/pattern-scaffolding-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/patlab\/public\/css\/pattern-scaffolding.css": {
 		"aP": 1,
 		"bl": 0,
@@ -4021,6 +4011,27 @@
 		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-03-fonts\/00-atoms-00-global-03-fonts.mustache",
 		"oF": 0
 		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-animation\/00-atoms-00-global-animation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-animation\/00-atoms-00-global-animation.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-animation\/00-atoms-00-global-animation.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-animation\/00-atoms-00-global-animation.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-00-global-animation\/00-atoms-00-global-animation.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-00-global-animation\/00-atoms-00-global-animation.mustache",
+		"oF": 0
+		},
 	"\/patlab\/public\/patterns\/00-atoms-00-global\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4600,6 +4611,27 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-expando\/01-molecules-text-expando.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-highlight\/01-molecules-text-highlight.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-highlight\/01-molecules-text-highlight.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-highlight\/01-molecules-text-highlight.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-highlight\/01-molecules-text-highlight.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-text-highlight\/01-molecules-text-highlight.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-text-highlight\/01-molecules-text-highlight.mustache",
 		"oF": 0
 		},
 	"\/patlab\/public\/patterns\/01-molecules-text-site-messages\/01-molecules-text-site-messages.html": {
@@ -12139,6 +12171,31 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_patterns\/00-atoms\/00-global\/animation.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/00-global\/animation.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/00-global\/animation.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/00-global\/animation.mustache",
+		"oF": 0
+		},
 	"\/skin\/default\/_patterns\/00-atoms\/01-base\/_box-model-reset.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -12174,6 +12231,58 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/skin\/default\/_patterns\/00-atoms\/01-base\/_viewport.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/02-pattern-builders\/_background-colours.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/02-pattern-builders\/_background-colours.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/02-pattern-builders\/_block.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/02-pattern-builders\/_block.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/02-pattern-builders\/_box.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/02-pattern-builders\/_box.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/02-pattern-builders\/_section.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/02-pattern-builders\/_section.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -13343,16 +13452,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/skin\/default\/css\/partials\/_search_results-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/pattern-scaffolding-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/pattern-scaffolding-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},

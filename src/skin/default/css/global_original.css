@@ -110,12 +110,6 @@ Table of Contents for search based navigation
 /* ---- Headings ---- */
 
 
-.heading-inline {
-    display: inline;
-    float: left;
-    padding: 0;
-}
-
 
 
 
@@ -144,61 +138,6 @@ Table of Contents for search based navigation
 ------------------------------------------------------ */
 
 /* ---- Background colours ---- */
-
-/* White */
-.bg-white {
-    background-color: #fff;
-}
-
-/* Light grey */
-.bg-lightgrey {
-    background-color: #f0f0f3;
-}
-
-/* Navy blue */
-.bg-navyblue {
-    background-color: #2a333e;
-    color: #fff;
-}
-.bg-navyblue a {
-    color: inherit;
-    opacity: .6;
-}
-.bg-navyblue a:hover,
-.bg-navyblue a:focus,
-.bg-navyblue a:active {
-    opacity: 1;
-}
-
-/* Orange */
-.bg-orange {
-    background-color: #F77450;
-    color: #fff;
-}
-.bg-orange a {
-    color: inherit;
-    opacity: 1;
-}
-.bg-orange a:hover,
-.bg-orange a:focus,
-.bg-orange a:active {
-    opacity: .6;
-}
-
-/* Green */
-.bg-green {
-    background-color: #35ab75;
-    color: #fff;
-}
-.bg-green a {
-    color: inherit;
-    opacity: .7;
-}
-.bg-green a:hover,
-.bg-green a:focus,
-.bg-green a:active {
-    opacity: 1;
-}
 
 /* ---- Buttons ---- */
 
@@ -2807,15 +2746,6 @@ thead td {
 **** Template Layout
 ------------------------------------------------------ */
 
-* {
-    margin: 0;
-}
-
-html,
-body {
-    background: #FFF;
-    height: 100%;
-}
 
 #wrap {
     margin: 0 auto;
@@ -2843,7 +2773,7 @@ body {
 
 /*
 
-For use fix flexgrid or when you don't need anything else
+For use with flexgrid or when you don't need anything else
 The breakpoints align with flexgrid breakpoints
 
 */
@@ -2903,120 +2833,11 @@ The breakpoints align with flexgrid breakpoints
 }
 
 
-/* ---- Sections ---- */
-.section {
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-/* Small */
-.section--small {
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
-
-/* Large */
-.section--large {
-    padding-top: 40px;
-    padding-bottom: 40px;
-}
-
-@media screen and (min-width: 23.75em) { /* 380px */
-    .section {
-        padding-top: 30px;
-        padding-bottom: 30px;
-    }
-    .section--small {
-        padding-top: 25px;
-        padding-bottom: 25px;
-    }
-    .section--large {
-        padding-top: 45px;
-        padding-bottom: 45px;
-    }
-}
-/* BP small */
-@media screen and (min-width: 48em) { /* 768px */
-    .section {
-        padding-top: 60px;
-        padding-bottom: 60px;
-    }
-    .section--small {
-        padding-top: 30px;
-        padding-bottom: 30px;
-    }
-    .section--large {
-        padding-top: 80px;
-        padding-bottom: 80px;
-    }
-}
-
 /* ---- Blocks ---- */
-
-/* like sections, but using margin instead of padding */
-
-.block {
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-.block-mb {
-    margin-bottom: 20px;
-}
-
-.block-large {
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-.block-mb-large {
-    margin-bottom: 20px;
-}
-
-@media screen and (min-width: 23.75em) { /* 380px */
-    .block-large {
-        margin-top: 25px;
-        margin-bottom: 25px;
-    }
-
-    .block-mb-large {
-        margin-bottom: 25px;
-    }
-}
-/* BP small */
-@media screen and (min-width: 48em) { /* 768px */
-    .block-large {
-        margin-top: 30px;
-        margin-bottom: 30px;
-    }
-
-    .block-mb-large {
-        margin-bottom: 30px;
-    }
-}
 
 
 /* ---- Content Box ---- */
 
-.box {
-    padding: 20px 15px;
-}
-
-@media screen and (min-width: 23.75em) { /* 380px */
-    .box {
-        padding: 20px;
-    }
-}
-/* BP small */
-@media screen and (min-width: 48em) { /* 768px */
-    .box {
-        padding: 30px;
-    }
-}
-
-.box > *:last-child {
-    margin-bottom: 0;
-}
 
 /* ---- Header ---- */
 .header__logo {
