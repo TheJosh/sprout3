@@ -1,0 +1,18 @@
+
+<div class="field-label">
+    <label for="field5">Range</label>
+</div>
+<div class="field-input">
+    <input id="field5" class="textbox" min="0" max="100" name="range" value="" type="range">
+    <div id="field5-count">50</div>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#field5").after('</div>');
+            $("#field5-count").text($("#field5").val());
+            $("#field5").bind('change click', function() {
+                $("#field5-count").text($(this).val());
+            });
+        });
+
+    </script>
+</div>

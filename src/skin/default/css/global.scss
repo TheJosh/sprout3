@@ -77,6 +77,9 @@
 /* ---- Forms ---- */
 
 
+@import "../_patterns/00-atoms/forms/range";
+
+@import "../_patterns/00-atoms/forms/text-area";
 
 
 
@@ -123,6 +126,33 @@
 /* ---- Forms ---- */
 
 
+@import "../_patterns/01-molecules/forms/form-base";
+
+@import "../_patterns/01-molecules/forms/checkboxes";
+
+@import "../_patterns/01-molecules/forms/color-picker";
+
+@import "../_patterns/01-molecules/forms/date-input";
+
+@import "../_patterns/01-molecules/forms/date-picker";
+
+@import "../_patterns/01-molecules/forms/date-time-input";
+
+@import "../_patterns/01-molecules/forms/money";
+
+@import "../_patterns/01-molecules/forms/radio-buttons";
+
+@import "../_patterns/01-molecules/forms/range";
+
+@import "../_patterns/01-molecules/forms/select";
+
+@import "../_patterns/01-molecules/forms/text-area";
+
+@import "../_patterns/01-molecules/forms/text-field";
+
+@import "../_patterns/01-molecules/forms/time-pickers";
+
+@import "../_patterns/01-molecules/forms/total-selector";
 
 
 /* ------------------------------------------------------

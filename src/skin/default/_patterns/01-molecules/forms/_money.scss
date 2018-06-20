@@ -1,0 +1,52 @@
+
+.field-element.field-element--money .field-input .textbox {
+    padding-left: 55px;
+    background-image: url(../images/form-icons.svg);
+    background-repeat: no-repeat;
+    background-position: top -447px left 0;
+
+}
+
+.field-element.field-element--money .field-input {
+    position: relative;
+}
+
+.field-element.field-element--money .field-input .money-symbol:before {
+    content: "\00a4";       /* Generic currency sign */
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 4px;
+    color: #58595B;
+    font-weight: bold;
+    font-size: 19px;
+    width: 41px;
+    text-align: center;
+}
+
+.field-element.field-element--money .field-input .money-symbol--dollar:before {
+    content: "$";    /* Dollars */
+}
+
+.field-element.field-element--money .field-input .money-symbol--pound:before {
+    content: "\00a3";    /* Pounds */
+}
+
+.field-element.field-element--money .field-input .money-symbol--yen:before {
+    content: "\00a5";    /* Yen */
+}
+
+.field-element.field-element--money .field-input .money-symbol--indian_rupee:before {
+    content: "\20B9";   /* Indian rupee */
+}
+
+/* White */
+.field-element--money.field-element--white .field-input .textbox {
+    background-position: top -607px left 0;
+}
+
+@media screen and (min-width: 48em) { /* 768px */
+    .field-element.field-element--money .field-input .money-symbol:before {
+        top: 9px;
+    }
+}
