@@ -1459,21 +1459,6 @@ thead td {
 ------------------------------------------------------ */
 
 /* ---- Clearfix ---- */
-.clear {
-    height: 0;
-    clear: both;
-    display: block;
-}
-
-.-clearfix:before,
-.-clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.-clearfix:after {
-    clear: both;
-}
 
 
 /* ---- Hiding classes ---- */

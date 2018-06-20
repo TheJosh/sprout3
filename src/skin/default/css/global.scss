@@ -41,6 +41,7 @@
 
 
 
+
 /* ---- Text ---- */
 
 @import "../_patterns/00-atoms/text/headings";
@@ -88,9 +89,10 @@
 
 @import "../_patterns/00-atoms/helpers/clearfix";
 
-@import "../_patterns/00-atoms/helpers/floats";
+@import "../_patterns/00-atoms/helpers/img-replace";
 
-@import "../_patterns/00-atoms/helpers/pseudo-element-content";
+@import "../_patterns/00-atoms/helpers/_pseudo-element-content";
+
 
 
 /* ------------------------------------------------------
@@ -164,4 +166,16 @@
 @import "../_patterns/02-organisms/00-global/header";
 
 @import "../_patterns/02-organisms/00-global/footer";
+
+
+
+/* ------------------------------------------------------
+**** ORGANISMS
+------------------------------------------------------ */
+
+
+
+/* ------------------------------------------------------
+**** Templates
+------------------------------------------------------ */
 
