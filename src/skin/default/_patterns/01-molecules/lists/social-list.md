@@ -1,5 +1,5 @@
 ---
-title: Hero Banner
+title:
 ---
 
 [Insert description here]

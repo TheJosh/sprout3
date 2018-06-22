@@ -74,7 +74,7 @@ use Sprout\Helpers\Navigation;
     </div>
 
 
-    <div class="section section--nav bg-orange">
+    <div class="bg-orange">
 
         <nav id="frankenmenu">
 
