@@ -1242,20 +1242,8 @@ Table of Contents for search based navigation
 
 
 /* ---- Submit Bar ---- */
-.submit-bar {
-    text-align: right;
-    background: #F6F6F6;
-    padding: 15px;
-    margin: 15px 0;
-}
 
-.sidebar .submit-bar {
-    padding: 10px 0;
-}
 
-.submit-bar a {
-    margin-right: 20px;
-}
 
 
 /* ---- Search Form ---- */
@@ -1331,125 +1319,17 @@ Table of Contents for search based navigation
 **** Tables
 ------------------------------------------------------ */
 
-table {
-    border-collapse: collapse;
-    border: 1px solid #d7d7d7;
-}
 
-th,
-td {
-    padding: 5px 10px;
-    border: 1px solid #d7d7d7;
-}
-
-th,
-thead td {
-    background: #f6f6f6;
-}
 
 /* ---- Content tables ---- */
-.table--content-standard {
-    width: 100%;
-    margin: 2rem 0;
-}
-.table--content-standard caption {
-    text-align: left;
-    padding-bottom: 13px;
-}
-.table--content-standard th,
-.table--content-standard thead td {
-    font-weight: bold;
-    background-color: #F0F0F0;
-    font-size: 1.7rem;
-}
-.table--content-standard td {
-    background-color: #FFF;
-}
-.table--content-standard th,
-.table--content-standard td {
-    border: 1px solid #d7d7d7;
-    padding: 12px 15px;
-    text-align: left;
-}
 
 
 /* Small */
-.table--content-standard.table--content-small {
-    font-size: 1.3rem;
-}
-.table--content-standard.table--content-small th,
-.table--content-standard.table--content-small td {
-    padding: 5px 10px;
-}
-.table--content-standard.table--content-small th,
-.table--content-standard.table--content-small thead td {
-    font-size: 1.4rem;
-}
+
 
 /* ---- Responsive tables ---- */
-@media only screen and (max-width: 600px) {
-    .table--responsive {
-        font-size: 1.4rem;
-    }
-    .table--responsive,
-    .table--responsive tbody,
-    .table--responsive tr {
-        display: block;
-        border: none;
-    }
-    .table--responsive thead,
-    .table--responsive th {
-        display: none;
-    }
-    .table--responsive tr {
-        display: table;
-        width: 100%;
-    }
-    .table--responsive tr.table--responsive__first-row {
-        display: none;
-    }
-    .table--responsive td {
-        display: table-row;
-        padding: 0;
-    }
-    .table--responsive td[data-title]:before {
-        content: attr(data-title);
-        font-weight: bold;
-        background-color: #F0F0F0;
-        border-right: 1px solid #d7d7d7;
-    }
-    .table--responsive td[data-title] {
-        border-left: 1px solid #d7d7d7;
-        border-right: 1px solid #d7d7d7;
-        border-top: 1px solid #d7d7d7;
-    }
-    .table--responsive tbody tr {
-        margin-bottom: 20px;
-        border-bottom: 1px solid #d7d7d7;
-    }
-    .table--responsive td[data-title]:before,
-    .table--responsive__content {
-        padding: 5px 15px;
-        display: table-cell;
-    }
-
-}
 
 /* ---- No Styles Table ---- */
-.table__no-styles {
-    border-collapse: separate !important;
-    border: none !important;
-    background: none !important;
-    min-width: 0 !important;
-}
-
-.table__no-styles th,
-.table__no-styles thead td,
-.table__no-styles td {
-    padding: 0 !important;
-    border: 0 !important;
-    background: none !important;
-}
 
 
 
@@ -1462,72 +1342,14 @@ thead td {
 
 
 /* ---- Hiding classes ---- */
-.-ir {
-    background-color: transparent;
-    border: 0;
-    overflow: hidden;
-}
 
-.-ir:before {
-    content: "";
-    display: block;
-    width: 0;
-    height: 150%;
-}
 
-.-hidden {
-    display: none !important;
-    visibility: hidden;
-}
 
-.-vis-hidden {
-    border: 0;
-    clip: rect(0 0 0 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
-}
 
-.-vis-hidden.focusable:active,
-.-vis-hidden.focusable:focus {
-    clip: auto;
-    height: auto;
-    margin: 0;
-    overflow: visible;
-    position: static;
-    width: auto;
-}
 
-.-invisible {
-    visibility: hidden;
-}
 
 /* ---- Pseudo elements ---- */
 
-/* Angle Brackets */
-.-r-arrow-after:after {
-    content: "\00a0\003e";
-}
-.-r-arrow-before:before {
-    content: "\003e\00a0";
-}
-.-l-arrow-after:after {
-    content: "\00a0\003c";
-}
-.-l-arrow-before:before {
-    content: "\003c\00a0";
-}
-
-/* Ellipsis */
-.ellipsis-2:after {
-    content: "..";
-}
-.ellipsis-3:after {
-    content: "...";
-}
 
 /* ---- Floats and positioning ---- */
 
@@ -1542,21 +1364,6 @@ thead td {
     position: relative;
     overflow: hidden;
     min-height: 100%;
-}
-
-
-/* ---- Container ---- */
-.container {
-    width: 88%;
-    max-width: 1140px;
-    margin: 0 auto;
-}
-
-/* BP small */
-@media screen and (min-width: 48em) { /* 768px */
-    .container {
-        width: 92%;
-    }
 }
 
 /* ---- Simple content alignment classes ---- */
@@ -1654,21 +1461,7 @@ thead td {
 }
 
 /* ---- Promo ---- */
-.promo-list {
-    margin-top: 20px;
-}
-.promo {
-    margin-bottom: 25px;
-}
-.promo__inner {
-    height: 100%;
-}
-.promo__img img {
-    width: 100%;
-}
-.promo__content {
-    padding: 20px 25px;
-}
+
 
 
 /* BP small */
@@ -2016,74 +1809,4 @@ iframe {
 /* ---- reCAPTCHA ---- */
 .g-recaptcha {
     padding-bottom: 15px;
-}
-
-/* ------------------------------------------------------
-**** Print styles
------------------------------------------------------- */
-
-@media print {
-    * {
-        background: transparent !important;
-        color: #000 !important; /* Black prints faster: h5bp.com/s */
-        -webkit-box-shadow: none !important;
-                box-shadow: none !important;
-        text-shadow: none !important;
-    }
-
-    a,
-    a:visited {
-        text-decoration: underline;
-    }
-
-    a[href]:after {
-        content: " (" attr(href) ")";
-    }
-
-    abbr[title]:after {
-        content: " (" attr(title) ")";
-    }
-
-    /* Don't show links for images, or javascript/internal links */
-
-    .ir a:after,
-    a[href^="javascript:"]:after,
-    a[href^="#"]:after {
-        content: "";
-    }
-
-    pre,
-    blockquote {
-        border: 1px solid #999;
-        page-break-inside: avoid;
-    }
-
-    thead {
-        display: table-header-group; /* h5bp.com/t */
-    }
-
-    tr,
-    img {
-        page-break-inside: avoid;
-    }
-
-    img {
-        max-width: 100% !important;
-    }
-
-    @page {
-        margin: 0.5cm;
-    }
-
-    p,
-    h2,
-    h3 {
-        orphans: 3;
-        widows: 3;
-    }
-
-    h2,
-    h3 {
-        page-break-after: avoid;
-    }
 }

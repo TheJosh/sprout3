@@ -4263,11 +4263,74 @@
 		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.mustache",
 		"oF": 0
 		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-inline-buttons\/00-atoms-buttons-and-links-inline-buttons.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-inline-buttons\/00-atoms-buttons-and-links-inline-buttons.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-inline-buttons\/00-atoms-buttons-and-links-inline-buttons.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-inline-buttons\/00-atoms-buttons-and-links-inline-buttons.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-inline-buttons\/00-atoms-buttons-and-links-inline-buttons.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-inline-buttons\/00-atoms-buttons-and-links-inline-buttons.mustache",
+		"oF": 0
+		},
 	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-forms-range\/00-atoms-forms-range.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-forms-range\/00-atoms-forms-range.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-forms-range\/00-atoms-forms-range.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-forms-range\/00-atoms-forms-range.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-forms-range\/00-atoms-forms-range.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-forms-range\/00-atoms-forms-range.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-forms-text-area\/00-atoms-forms-text-area.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-forms-text-area\/00-atoms-forms-text-area.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-forms-text-area\/00-atoms-forms-text-area.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-forms-text-area\/00-atoms-forms-text-area.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-forms-text-area\/00-atoms-forms-text-area.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-forms-text-area\/00-atoms-forms-text-area.mustache",
 		"oF": 0
 		},
 	"\/patlab\/public\/patterns\/00-atoms-forms\/index.html": {
@@ -4296,6 +4359,111 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-clearfix\/00-atoms-helpers-clearfix.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-hidden\/00-atoms-helpers-hidden.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-hidden\/00-atoms-helpers-hidden.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-hidden\/00-atoms-helpers-hidden.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-hidden\/00-atoms-helpers-hidden.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-hidden\/00-atoms-helpers-hidden.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-hidden\/00-atoms-helpers-hidden.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-img-replace\/00-atoms-helpers-img-replace.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-img-replace\/00-atoms-helpers-img-replace.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-img-replace\/00-atoms-helpers-img-replace.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-img-replace\/00-atoms-helpers-img-replace.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-img-replace\/00-atoms-helpers-img-replace.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-img-replace\/00-atoms-helpers-img-replace.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-invisible\/00-atoms-helpers-invisible.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-invisible\/00-atoms-helpers-invisible.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-invisible\/00-atoms-helpers-invisible.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-invisible\/00-atoms-helpers-invisible.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-invisible\/00-atoms-helpers-invisible.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-invisible\/00-atoms-helpers-invisible.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-pseudo-element-content\/00-atoms-helpers-pseudo-element-content.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-pseudo-element-content\/00-atoms-helpers-pseudo-element-content.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-pseudo-element-content\/00-atoms-helpers-pseudo-element-content.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-pseudo-element-content\/00-atoms-helpers-pseudo-element-content.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-pseudo-element-content\/00-atoms-helpers-pseudo-element-content.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-pseudo-element-content\/00-atoms-helpers-pseudo-element-content.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-vis-hidden\/00-atoms-helpers-vis-hidden.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-vis-hidden\/00-atoms-helpers-vis-hidden.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-vis-hidden\/00-atoms-helpers-vis-hidden.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-vis-hidden\/00-atoms-helpers-vis-hidden.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-helpers-vis-hidden\/00-atoms-helpers-vis-hidden.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers-vis-hidden\/00-atoms-helpers-vis-hidden.mustache",
 		"oF": 0
 		},
 	"\/patlab\/public\/patterns\/00-atoms-helpers\/index.html": {
@@ -4352,6 +4520,139 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/patlab\/public\/patterns\/00-atoms-images\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-00-table\/00-atoms-tables-00-table.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-00-table\/00-atoms-tables-00-table.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-00-table\/00-atoms-tables-00-table.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-00-table\/00-atoms-tables-00-table.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-00-table\/00-atoms-tables-00-table.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-00-table\/00-atoms-tables-00-table.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-content-table\/00-atoms-tables-content-table.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-content-table\/00-atoms-tables-content-table.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-content-table\/00-atoms-tables-content-table.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-content-table\/00-atoms-tables-content-table.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-content-table\/00-atoms-tables-content-table.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-content-table\/00-atoms-tables-content-table.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-no-styles\/00-atoms-tables-no-styles.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-no-styles\/00-atoms-tables-no-styles.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-no-styles\/00-atoms-tables-no-styles.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-no-styles\/00-atoms-tables-no-styles.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-no-styles\/00-atoms-tables-no-styles.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-no-styles\/00-atoms-tables-no-styles.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-responsive-table\/00-atoms-tables-responsive-table.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-responsive-table\/00-atoms-tables-responsive-table.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-responsive-table\/00-atoms-tables-responsive-table.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-responsive-table\/00-atoms-tables-responsive-table.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-responsive-table\/00-atoms-tables-responsive-table.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-responsive-table\/00-atoms-tables-responsive-table.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-small-content-table\/00-atoms-tables-small-content-table.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-small-content-table\/00-atoms-tables-small-content-table.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-small-content-table\/00-atoms-tables-small-content-table.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-small-content-table\/00-atoms-tables-small-content-table.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables-small-content-table\/00-atoms-tables-small-content-table.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables-small-content-table\/00-atoms-tables-small-content-table.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-tables\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-tables\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-block-list\/00-atoms-text-block-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-block-list\/00-atoms-text-block-list.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-block-list\/00-atoms-text-block-list.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-block-list\/00-atoms-text-block-list.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-text-block-list\/00-atoms-text-block-list.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-text-block-list\/00-atoms-text-block-list.mustache",
 		"oF": 0
 		},
 	"\/patlab\/public\/patterns\/00-atoms-text-headings\/00-atoms-text-headings.html": {
@@ -4515,6 +4816,223 @@
 		"oAP": "\/patlab\/public\/patterns\/00-atoms\/index.html",
 		"oF": 0
 		},
+	"\/patlab\/public\/patterns\/01-molecules-blocks-hero-banner\/01-molecules-blocks-hero-banner.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-blocks-hero-banner\/01-molecules-blocks-hero-banner.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-blocks-hero-banner\/01-molecules-blocks-hero-banner.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-blocks-hero-banner\/01-molecules-blocks-hero-banner.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-blocks-hero-banner\/01-molecules-blocks-hero-banner.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-blocks-hero-banner\/01-molecules-blocks-hero-banner.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-blocks-media-object\/01-molecules-blocks-media-object.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-blocks-media-object\/01-molecules-blocks-media-object.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-blocks-media-object\/01-molecules-blocks-media-object.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-blocks-media-object\/01-molecules-blocks-media-object.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-blocks-media-object\/01-molecules-blocks-media-object.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-blocks-media-object\/01-molecules-blocks-media-object.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-blocks-tile\/01-molecules-blocks-tile.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-blocks-tile\/01-molecules-blocks-tile.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-blocks-tile\/01-molecules-blocks-tile.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-blocks-tile\/01-molecules-blocks-tile.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-blocks-tile\/01-molecules-blocks-tile.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-blocks-tile\/01-molecules-blocks-tile.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-blocks\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-blocks\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-checkboxes\/01-molecules-forms-checkboxes.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-checkboxes\/01-molecules-forms-checkboxes.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-checkboxes\/01-molecules-forms-checkboxes.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-checkboxes\/01-molecules-forms-checkboxes.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-checkboxes\/01-molecules-forms-checkboxes.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-checkboxes\/01-molecules-forms-checkboxes.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-color-picker\/01-molecules-forms-color-picker.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-color-picker\/01-molecules-forms-color-picker.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-color-picker\/01-molecules-forms-color-picker.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-color-picker\/01-molecules-forms-color-picker.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-color-picker\/01-molecules-forms-color-picker.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-color-picker\/01-molecules-forms-color-picker.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-date-input\/01-molecules-forms-date-input.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-date-input\/01-molecules-forms-date-input.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-date-input\/01-molecules-forms-date-input.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-date-input\/01-molecules-forms-date-input.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-date-input\/01-molecules-forms-date-input.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-date-input\/01-molecules-forms-date-input.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-date-time-input\/01-molecules-forms-date-time-input.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-date-time-input\/01-molecules-forms-date-time-input.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-date-time-input\/01-molecules-forms-date-time-input.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-date-time-input\/01-molecules-forms-date-time-input.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-date-time-input\/01-molecules-forms-date-time-input.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-date-time-input\/01-molecules-forms-date-time-input.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-money\/01-molecules-forms-money.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-money\/01-molecules-forms-money.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-money\/01-molecules-forms-money.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-money\/01-molecules-forms-money.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-money\/01-molecules-forms-money.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-money\/01-molecules-forms-money.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-radio-buttons\/01-molecules-forms-radio-buttons.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-radio-buttons\/01-molecules-forms-radio-buttons.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-radio-buttons\/01-molecules-forms-radio-buttons.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-radio-buttons\/01-molecules-forms-radio-buttons.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-radio-buttons\/01-molecules-forms-radio-buttons.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-radio-buttons\/01-molecules-forms-radio-buttons.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-range\/01-molecules-forms-range.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-range\/01-molecules-forms-range.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-range\/01-molecules-forms-range.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-range\/01-molecules-forms-range.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-range\/01-molecules-forms-range.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-range\/01-molecules-forms-range.mustache",
+		"oF": 0
+		},
 	"\/patlab\/public\/patterns\/01-molecules-forms-search\/01-molecules-forms-search.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4534,6 +5052,132 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-search\/01-molecules-forms-search.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-select\/01-molecules-forms-select.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-select\/01-molecules-forms-select.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-select\/01-molecules-forms-select.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-select\/01-molecules-forms-select.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-select\/01-molecules-forms-select.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-select\/01-molecules-forms-select.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-submit-bar\/01-molecules-forms-submit-bar.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-submit-bar\/01-molecules-forms-submit-bar.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-submit-bar\/01-molecules-forms-submit-bar.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-submit-bar\/01-molecules-forms-submit-bar.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-submit-bar\/01-molecules-forms-submit-bar.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-submit-bar\/01-molecules-forms-submit-bar.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-text-area\/01-molecules-forms-text-area.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-text-area\/01-molecules-forms-text-area.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-text-area\/01-molecules-forms-text-area.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-text-area\/01-molecules-forms-text-area.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-text-area\/01-molecules-forms-text-area.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-text-area\/01-molecules-forms-text-area.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-text-field\/01-molecules-forms-text-field.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-text-field\/01-molecules-forms-text-field.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-text-field\/01-molecules-forms-text-field.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-text-field\/01-molecules-forms-text-field.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-text-field\/01-molecules-forms-text-field.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-text-field\/01-molecules-forms-text-field.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-time-pickers\/01-molecules-forms-time-pickers.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-time-pickers\/01-molecules-forms-time-pickers.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-time-pickers\/01-molecules-forms-time-pickers.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-time-pickers\/01-molecules-forms-time-pickers.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-time-pickers\/01-molecules-forms-time-pickers.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-time-pickers\/01-molecules-forms-time-pickers.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-total-selector\/01-molecules-forms-total-selector.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-total-selector\/01-molecules-forms-total-selector.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-total-selector\/01-molecules-forms-total-selector.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-total-selector\/01-molecules-forms-total-selector.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-total-selector\/01-molecules-forms-total-selector.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-total-selector\/01-molecules-forms-total-selector.mustache",
 		"oF": 0
 		},
 	"\/patlab\/public\/patterns\/01-molecules-forms\/index.html": {
@@ -4828,6 +5472,55 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/patlab\/public\/patterns\/02-organisms-00-global\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-lists-children-pg-list\/02-organisms-lists-children-pg-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-lists-children-pg-list\/02-organisms-lists-children-pg-list.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-lists-children-pg-list\/02-organisms-lists-children-pg-list.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-lists-children-pg-list\/02-organisms-lists-children-pg-list.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-lists-children-pg-list\/02-organisms-lists-children-pg-list.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-lists-children-pg-list\/02-organisms-lists-children-pg-list.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-lists-tile-list\/02-organisms-lists-tile-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-lists-tile-list\/02-organisms-lists-tile-list.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-lists-tile-list\/02-organisms-lists-tile-list.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-lists-tile-list\/02-organisms-lists-tile-list.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-lists-tile-list\/02-organisms-lists-tile-list.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-lists-tile-list\/02-organisms-lists-tile-list.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/02-organisms-lists\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/02-organisms-lists\/index.html",
 		"oF": 0
 		},
 	"\/patlab\/public\/patterns\/02-organisms\/index.html": {
@@ -12386,6 +13079,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_patterns\/00-atoms\/02-pattern-builders\/_container.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/02-pattern-builders\/_container.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/skin\/default\/_patterns\/00-atoms\/02-pattern-builders\/_content-align.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -12752,6 +13458,56 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_patterns\/00-atoms\/forms\/range.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/forms\/range.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/forms\/range.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/forms\/range.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/forms\/text-area.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/forms\/text-area.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/forms\/text-area.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/forms\/text-area.mustache",
+		"oF": 0
+		},
 	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_clearfix.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -12765,7 +13521,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_floats.scss": {
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_hidden.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -12773,12 +13529,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/_floats.css",
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/_hidden.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_hiding.scss": {
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_img-replace.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -12786,7 +13542,20 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/_hiding.css",
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/_img-replace.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_invisible.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/_invisible.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -12800,6 +13569,19 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/_pseudo-element-content.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/_vis-hidden.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/_vis-hidden.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -12829,7 +13611,7 @@
 		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/clearfix.mustache",
 		"oF": 0
 		},
-	"\/skin\/default\/_patterns\/00-atoms\/helpers\/floats.md": {
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/hidden.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -12838,7 +13620,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/floats.html",
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/hidden.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -12847,11 +13629,111 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/skin\/default\/_patterns\/00-atoms\/helpers\/floats.mustache": {
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/hidden.mustache": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/floats.mustache",
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/hidden.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/img-replace.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/img-replace.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/img-replace.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/img-replace.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/invisible.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/invisible.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/invisible.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/invisible.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/pseudo-element-content.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/pseudo-element-content.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/pseudo-element-content.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/pseudo-element-content.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/vis-hidden.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/vis-hidden.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/helpers\/vis-hidden.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/vis-hidden.mustache",
 		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/00-atoms\/images\/_images.scss": {
@@ -12928,6 +13810,196 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/skin\/default\/_patterns\/00-atoms\/images\/logo.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/00-table.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/00-table.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/00-table.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/00-table.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/_content-table.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/_content-table.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/_no-styles.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/_no-styles.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/_responsive-table.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/_responsive-table.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/_small-content-table.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/_small-content-table.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/_table.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/_table.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/content-table.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/content-table.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/content-table.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/content-table.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/no-styles.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/no-styles.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/no-styles.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/no-styles.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/responsive-table.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/responsive-table.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/responsive-table.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/responsive-table.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/small-content-table.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/small-content-table.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/tables\/small-content-table.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/tables\/small-content-table.mustache",
 		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/00-atoms\/text\/_block-list.scss": {
@@ -13020,6 +14092,31 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/text\/block-list.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/text\/block-list.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/text\/block-list.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/text\/block-list.mustache",
+		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/00-atoms\/text\/headings.md": {
 		"cB": 0,
@@ -13214,6 +14311,120 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/skin\/default\/_patterns\/01-molecules\/blocks\/_hero-banner.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/blocks\/_hero-banner.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/blocks\/_media-object.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/blocks\/_media-object.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/blocks\/_tile.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/blocks\/_tile.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/blocks\/hero-banner.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/blocks\/hero-banner.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/blocks\/hero-banner.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/blocks\/hero-banner.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/blocks\/media-object.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/blocks\/media-object.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/blocks\/media-object.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/blocks\/media-object.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/blocks\/tile.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/blocks\/tile.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/blocks\/tile.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/blocks\/tile.mustache",
+		"oF": 0
+		},
 	"\/skin\/default\/_patterns\/01-molecules\/forms\/_checkboxes.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -13344,6 +14555,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/_submit-bar.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/_submit-bar.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/skin\/default\/_patterns\/01-molecules\/forms\/_text-area.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -13396,6 +14620,181 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/checkboxes.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/checkboxes.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/checkboxes.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/checkboxes.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/color-picker.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/color-picker.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/color-picker.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/color-picker.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/date-input.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/date-input.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/date-input.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/date-input.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/date-time-input.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/date-time-input.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/date-time-input.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/date-time-input.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/money.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/money.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/money.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/money.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/radio-buttons.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/radio-buttons.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/radio-buttons.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/radio-buttons.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/range.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/range.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/range.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/range.mustache",
+		"oF": 0
+		},
 	"\/skin\/default\/_patterns\/01-molecules\/forms\/search.md": {
 		"cB": 0,
 		"cS": 0,
@@ -13419,6 +14818,156 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/search.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/select.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/select.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/select.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/select.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/submit-bar.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/submit-bar.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/submit-bar.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/submit-bar.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/text-area.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/text-area.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/text-area.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/text-area.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/text-field.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/text-field.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/text-field.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/text-field.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/time-pickers.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/time-pickers.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/time-pickers.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/time-pickers.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/total-selector.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/total-selector.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/total-selector.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/total-selector.mustache",
 		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/01-molecules\/lists\/_sidebar-linklist.scss": {
@@ -13458,6 +15007,19 @@
 		"oA": 0,
 		"oAP": "\/skin\/default\/_patterns\/01-molecules\/lists\/inline-list.mustache",
 		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/navigation\/_primary-nav.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/navigation\/_primary-nav.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/skin\/default\/_patterns\/01-molecules\/navigation\/breadcrumb.md": {
 		"cB": 0,
@@ -13841,6 +15403,82 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/skin\/default\/_patterns\/02-organisms\/00-global\/header.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/02-organisms\/lists\/_children-pg-list.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/02-organisms\/lists\/_children-pg-list.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/02-organisms\/lists\/_tile-list.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/02-organisms\/lists\/_tile-list.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/02-organisms\/lists\/children-pg-list.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/02-organisms\/lists\/children-pg-list.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/02-organisms\/lists\/children-pg-list.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/02-organisms\/lists\/children-pg-list.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/02-organisms\/lists\/tile-list.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/02-organisms\/lists\/tile-list.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/02-organisms\/lists\/tile-list.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/02-organisms\/lists\/tile-list.mustache",
 		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/04-templates\/homepage.mustache": {

@@ -27,6 +27,8 @@
 
 @import "../_patterns/00-atoms/images/img";
 
+@import "../_patterns/00-atoms/02-pattern-builders/container";
+
 @import "../_patterns/00-atoms/02-pattern-builders/background-colours";
 
 @import "../_patterns/00-atoms/02-pattern-builders/section";
@@ -78,6 +80,20 @@
 /* ---- Forms ---- */
 
 
+@import "../_patterns/00-atoms/tables/table";
+
+@import "../_patterns/00-atoms/tables/content-table";
+
+@import "../_patterns/00-atoms/tables/small-content-table";
+
+@import "../_patterns/00-atoms/tables/responsive-table";
+
+
+
+
+/* ---- Forms ---- */
+
+
 @import "../_patterns/00-atoms/forms/range";
 
 @import "../_patterns/00-atoms/forms/text-area";
@@ -90,6 +106,12 @@
 @import "../_patterns/00-atoms/helpers/clearfix";
 
 @import "../_patterns/00-atoms/helpers/img-replace";
+
+@import "../_patterns/00-atoms/helpers/hidden";
+
+@import "../_patterns/00-atoms/helpers/vis-hidden";
+
+@import "../_patterns/00-atoms/helpers/invisible";
 
 @import "../_patterns/00-atoms/helpers/_pseudo-element-content";
 
@@ -124,6 +146,14 @@
 
 @import "../_patterns/01-molecules/navigation/breadcrumb";
 
+@import "../_patterns/01-molecules/navigation/primary-nav";
+
+
+/* ---- Blocks ---- */
+
+
+@import "../_patterns/01-molecules/blocks/tile";
+
 
 /* ---- Forms ---- */
 
@@ -156,6 +186,8 @@
 
 @import "../_patterns/01-molecules/forms/total-selector";
 
+@import "../_patterns/01-molecules/forms/submit-bar";
+
 
 /* ------------------------------------------------------
 **** ORGANISMS
@@ -167,11 +199,9 @@
 
 @import "../_patterns/02-organisms/00-global/footer";
 
+@import "../_patterns/02-organisms/lists/tile-list";
 
 
-/* ------------------------------------------------------
-**** ORGANISMS
------------------------------------------------------- */
 
 
 
@@ -179,3 +209,75 @@
 **** Templates
 ------------------------------------------------------ */
 
+
+
+
+/* ------------------------------------------------------
+**** Print styles
+------------------------------------------------------ */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        -webkit-box-shadow: none !important;
+                box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /* Don't show links for images, or javascript/internal links */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

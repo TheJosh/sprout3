@@ -1,11 +1,55 @@
-<nav id="nav" class="c-primary-nav">
 
-	<ul class="c-primary-nav__list">
+<nav id="frankenmenu">
 
-		{{# primaryNav }}
-		<li class="c-primary-nav__item"><a href="{{ url }}" class="c-primary-nav__link">{{ label }}</a></li>
-		{{/ primaryNav }}
+    <div class="container">
 
-	</ul><!--end c-primary-nav__list-->
 
-</nav><!--end c-primary-nav-->
+        <ul id="frankenmenu-list" class="-clearfix frankenmenu-js-enabled" style="touch-action: pan-y;">
+            <li class="menu-item menu-item-depth1 menu-home-page">
+                <a href="/">Home</a>
+            </li>
+            <li class="menu-item menu-item-depth1 menu-item-has-children menu-current-item-ancestor">
+                <a href="/about" class="menu-item-link-with-submenu">Template test
+                </a>
+                <ul class="sub-menu sub-menu-depth1" style="display: none;">
+                    <li class="menu-item menu-item-depth2">
+                        <a href="/about/widgets-for-testing">Widgets for testing</a>
+                    </li>
+                    <li class="menu-item menu-item-depth2">
+                        <a href="/about/staff">Video Gallery</a>
+                    </li>
+                    <li class="menu-item menu-item-depth2">
+                        <a href="/about/a-lovely-test">A lovely test</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="menu-item menu-item-depth1 menu-item-has-children">
+                <a href="/services" class="menu-item-link-with-submenu">Services
+                </a>
+                <ul class="sub-menu sub-menu-depth1" style="display: none;">
+                    <li class="menu-item menu-item-depth2">
+                        <a href="/services/cleaning">Cleaning
+                        </a>
+                    </li>
+                    <li class="menu-item menu-item-depth2">
+                        <a href="/services/dancing">Dancing
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li class="menu-item menu-item-depth1">
+                <a href="/products">Products
+                </a>
+            </li>
+            <li class="menu-item menu-item-depth1">
+                <a href="/contact">Contact
+                </a>
+            </li>
+        </ul>
+
+
+    </div>
+
+
+
+</nav>
