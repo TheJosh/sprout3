@@ -248,3 +248,50 @@
         top: 4px;
     }
 }
+
+
+/* ---- Attach wrapper ---- */
+.field-element-attach-wrapper {
+    position: relative;
+}
+
+.field-element-attach-wrapper__button {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    bottom: 1px;
+    border-radius: 0 5px 5px 0;
+    background: #d7dce0;
+    border: none;
+    outline: none;
+    padding: 0 7px;
+    z-index: 1;
+    cursor: pointer;
+    min-width: 45px;
+}
+
+.field-element-attach-wrapper__button svg {
+    vertical-align: middle;
+}
+
+.field-element-attach-wrapper__button:hover,
+.field-element-attach-wrapper__button:active,
+.field-element-attach-wrapper__button:focus {
+    background-color: #c8cdd2;
+}
+
+.field-element-attach-wrapper .field-element .field-input .textbox,
+.field-element-attach-wrapper .field-element .field-input select {
+    padding-right: 55px;
+}
+
+/* White */
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button {
+    background-color: #eaecf1;
+}
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button:hover,
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button:active,
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button:focus {
+    background-color: #e1e3e8;
+}
+

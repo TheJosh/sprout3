@@ -246,23 +246,6 @@ Table of Contents for search based navigation
 }
 
 /* ---- Social list ---- */
-.social-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-.social-list .icon {
-    font-size: 3.5rem;
-}
-.social-list__item a {
-    color: inherit;
-    display: block;
-}
-
-/* Inline */
-.social-list.social-list--inline .social-list__item {
-    display: inline-block;
-}
 
 /* ---- Block list ---- */
 
@@ -382,34 +365,11 @@ Table of Contents for search based navigation
 
 
 /* ---- Attach wrapper ---- */
-.field-element-attach-wrapper {
-    position: relative;
-}
-.field-element-attach-wrapper__button {
-    position: absolute;
-    top: 1px;
-    right: 1px;
-    bottom: 1px;
-    border-radius: 0 5px 5px 0;
-    background: #d7dce0;
-    border: none;
-    outline: none;
-    padding: 0 7px;
-    z-index: 1;
-    cursor: pointer;
-}
+
 .field-element-attach-wrapper__button .icon {
     color: #58595b;
 }
-.field-element-attach-wrapper__button:hover,
-.field-element-attach-wrapper__button:active,
-.field-element-attach-wrapper__button:focus {
-    background-color: #c8cdd2;
-}
-.field-element-attach-wrapper .field-element .field-input .textbox,
-.field-element-attach-wrapper .field-element .field-input select {
-    padding-right: 55px;
-}
+
 
 .field-element-attach-wrapper--small .field-element-attach-wrapper__button .icon,
 .field-element-attach-wrapper__button .icon {
@@ -417,15 +377,6 @@ Table of Contents for search based navigation
     margin-top: 2px;
 }
 
-/* White */
-.field-element-attach-wrapper.field-element-attach-wrapper--white .field-element-attach-wrapper__button {
-    background-color: #eaecf1;
-}
-.field-element-attach-wrapper.field-element-attach-wrapper--white .field-element-attach-wrapper__button:hover,
-.field-element-attach-wrapper.field-element-attach-wrapper--white .field-element-attach-wrapper__button:active,
-.field-element-attach-wrapper.field-element-attach-wrapper--white .field-element-attach-wrapper__button:focus {
-    background-color: #e1e3e8;
-}
 
 /* Responsive */
 /* BP small */
@@ -1247,17 +1198,7 @@ Table of Contents for search based navigation
 
 
 /* ---- Search Form ---- */
-.site-search-form {
-    margin: 0 0 40px;
-}
-.search-result {
-    border-top: 1px solid #ced2dc;
-    margin: 20px 0;
-    padding: 20px 0;
-}
-.search-result p:last-child {
-    margin-bottom: 0;
-}
+
 
 
 /* ---- Search pagination ---- */
