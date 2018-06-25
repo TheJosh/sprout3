@@ -83,7 +83,7 @@ use Sprout\Helpers\SocialNetworking;
 
     </div>
 
-    <div class="section section--footer section--small bg-orange">
+    <div class="section section--footer section-small bg-orange">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm--left-align">
@@ -96,7 +96,7 @@ use Sprout\Helpers\SocialNetworking;
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-sm--right-align">
-                    <ul class="social-list social-list--inline">
+                    <ul class="social-list">
                         <li class="social-list__item">
                             <?php echo SocialNetworking::pageLink('facebook'); ?>
                                 <?php include 'skin/default/images/icon-system/icon_facebook.svg';  ?>

@@ -1,5 +1,5 @@
 ---
-title:
+title: Social List
 ---
 
-[Insert description here]
+A simple link list of social media accounts

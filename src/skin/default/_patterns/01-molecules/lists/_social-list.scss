@@ -1,0 +1,14 @@
+.social-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.social-list__item {
+    display: inline-block;
+}
+
+.social-list__item a {
+    color: inherit;
+    display: block;
+}

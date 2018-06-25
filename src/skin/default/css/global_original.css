@@ -1440,18 +1440,6 @@ Table of Contents for search based navigation
 
 
 
-/* BP small */
-@media screen and (min-width: 48em) { /* 768px */
-    .promo-list {
-        margin-top: 30px;
-    }
-    .promo {
-        margin-bottom: 30px;
-    }
-    .promo__content {
-        padding: 25px 30px;
-    }
-}
 
 /* ---- Magnific Popup ---- */
 .mfp-image-holder .mfp-content {
