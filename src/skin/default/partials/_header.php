@@ -5,7 +5,7 @@ use Sprout\Helpers\Navigation;
 
 <header id="header">
 
-    <div class="section section--header bg-navyblue">
+    <div class="section section-header bg-navyblue">
 
         <div class="container">
 
@@ -29,39 +29,27 @@ use Sprout\Helpers\Navigation;
 
                     <div class="header__search">
 
-                        <form method="get" action="search">
+                        <div class="site-search-form site-search-form--header">
+                            <form action="search" method="get">
 
-                            <div class="row">
-
-                                <div class="col-xs-8">
-
-                                    <div class="field-element field-element--text field-element--white field-element--hidden-label">
-
+                                <div class="field-element-attach-wrapper">
+                                    <div class="field-element field-element--text field-element--hidden-label">
                                         <div class="field-label">
-
-                                            <label for="fm-site-search">Search the <?php echo Enc::html(Kohana::config('sprout.site_title')); ?> website</label>
-
+                                            <label for="fm-site-search">Search the Sprout3 test website</label>
                                         </div>
-
                                         <div class="field-input">
-
-                                            <input id="fm-site-search" class="textbox" type="text" name="q" value="<?php echo Enc::html(@$_GET['q']); ?>" placeholder="Enter your search here">
-
+                                            <input id="fm-site-search" class="textbox" name="q" value="products" placeholder="Enter your search here" type="text">
                                         </div>
-
                                     </div>
+                                    <button type="submit" class="field-element-attach-wrapper__button">
+                                        <span class="-vis-hidden">Search</span>
 
+                                        <?php include 'skin/default/images/icon-system/icon_search.svg' ?>
+
+                                    </button>
                                 </div>
-
-                                <div class="col-xs-4">
-
-                                    <button type="submit" class="button button-block">Search</button>
-
-                                </div>
-
-                            </div>
-
-                        </form>
+                            </form>
+                        </div>
 
                     </div>
 
