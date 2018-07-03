@@ -4242,46 +4242,67 @@
 		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-02-button-options\/00-atoms-buttons-and-links-02-button-options.mustache",
 		"oF": 0
 		},
-	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.html": {
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-button-icons\/00-atoms-buttons-and-links-03-button-icons.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.html",
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-button-icons\/00-atoms-buttons-and-links-03-button-icons.html",
 		"oF": 0
 		},
-	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.markup-only.html": {
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-button-icons\/00-atoms-buttons-and-links-03-button-icons.markup-only.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.markup-only.html",
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-button-icons\/00-atoms-buttons-and-links-03-button-icons.markup-only.html",
 		"oF": 0
 		},
-	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.mustache": {
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-button-icons\/00-atoms-buttons-and-links-03-button-icons.mustache": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-text-link\/00-atoms-buttons-and-links-03-text-link.mustache",
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-03-button-icons\/00-atoms-buttons-and-links-03-button-icons.mustache",
 		"oF": 0
 		},
-	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.html": {
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link\/00-atoms-buttons-and-links-04-text-link.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.html",
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link\/00-atoms-buttons-and-links-04-text-link.html",
 		"oF": 0
 		},
-	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.markup-only.html": {
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link\/00-atoms-buttons-and-links-04-text-link.markup-only.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.markup-only.html",
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link\/00-atoms-buttons-and-links-04-text-link.markup-only.html",
 		"oF": 0
 		},
-	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.mustache": {
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link\/00-atoms-buttons-and-links-04-text-link.mustache": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link-options\/00-atoms-buttons-and-links-04-text-link-options.mustache",
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-04-text-link\/00-atoms-buttons-and-links-04-text-link.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-05-text-link-options\/00-atoms-buttons-and-links-05-text-link-options.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-05-text-link-options\/00-atoms-buttons-and-links-05-text-link-options.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-05-text-link-options\/00-atoms-buttons-and-links-05-text-link-options.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-05-text-link-options\/00-atoms-buttons-and-links-05-text-link-options.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-05-text-link-options\/00-atoms-buttons-and-links-05-text-link-options.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-buttons-and-links-05-text-link-options\/00-atoms-buttons-and-links-05-text-link-options.mustache",
 		"oF": 0
 		},
 	"\/patlab\/public\/patterns\/00-atoms-buttons-and-links-inline-buttons\/00-atoms-buttons-and-links-inline-buttons.html": {
@@ -4492,6 +4513,34 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/patlab\/public\/patterns\/00-atoms-helpers\/index.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-icons-icons\/00-atoms-icons-icons.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-icons-icons\/00-atoms-icons-icons.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-icons-icons\/00-atoms-icons-icons.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-icons-icons\/00-atoms-icons-icons.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-icons-icons\/00-atoms-icons-icons.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-icons-icons\/00-atoms-icons-icons.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/00-atoms-icons\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/00-atoms-icons\/index.html",
 		"oF": 0
 		},
 	"\/patlab\/public\/patterns\/00-atoms-images-logo-reversed\/00-atoms-images-logo-reversed.html": {
@@ -5094,6 +5143,48 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-select\/01-molecules-forms-select.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-site-search-results\/01-molecules-forms-site-search-results.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-site-search-results\/01-molecules-forms-site-search-results.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-site-search-results\/01-molecules-forms-site-search-results.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-site-search-results\/01-molecules-forms-site-search-results.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-site-search-results\/01-molecules-forms-site-search-results.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-site-search-results\/01-molecules-forms-site-search-results.mustache",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-site-search\/01-molecules-forms-site-search.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-site-search\/01-molecules-forms-site-search.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-site-search\/01-molecules-forms-site-search.markup-only.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-site-search\/01-molecules-forms-site-search.markup-only.html",
+		"oF": 0
+		},
+	"\/patlab\/public\/patterns\/01-molecules-forms-site-search\/01-molecules-forms-site-search.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/patlab\/public\/patterns\/01-molecules-forms-site-search\/01-molecules-forms-site-search.mustache",
 		"oF": 0
 		},
 	"\/patlab\/public\/patterns\/01-molecules-forms-submit-bar\/01-molecules-forms-submit-bar.html": {
@@ -13398,7 +13489,7 @@
 		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/02-button-options.mustache",
 		"oF": 0
 		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-text-link.md": {
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-button-icons.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -13407,7 +13498,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-text-link.html",
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-button-icons.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -13416,14 +13507,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-text-link.mustache": {
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-button-icons.mustache": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-text-link.mustache",
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/03-button-icons.mustache",
 		"oF": 0
 		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link-options.md": {
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -13432,7 +13523,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link-options.html",
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -13441,11 +13532,36 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link-options.mustache": {
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link.mustache": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link-options.mustache",
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/04-text-link.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/05-text-link-options.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/05-text-link-options.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/05-text-link-options.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/05-text-link-options.mustache",
 		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/00-atoms\/buttons-and-links\/_button.scss": {
@@ -13801,6 +13917,44 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/skin\/default\/_patterns\/00-atoms\/helpers\/vis-hidden.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/icons\/_icons.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/icons\/_icons.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/icons\/icons.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/icons\/icons.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/00-atoms\/icons\/icons.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/00-atoms\/icons\/icons.mustache",
 		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/00-atoms\/images\/_images.scss": {
@@ -14923,6 +15077,56 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/select.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/site-search-results.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/site-search-results.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/site-search-results.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/site-search-results.mustache",
+		"oF": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/site-search.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/site-search.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/skin\/default\/_patterns\/01-molecules\/forms\/site-search.mustache": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/01-molecules\/forms\/site-search.mustache",
 		"oF": 0
 		},
 	"\/skin\/default\/_patterns\/01-molecules\/forms\/submit-bar.md": {

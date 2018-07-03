@@ -2,4 +2,4 @@
 title: Site Search Form
 ---
 
-[Insert description here]
+See /search for HTML
