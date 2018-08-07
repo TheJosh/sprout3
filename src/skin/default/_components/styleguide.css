@@ -1,0 +1,36 @@
+
+/* ------------------------------------------------------
+Extra Styleguide styles
+
+
+**** Typography
+---- Fonts
+
+
+------------------------------------------------------ */
+
+.sg-palette-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-gap: 1rem;
+}
+
+.sg-palette-list__item {
+    padding: 5px;
+    display: grid;
+    grid-template-rows: 85px auto;
+}
+
+.sg-palette-list__item code {
+    padding: 2px 4px;
+}
+
+.sg-palette-list__item__swatch {
+    padding: 5px;
+    border-radius: 8px 8px 0 0;
+}
+
+.sg-palette-list__item__swatch code {
+    background: rgba(255,255,255,.5);
+    color: #000
+}
