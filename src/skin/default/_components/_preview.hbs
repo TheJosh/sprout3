@@ -1,10 +1,20 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="no-js">
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>Preview Layout</title>
+
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="{{ path '/css/normalize.css' }}">
+    <link rel="stylesheet" href="{{ path '/css/flexboxgrid.css' }}">
     <link rel="stylesheet" href="{{ path '/css/global.css' }}">
+
+    <script src="{{ path '/js/frankenmenu.js' }}"></script>
+    <script src="{{ path '/js/skin.js' }}"></script>
+
 </head>
 <body>
     {{{ yield }}}

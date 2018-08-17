@@ -1,0 +1,7 @@
+title: "Tile List"
+notes: "A list of tile promos 3 columns on tablet and up. Requires a wrapper class like <code>container</code> to not force a horizontal scroll."
+context:
+ button:
+  text: "Call to Action"
+ tile:
+  text: "A lovely paragraph of text"

@@ -1,0 +1,6 @@
+title: Tile
+notes: "Simple Promotional Tile"
+context:
+ text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quaerat dolor cupiditate at rerum ullam odio, tenetur iste enim repudiandae..."
+ button:
+  text: "Call To Action"

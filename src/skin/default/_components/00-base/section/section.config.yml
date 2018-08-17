@@ -1,0 +1,32 @@
+title: "Section component"
+collated: true
+notes: "Top and bottom padding to denote a new area of content"
+context:
+ modifier: default
+ text: "White section with default text"
+variants:
+ -
+  name: "Small Section"
+  context:
+   modifier: "lightgrey section-small"
+   text: "Small Section"
+ -
+  name: "Large Section"
+  context:
+   modifier: "white section-large"
+   text: "Large Section"
+ -
+  name: "Navy Blue"
+  context:
+   modifier: "navyblue reverse-text"
+   text: "Navy blue Section with reverse text"
+ -
+  name: Orange
+  context:
+   modifier: "orange reverse-text"
+   text: "Orange Section with reverse text"
+ -
+  name: Green
+  context:
+   modifier: "green reverse-text"
+   text: "Green Section with reverse text"
