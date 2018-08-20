@@ -1,0 +1,14 @@
+.reverse-text {
+    color: $color-white;
+}
+
+.reverse-text a {
+    color: inherit;
+    opacity: .7;
+}
+
+.reverse-text a:hover,
+.reverse-text a:focus,
+.reverse-text a:active {
+    opacity: 1;
+}

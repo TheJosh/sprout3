@@ -1,0 +1,297 @@
+.field-element {
+    margin-bottom: 13px;
+}
+
+@media screen and (min-width: 48em) { /* 768px */
+    .field-element {
+        margin-bottom: 21px;
+    }
+}
+
+.field-element:before,
+.field-element:after {
+    content: " ";
+    display: table;
+}
+
+.field-element:after {
+    clear: both;
+}
+
+.field-input .textbox,
+.field-input select {
+    display: block;
+    width: 100%;
+    outline: none;
+    line-height: normal;
+    padding: 11px 20px 10px;
+    -webkit-appearance: none;
+}
+.field-input .textbox,
+.field-input select,
+.field-element--fileselector .fs-preview-wrapper {
+    line-height: 1.4;
+    border: 1px solid #CED2DC;
+    border-radius: 5px;
+    background-color: #EEF0F3;
+}
+
+/* ---- White ---- */
+.field-element.field-element--white .field-input .textbox,
+.field-element.field-element--white .field-input select,
+.field-element--white.field-element--fileselector .fs-preview-wrapper {
+    background-color: #fff;
+}
+
+
+/* ---- Disabled ---- */
+.field-element.field-element--disabled,
+.field-element .fieldset-input.fieldset-input--disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+.field-element.field-element--disabled .textbox[disabled],
+.field-element.field-element--disabled select[disabled],
+.field-element.field-element--disabled button[disabled],
+.field-element.field-element--disabled input[type="checkbox"] + label,
+.field-element .fieldset-input.fieldset-input--disabled input[type="checkbox"] + label,
+.field-element.field-element--disabled input[type="radio"] + label,
+.field-element .fieldset-input.fieldset-input--disabled input[type="radio"] + label {
+    cursor: not-allowed;
+}
+
+/* ---- Placeholders ---- */
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #a29999;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+    color: #a29999;
+}
+
+:-ms-input-placeholder { /* IE 10+ */
+    color: #a29999;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+    color: #a29999;
+}
+
+.field-element--dropdown--placeholder .field-input select {
+    color: #a29999;
+}
+
+/* ---- Fieldset ---- */
+.field-element fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* ---- Labels and legends ---- */
+.field-label,
+.fieldset__legend {
+    font-weight: 600;
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+    line-height: 1.2;
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+}
+
+/* Instead of h3s */
+.label.heading {
+    margin: 30px 0px 20px;
+    padding: 8px 8px 8px 0px;
+    border-bottom: 1px solid #E2E2E2;
+}
+
+/* Hidden labels */
+.field-element--hidden-label .field-label,
+.field-element--hidden-label .fieldset__legend {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/* ---- Required ---- */
+.field-label__required {
+    text-indent: -9999px;
+    line-height: 0;
+    display: inline-block;
+}
+
+.field-label__required:after {
+    content: "*";
+    text-indent: 0;
+    display: block;
+    line-height: inherit;
+}
+
+
+/* ---- Field helpers ---- */
+.field-helper {
+    font-weight: 400;
+    font-size: 1.3rem;
+    margin-bottom: 1em;
+}
+
+.field-label .field-helper {
+    margin-top: 0.3em;
+    margin-bottom: 0;
+}
+
+/* ---- Field errors ---- */
+.field-element.field-element--error  .field-input .textbox,
+.field-element.field-element--error  .field-input select {
+    background-color: #f7eaec;
+}
+.field-error__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.field-error__list__item {
+    color: #fff;
+    background: #E04D4D;
+    padding: 10px 20px;
+    margin: 11px 0;
+    border-left: 6px solid #b72323;
+}
+
+
+
+/* ---- Checkboxes and radio buttons ---- */
+
+.field-element.field-element--checkbox,
+.field-element.field-element--radio {
+    font-size: 1.6rem;
+}
+
+.field-element input[type="checkbox"],
+.field-element input[type="radio"] {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.field-element input[type="checkbox"] + label,
+.field-element input[type="radio"] + label {
+    padding-left: 34px;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+}
+
+
+.field-element input[type="checkbox"] + label:before,
+.field-element input[type="radio"] + label:before {
+    content: " ";
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin-right: 13px;
+    position: relative;
+    top: 3px;
+    background-color: #EEF0F3;
+    border: 1px solid #CED2DC;
+    margin-left: -34px;
+}
+
+/* Check and dot */
+.field-element input[type="checkbox"]:checked + label:after,
+.field-element input[type="radio"]:checked + label:after {
+    content: " ";
+    position: absolute;
+    left: 1px;
+    top: 6px;
+}
+
+/* Without labels */
+.field-element.field-element--checkbox--no-label input[type="checkbox"] + label,
+.field-element.field-element--radio--no-label input[type="radio"] + label {
+    padding-left: 0;
+}
+
+.field-element.field-element--checkbox--no-label input[type="checkbox"] + label:before,
+.field-element.field-element--radio--no-label input[type="radio"] + label:before {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.field-element.field-element--checkbox--no-label input[type="checkbox"]:checked + label:after,
+.field-element.field-element--radio--no-label input[type="radio"]:checked + label:after {
+    left: 1px;
+}
+
+.field-element.field-element.field-element--radio--no-label input[type="radio"]:checked + label:after {
+    margin-left: 4px;
+}
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+    .field-element input[type="checkbox"] + label:before,
+    .field-element input[type="radio"] + label:before {
+        width: 24px;
+        height: 24px;
+        margin-right: 13px;
+        top: 4px;
+    }
+}
+
+
+/* ---- Attach wrapper ---- */
+.field-element-attach-wrapper {
+    position: relative;
+}
+
+.field-element-attach-wrapper__button {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    bottom: 1px;
+    border-radius: 0 5px 5px 0;
+    background: #d7dce0;
+    border: none;
+    outline: none;
+    padding: 0 7px;
+    z-index: 1;
+    cursor: pointer;
+    min-width: 45px;
+}
+
+.field-element-attach-wrapper__button svg {
+    vertical-align: middle;
+}
+
+.field-element-attach-wrapper__button:hover,
+.field-element-attach-wrapper__button:active,
+.field-element-attach-wrapper__button:focus {
+    background-color: #c8cdd2;
+}
+
+.field-element-attach-wrapper .field-element .field-input .textbox,
+.field-element-attach-wrapper .field-element .field-input select {
+    padding-right: 55px;
+}
+
+/* White */
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button {
+    background-color: #eaecf1;
+}
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button:hover,
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button:active,
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button:focus {
+    background-color: #e1e3e8;
+}
+

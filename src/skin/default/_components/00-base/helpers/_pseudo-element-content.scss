@@ -1,0 +1,22 @@
+
+/* Angle Brackets */
+.-r-arrow-after:after {
+    content: "\00a0\003e";
+}
+.-r-arrow-before:before {
+    content: "\003e\00a0";
+}
+.-l-arrow-after:after {
+    content: "\00a0\003c";
+}
+.-l-arrow-before:before {
+    content: "\003c\00a0";
+}
+
+/* Ellipsis */
+.ellipsis-2:after {
+    content: "..";
+}
+.ellipsis-3:after {
+    content: "...";
+}

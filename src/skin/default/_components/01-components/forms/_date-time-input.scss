@@ -1,0 +1,31 @@
+
+/* - Date/time picker - */
+.field-element.field-element--datetimepicker .field-input .textbox,
+.field-element.field-element--datetimerangepicker .field-input .textbox {
+    padding-left: 55px;
+    background-image: url(../images/form-icons.svg),
+    url(../images/form-icons.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: top -93px left 12px, top -447px left 0;
+}
+
+/* White */
+.field-element.field-element--datetimepicker.field-element--white .field-input .textbox,
+.field-element.field-element--datetimerangepicker.field-element--white .field-input .textbox{
+    background-position: top -93px left 12px, top -607px left 0;
+}
+
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+    .field-element.field-element--datetimepicker .field-input .textbox,
+    .field-element.field-element--datetimerangepicker .field-input .textbox {
+        background-position: top -88px left 12px, top -447px left 0;
+    }
+
+    /* White */
+    .field-element.field-element--datetimepicker.field-element--white .field-input .textbox,
+    .field-element.field-element--datetimerangepicker.field-element--white .field-input .textbox {
+        background-position: top -88px left 12px, top -607px left 0;
+    }
+}

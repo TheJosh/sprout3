@@ -1,0 +1,34 @@
+
+/* Box */
+.field-element input[type="checkbox"]:checked + label:before {
+    border-radius: 1px;
+}
+
+/* Check (pseudo element) */
+.field-element input[type="checkbox"]:checked + label:after,
+.field-element.field-element--small input[type="checkbox"]:checked + label:after {
+    content: " ";
+    background-image: url(../images/form-icons.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: top -702px left 1px;
+    width: 17px;
+    height: 17px;
+    margin: -2px 0 0 -1px;
+}
+
+.field-element.field-element--checkboxlist--columns .field-element__input-set {
+    -webkit-columns: 3;
+    -moz-columns: 3;
+    columns: 3;
+}
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+    .field-element input[type="checkbox"]:checked + label:after {
+        background-position: top -731px left 0;
+        width: 23px;
+        height: 23px;
+        margin: 0;
+    }
+}
+

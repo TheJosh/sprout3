@@ -1,0 +1,82 @@
+/* - Right - */
+
+.col--right-align {
+    text-align: right;
+}
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+    .col-sm--right-align {
+        text-align: right;
+    }
+}
+
+/* BP medium */
+@media only screen and (min-width: 62em) { /* 992px */
+    .col-md--right-align {
+        text-align: right;
+    }
+}
+
+/* BP large */
+@media only screen and (min-width: 75em) { /* 1200px */
+    .col-lg--right-align {
+        text-align: right;
+    }
+}
+
+
+/* - Left - */
+
+.col--left-align {
+    text-align: left;
+}
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+    .col-sm--left-align {
+        text-align: left;
+    }
+}
+
+/* BP medium */
+@media only screen and (min-width: 62em) { /* 992px */
+    .col-md--left-align {
+        text-align: left;
+    }
+}
+
+/* BP large */
+@media only screen and (min-width: 75em) { /* 1200px */
+    .col-lg--left-align {
+        text-align: left;
+    }
+}
+
+
+/* - center - */
+
+.col--center-align {
+    text-align: center;
+}
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+    .col-sm--center-align {
+        text-align: center;
+    }
+}
+
+/* BP medium */
+@media only screen and (min-width: 62em) { /* 992px */
+    .col-md--center-align {
+        text-align: center;
+    }
+}
+
+/* BP large */
+@media only screen and (min-width: 75em) { /* 1200px */
+    .col-lg--center-align {
+        text-align: center;
+    }
+}

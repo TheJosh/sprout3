@@ -1,0 +1,32 @@
+
+ul.messages {
+    list-style: none;
+    margin: 16px 0 25px;
+    padding: 0;
+}
+
+ul.messages li {
+    margin: 0 0 15px;
+    padding: 10px 20px;
+    vertical-align: bottom;
+    text-align: left;
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 1.2em;
+}
+
+ul.messages .error {
+    background: #E04D4D;
+    border-left: 4px solid #B72323;
+    color: #FFF !important;
+}
+
+ul.messages .confirm {
+    color: #FFF !important;
+    background: #6DBB5A;
+    border-left: 4px solid #439230;
+}
+
+ul.messages a {
+    color: #FFF;
+}

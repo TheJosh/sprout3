@@ -1,0 +1,13 @@
+
+ul.inline,
+ol.inline {
+    list-style-type: none;
+    margin-left: 0;
+}
+
+ul.inline > li,
+ol.inline > li {
+    display: inline-block;
+    padding-left: 12px;
+    padding-right: 12px;
+}

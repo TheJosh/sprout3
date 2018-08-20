@@ -1,0 +1,44 @@
+
+
+/* - Montserrat - */
+
+/*
+font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+*/
+
+/* Light (used as regular) */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/montserrat/montserrat-light-webfont.eot');
+    src: url('../fonts/montserrat/montserrat-light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/montserrat/montserrat-light-webfont.woff2') format('woff2'),
+    url('../fonts/montserrat/montserrat-light-webfont.woff') format('woff'),
+    url('../fonts/montserrat/montserrat-light-webfont.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Regular (used as semibold) */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/montserrat/montserrat-regular-webfont.eot');
+    src: url('../fonts/montserrat/montserrat-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/montserrat/montserrat-regular-webfont.woff2') format('woff2'),
+    url('../fonts/montserrat/montserrat-regular-webfont.woff') format('woff'),
+    url('../fonts/montserrat/montserrat-regular-webfont.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* Semi bold (used as bold) */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/montserrat/montserrat-semibold-webfont.eot');
+    src: url('../fonts/montserrat/montserrat-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/montserrat/montserrat-semibold-webfont.woff2') format('woff2'),
+    url('../fonts/montserrat/montserrat-semibold-webfont.woff') format('woff'),
+    url('../fonts/montserrat/montserrat-semibold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: bold;
+}
+

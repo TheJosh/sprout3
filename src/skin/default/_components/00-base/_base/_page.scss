@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+html,
+body {
+    background: #FFF;
+    height: 100%;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    line-height: 1.5;
+    font-size: 1.6em;
+    color: #222;
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

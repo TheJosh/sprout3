@@ -1,0 +1,192 @@
+
+.button {
+    display: inline-block;
+    margin-bottom: 0;
+    white-space: normal;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background-color: #35ab75;
+    text-decoration: none;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    opacity: 1;
+    position: relative;
+    font-weight: 600;
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    line-height: 1.2;
+}
+
+/* Small */
+.button,
+.button-small,
+.button--small {
+    font-size: 1.4rem;
+    padding: 8px 10px 8px;
+}
+
+
+/* - Button icons - */
+.button__icon {
+    display: inline-block;
+    vertical-align: top;
+    width: 16px;
+    height: 16px;
+}
+
+.button--large .button__icon {
+    width: 20px;
+    height: 20px;
+}
+
+.button__icon--right {
+    margin-left: 8px;
+}
+
+.button__icon--left {
+    margin-right: 8px;
+}
+
+.button__icon svg {
+    width: 16px;
+    height: 16px;
+}
+
+.button__icon svg path {
+    fill: $color-white;
+    transition: fill 250ms ease-in-out;
+}
+
+.button__icon--navy svg path {
+    fill: $color-brand-navy;
+}
+
+.button__icon--orange svg path {
+    fill: $color-brand-orange;
+}
+
+.button:hover .button__icon--light-purple svg path {
+    fill: #ffffff;
+}
+
+
+/* - Button styles - */
+
+/* Green */
+.button {
+    background-color: #35ab75;
+    color: #fff;
+}
+
+.button:hover,
+.button:focus {
+    background-color: #2C9867;
+    color: #fff;
+}
+
+/* Orange */
+.button--alt {
+    background-color: #F77450;
+    color: #fff;
+}
+
+.button--alt:hover,
+.button--alt:focus {
+    background-color: #E45E3A;
+    color: #fff;
+}
+
+/* Red */
+.button--negative {
+    background-color: #DC5959;
+    color: #fff;
+}
+
+.button--negative:hover,
+.button--negative:focus {
+    background-color: #CC4C4C;
+    color: #fff;
+}
+
+/* Grey */
+.button--neutral {
+    background-color: #D0D3DA;
+    color: #24292f;
+}
+
+.button--neutral:hover,
+.button--neutral:focus {
+    background-color: #35ab4d;
+    color: #24292f;
+}
+
+.button--neutral svg path{
+    fill: #24292f;
+}
+
+/* Green */
+.button--positive {
+    background-color: #28943e;
+    color: #fff;
+}
+
+.button--positive:hover,
+.button--positive:focus {
+    background-color: #BCBFC5;
+    color: #fff;
+}
+
+/* Block */
+.button--block {
+    display: block;
+    width: 100%;
+}
+
+/* Disabled/unavailable button style */
+.button[disabled],
+.button--disabled,
+.button--disabled:hover,
+.button--disabled:focus,
+.button--disabled:active {
+    border: none;
+    opacity: 0.4;
+    cursor: default;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+}
+
+/* Firefox: Get rid of the inner focus border */
+.button::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+    /* Regular */
+    .button {
+        padding: 12px 18px 12px;
+        font-size: 1.5rem;
+    }
+
+}
+
+/* BP medium */
+@media only screen and (min-width: 62em) { /* 992px */
+    /* Large */
+    .button-large,
+    .button--large {
+        font-size: 1.9rem;
+        padding: 14px 26px;
+    }
+
+    .button--large .button__icon svg {
+        width: 24px;
+        height: 24px;
+    }
+
+}
