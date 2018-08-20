@@ -1,6 +1,9 @@
 title: Tile
-notes: "Simple Promotional Tile"
+notes: Simple Promotional Tile
 context:
- text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quaerat dolor cupiditate at rerum ullam odio, tenetur iste enim repudiandae..."
+ tile:
+  img: http://placehold.it/300x200
+  heading: A lovely heading
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quaerat dolor cupiditate at rerum ullam odio, tenetur iste enim repudiandae...
  button:
-  text: "Call To Action"
+  text: Call To Action
