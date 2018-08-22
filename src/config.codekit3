@@ -3178,6 +3178,26 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_components\/00-base\/buttons-and-links\/_text-link.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/00-base\/buttons-and-links\/_text-link.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_components\/00-base\/buttons-and-links\/button-icons-left.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/00-base\/buttons-and-links\/button-icons-left.config.yml",
+		"oF": 0
+		},
 	"\/skin\/default\/_components\/00-base\/buttons-and-links\/button-icons-left.hbs": {
 		"cB": 0,
 		"ft": 8192,
@@ -3871,19 +3891,6 @@
 		"oAP": "\/skin\/default\/_components\/00-base\/typography\/lists\/01-ordered-list.hbs",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/00-base\/typography\/lists\/_block-list.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/skin\/default\/_components\/00-base\/typography\/lists\/_block-list.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/skin\/default\/_components\/00-base\/typography\/lists\/_inline-list.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -3909,13 +3916,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/skin\/default\/_components\/00-base\/typography\/lists\/block-list.hbs": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/00-base\/typography\/lists\/block-list.hbs",
-		"oF": 0
 		},
 	"\/skin\/default\/_components\/00-base\/typography\/lists\/inline-list.hbs": {
 		"cB": 0,
@@ -4343,6 +4343,33 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/skin\/default\/_components\/01-components\/lists\/block-list\/_block-list.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/01-components\/lists\/block-list\/_block-list.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_components\/01-components\/lists\/block-list\/block-list.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/lists\/block-list\/block-list.config.yml",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/lists\/block-list\/block-list.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/lists\/block-list\/block-list.hbs",
+		"oF": 0
 		},
 	"\/skin\/default\/_components\/01-components\/lists\/children-pg-list\/_children-pg-list.scss": {
 		"aP": 0,
@@ -4868,6 +4895,16 @@
 		"oA": 0,
 		"oAP": "\/skin\/default\/css\/global.css.map",
 		"oF": 0
+		},
+	"\/skin\/default\/css\/global_original-unedited-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/skin\/default\/css\/global_original-unedited-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/skin\/default\/css\/global_original-unedited.css": {
 		"aP": 1,

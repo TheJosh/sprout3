@@ -61,13 +61,13 @@
 
 @import "00-base/typography/lists/inline-list";
 
-@import "00-base/typography/lists/block-list";
-
 
 
 /* ---- Buttons and links ---- */
 
 
+
+@import "00-base/buttons-and-links/text-link";
 
 @import "00-base/buttons-and-links/button";
 
@@ -139,6 +139,8 @@
 @import "01-components/lists/social-list";
 
 @import "01-components/lists/children-pg-list/children-pg-list";
+
+@import "01-components/lists/block-list/block-list";
 
 
 

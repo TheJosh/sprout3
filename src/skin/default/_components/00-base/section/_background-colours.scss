@@ -18,3 +18,18 @@
 .bg-green {
     background-color: $color-brand-green;
 }
+
+.reverse-text {
+    color: #ffffff;
+}
+
+.reverse-text a {
+    color: inherit;
+}
+
+.reverse-text a:hover,
+.reverse-text a:focus,
+.reverse-text a:active {
+    color: inherit;
+    opacity: .75;
+}

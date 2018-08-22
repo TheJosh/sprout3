@@ -63,33 +63,3 @@ sub {
 small {
     font-size: 1.28rem;
 }
-
-
-/* ---- Links ---- */
-a {
-    color: #35ab75;
-    word-break: break-word;
-    transition: all 250ms ease-in-out;
-}
-
-a:hover,
-a:active,
-a:focus {
-    color: #2d9c69;
-}
-
-/* Address `outline` inconsistency between Chrome and other browsers. */
-a:focus {
-    outline: thin dotted;
-}
-
-/* Improve readability when focused and also mouse hovered in all browsers. */
-a:active,
-a:hover {
-    outline: 0;
-}
-
-/* Include file type and size in document links */
-a.document::after {
-    content: " (" attr(data-ext) " " attr(data-size) ")";
-}

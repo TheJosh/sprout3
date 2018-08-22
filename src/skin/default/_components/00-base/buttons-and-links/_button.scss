@@ -17,6 +17,7 @@
     font-weight: 600;
     font-family: 'Montserrat', Helvetica, Arial, sans-serif;
     line-height: 1.2;
+    transition: all 250ms ease-in-out;
 }
 
 /* Small */
@@ -81,9 +82,16 @@
 }
 
 .button:hover,
-.button:focus {
+.button:focus,
+.button:active {
     background-color: #2C9867;
     color: #fff;
+}
+
+.reverse-text .button:hover,
+.reverse-text .button:focus,
+.reverse-text .button:active {
+    opacity: 1;
 }
 
 /* Orange */

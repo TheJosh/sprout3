@@ -1,6 +1,6 @@
 <footer id="footer">
 
-    <div class="section section--pre-footer bg-navyblue">
+<div class="section section--pre-footer bg-navyblue reverse-text">
 
         <div class="container">
 
@@ -67,7 +67,7 @@
 
     </div>
 
-    <div class="section section--footer section--small bg-orange">
+<div class="section section--footer section-small bg-orange reverse-text">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm--left-align">
@@ -80,38 +80,7 @@
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-sm--right-align">
-                    <ul class="social-list social-list--inline">
-                        <li class="social-list__item">
-                            <a href="#">
-                                <svg class="icon icon-facebook"><use xlink:href="<?= Url::current(true); ?>#icon-facebook"></use></svg>
-                                <span class="-vis-hidden">Follow us on Facebook</span>
-                            </a>
-                        </li>
-                        <li class="social-list__item">
-                            <a href="#">
-                                <svg class="icon icon-twitter"><use xlink:href="<?= Url::current(true); ?>#icon-twitter"></use></svg>
-                                <span class="-vis-hidden">Follow us on Twitter</span>
-                            </a>
-                        </li>
-                        <li class="social-list__item">
-                            <a href="#">
-                                <svg class="icon icon-instagram"><use xlink:href="<?= Url::current(true); ?>#icon-instagram"></use></svg>
-                                <span class="-vis-hidden">Follow us on Instagram</span>
-                            </a>
-                        </li>
-                        <li class="social-list__item">
-                            <a href="#">
-                                <svg class="icon icon-youtube"><use xlink:href="<?= Url::current(true); ?>#icon-youtube"></use></svg>
-                                <span class="-vis-hidden">Follow us on YouTube</span>
-                            </a>
-                        </li>
-                        <li class="social-list__item">
-                            <a href="#">
-                                <svg class="icon icon-pinterest"><use xlink:href="<?= Url::current(true); ?>#icon-pinterest"></use></svg>
-                                <span class="-vis-hidden">Follow us on Pinterest</span>
-                            </a>
-                        </li>
-                    </ul>
+                    {{> @social-list }}
                 </div>
             </div>
 
