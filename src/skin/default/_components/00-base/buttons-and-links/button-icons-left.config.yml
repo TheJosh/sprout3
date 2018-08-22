@@ -1,0 +1,29 @@
+title: 'Button component'
+collated: true
+context:
+  modifier:
+  button:
+    icon-modifier: 'button__icon--left'
+    text: 'standard left icon button'
+variants:
+  -
+    name: small Left
+    context:
+      modifier: 'button--small'
+      button:
+        icon-modifier: 'button__icon--left'
+        text: 'small left icon button'
+  -
+    name: Large Left
+    context:
+      modifier: 'button--large'
+      button:
+        icon-modifier: 'button__icon--left'
+        text: 'large left icon buttons'
+  -
+    name: alt Left
+    context:
+      modifier: 'button--alt'
+      button:
+        icon-modifier: 'button__icon--left'
+        text: 'alt left icon button'

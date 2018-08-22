@@ -1,25 +1,5 @@
 title: Home
 context:
- site-name: Sprout 3 Component Library
- tiles:
-  -
-   tile:
-    img: http://placehold.it/300x200
-    heading: A lovely heading
-    text: Lorem ipsum
-   button:
-    text: Read more
-  -
-   tile:
-    img: http://placehold.it/300x200
-    heading: A lovely heading
-    text: More ipsum
-   button:
-    text: Sign up
-  -
-   tile:
-    img: http://placehold.it/300x200
-    heading: A lovely heading
-    text: Lorem ipsum
-   button:
-    text: Read more
+  site-name: Sprout 3 Component Library
+  tile-list: '@tile-list'
+  block-list: '@block-list.block-list'

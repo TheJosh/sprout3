@@ -1,33 +1,34 @@
 title: Block List
 context:
- block-list-items:
-  -
-   block-list:
-    link: "#"
-    link-text: Home
-  -
-   block-list:
-    link: "#"
-    link-text: About us
-  -
-   block-list:
-    link: "#"
-    link-text: Services
-  -
-   block-list:
-    link: "#"
-    link-text: Products
-  -
-   block-list:
-    link: "#"
-    link-text: Our team
-  -
-   block-list:
-    link: "#"
-    link-text: Terms &amp; Conditions
-  -
-   block-list:
-    link: "#"
-    link-text: Privacy Policy
+  block-list:
+    block-list-items:
+    -
+      block-list:
+        link: "#"
+        link-text: Home
+    -
+      block-list:
+        link: "#"
+        link-text: About us
+    -
+      block-list:
+        link: "#"
+        link-text: Services
+    -
+      block-list:
+        link: "#"
+        link-text: Products
+    -
+      block-list:
+        link: "#"
+        link-text: Our team
+    -
+      block-list:
+        link: "#"
+        link-text: Terms & Conditions
+    -
+      block-list:
+        link: "#"
+        link-text: Privacy Policy
 
 

@@ -1,55 +1,55 @@
 title: "Button component"
 collated: true
 context:
- modifier: default
- button:
-  text: "Read more"
+  #modifier:
+  button:
+    text: "Read more"
 variants:
- -
-  name: small
-  context:
-   modifier: small
-   button:
-    text: "small button"
- -
-  name: large
-  context:
-   modifier: large
-   button:
-    text: "large button"
- -
-  name: alt
-  context:
-   modifier: alt
-   button:
-    text: "alt button"
- -
-  name: neutral
-  context:
-   modifier: neutral
-   button:
-    text: "neutral button"
- -
-  name: Warning
-  context:
-   modifier: warning
-   button:
-    text: "warning button"
- -
-  name: positive
-  context:
-   modifier: positive
-   button:
-    text: "positive button"
- -
-  name: block
-  context:
-   modifier: block
-   button:
-    text: "block button"
- -
-  name: disabled
-  context:
-   modifier: disabled
-   button:
-    text: "disabled button"
+  -
+    name: small
+    context:
+      modifier: button--small
+      button:
+        text: "small button"
+  -
+    name: large
+    context:
+      modifier: button--large
+      button:
+        text: "large button"
+  -
+    name: alt
+    context:
+      modifier: button--alt
+      button:
+        text: "alt button"
+  -
+    name: neutral
+    context:
+      modifier: button--neutral
+      button:
+        text: "neutral button"
+  -
+    name: Warning
+    context:
+      modifier: button--warning
+      button:
+        text: "warning button"
+  -
+    name: positive
+    context:
+      modifier: button--positive
+      button:
+        text: "positive button"
+  -
+    name: block
+    context:
+      modifier: button--block
+      button:
+        text: "block button"
+  -
+    name: disabled
+    context:
+      modifier: button--disabled
+      button:
+        text: "disabled button"

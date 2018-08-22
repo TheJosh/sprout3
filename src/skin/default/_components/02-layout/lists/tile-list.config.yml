@@ -1,25 +1,26 @@
 title: Tile List
 notes: A list of tile promos 3 columns on tablet and up. Requires a wrapper class like <code>container</code> to not force a horizontal scroll.
 context:
- tiles:
-  -
-   tile:
-    img: http://placehold.it/300x200
-    heading: A lovely heading
-    text: Lorem ipsum
-   button:
-    text: Read more
-  -
-   tile:
-    img: http://placehold.it/300x200
-    heading: A lovely heading
-    text: More ipsum
-   button:
-    text: Sign up
-  -
-   tile:
-    img: http://placehold.it/300x200
-    heading: A lovely heading
-    text: Lorem ipsum
-   button:
-    text: Read more
+  tile-list:
+    tiles:
+    -
+      tile:
+        img: http://placehold.it/300x200
+        heading: A lovely heading
+        text: Lorem ipsum
+      button:
+        text: Read more
+    -
+      tile:
+        img: http://placehold.it/300x200
+        heading: A lovely heading
+        text: More ipsum
+      button:
+        text: Sign up
+    -
+      tile:
+        img: http://placehold.it/300x200
+        heading: A lovely heading
+        text: Lorem ipsum
+      button:
+        text: Read more
