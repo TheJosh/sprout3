@@ -4,6 +4,8 @@ title: Design Variables
 
 Something offered in Pat Lab, and also in this Fractal demo. http://bits.24ways.org/docs/tokens
 
+You can find info on controlling colour with sass color functions here... https://robots.thoughtbot.com/controlling-color-with-sass-color-functions
+
 ## Colour Palettes
 
 ### Brand Colours
