@@ -3223,6 +3223,13 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/skin\/default\/_components\/00-base\/buttons-and-links\/button-icons-right.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/00-base\/buttons-and-links\/button-icons-right.config.yml",
+		"oF": 0
+		},
 	"\/skin\/default\/_components\/00-base\/buttons-and-links\/button-icons-right.hbs": {
 		"cB": 0,
 		"ft": 8192,
@@ -4298,7 +4305,7 @@
 		"oAP": "\/skin\/default\/_components\/01-components\/forms\/total-selector.hbs",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/01-components\/hero-banner\/_hero-banner.scss": {
+	"\/skin\/default\/_components\/01-components\/hero-banner\/_hero-banner-01.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4306,16 +4313,43 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/_hero-banner.css",
+		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/_hero-banner-01.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner.hbs": {
+	"\/skin\/default\/_components\/01-components\/hero-banner\/_hero-banner-02.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/_hero-banner-02.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-01.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner.hbs",
+		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-01.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-02.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-02.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner.config.yml",
 		"oF": 0
 		},
 	"\/skin\/default\/_components\/01-components\/lists\/_sidebar-linklist.scss": {
@@ -4778,9 +4812,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/skin\/default\/_components\/styleguide-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"\/skin\/default\/_docs\/01-index.md": {
@@ -4800,6 +4834,13 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/skin\/default\/_docs\/02-design-variables.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_docs\/02-design-variables.html",
+		"oF": 0
 		},
 	"\/skin\/default\/_docs\/02-design-variables.md": {
 		"cB": 0,

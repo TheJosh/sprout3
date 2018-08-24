@@ -9,9 +9,13 @@ Extra Styleguide styles
 
 ------------------------------------------------------ */
 
+.Prose {
+    max-width: 55em;
+}
+
 .sg-palette-list {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
     grid-gap: 1rem;
 }
 
@@ -22,7 +26,8 @@ Extra Styleguide styles
 }
 
 .sg-palette-list__item code {
-    padding: 2px 4px;
+    padding: 4px 6px;
+    line-height: 1.3;
 }
 
 .sg-palette-list__item__swatch {
