@@ -1,0 +1,26 @@
+.hero-banner-02 {
+    position: relative;
+    background: $color-white;
+}
+
+.hero-banner-02__img {
+    width: 100%;
+}
+
+.hero-banner-02__text {
+    color: $color-white;
+    background: $color-brand-navy;
+    padding: 20px 0;
+}
+
+/* BP small */
+@media screen and (min-width: 48em) {
+    .hero-banner-02__text {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: rgba( $color-brand-navy, .8 );
+        padding: 30px 0;
+    }
+}
