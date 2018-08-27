@@ -4787,6 +4787,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_components\/06-abstracts\/_spacing.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/06-abstracts\/_spacing.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/skin\/default\/_components\/_preview.hbs": {
 		"cB": 0,
 		"ft": 8192,
@@ -4834,13 +4847,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/skin\/default\/_docs\/02-design-variables.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/_docs\/02-design-variables.html",
-		"oF": 0
 		},
 	"\/skin\/default\/_docs\/02-design-variables.md": {
 		"cB": 0,

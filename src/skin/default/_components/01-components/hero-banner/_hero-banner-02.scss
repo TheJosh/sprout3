@@ -1,26 +1,39 @@
+
 .hero-banner-02 {
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100% auto;
     position: relative;
-    background: $color-white;
 }
 
-.hero-banner-02__img {
-    width: 100%;
+.hero-banner-02:before {
+    content: '';
+    display: block;
+    padding-top: 40%
 }
 
-.hero-banner-02__text {
-    color: $color-white;
-    background: $color-brand-navy;
-    padding: 20px 0;
+.hero-banner-02__heading {
+    font-size: 2.4rem;
+    line-height: 1.3;
+    font-weight: bold;
 }
 
-/* BP small */
-@media screen and (min-width: 48em) {
-    .hero-banner-02__text {
+.hero-banner-02__content {
+    padding-top: $spacing--xlarge;
+    padding-bottom: $spacing--xlarge;
+}
+
+.hero-banner-02__content .container > *:last-child {
+    margin-bottom: 0;
+}
+@media screen and (min-width:  48em) { /* 768px */
+
+    .hero-banner-02__content {
         position: absolute;
-        bottom: 0;
         left: 0;
         right: 0;
-        background-color: rgba( $color-brand-navy, .8 );
-        padding: 30px 0;
+        bottom: 0;
+        background: rgba( $color-white, .5 );
+
     }
 }
