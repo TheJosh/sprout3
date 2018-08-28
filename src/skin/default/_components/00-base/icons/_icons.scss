@@ -49,14 +49,26 @@
 
 /* Icon system colours */
 
-.icon--navy svg path {
-    fill: $color-brand-navy;
+.icon--primary svg path {
+    fill: $color-primary;
 }
 
-.icon--orange svg path {
-    fill: $color-brand-orange;
+.icon--secondary svg path {
+    fill: $color-secondary;
+}
+
+.icon--alternative svg path {
+    fill: $color-alternative;
 }
 
 .icon--white svg path {
     fill: $color-white;
+}
+
+.icon--accent-01 svg path {
+    fill: $color-accent-01;
+}
+
+.icon--accent-02 svg path {
+    fill: $color-accent-02;
 }

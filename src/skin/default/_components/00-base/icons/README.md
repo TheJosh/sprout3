@@ -7,7 +7,7 @@ Icons are created in a square 24x24 file regardless of shape so they can be opti
 
 *Increase icon size*
 
-The default icon size is 16x16px, a icon class will vertically center the icon. Use with the following classes to increase the size.
+The default icon size is 16x16px, an icon class will vertically center the icon. Use with the following classes to increase the size.
 
 * `icon icon--24px`
 * `icon icon--32px`
@@ -16,3 +16,16 @@ The default icon size is 16x16px, a icon class will vertically center the icon. 
 * `icon icon--52px`
 * `icon icon--60px`
 * `icon icon--68px`
+
+*Change icon colour*
+
+The default icon colour will be according to the original file, however you may set the SVG's colour.
+Use the following classes to change the icon colour.
+
+* `icon--primary`
+* `icon--secondary`
+* `icon--alternative`
+* `icon--white`
+* `icon--accent-01`
+* `icon--accent-02`
+

@@ -60,12 +60,12 @@
     transition: fill 250ms ease-in-out;
 }
 
-.button__icon--navy svg path {
-    fill: $color-brand-navy;
+.button__icon--primary svg path {
+    fill: $color-primary;
 }
 
-.button__icon--orange svg path {
-    fill: $color-brand-orange;
+.button__icon--secondary svg path {
+    fill: $color-secondary;
 }
 
 .button:hover .button__icon--light-purple svg path {
