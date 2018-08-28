@@ -1,0 +1,10 @@
+title: Hero Banner
+context:
+  hero-banner:
+    img: http://placehold.it/2425x1364/48b183/ffffff?text=c2400x1364-ct~35
+    heading: Very basic Hero Banner
+    description: This banner is pretty simple which means less troubles, but also servers the same image for every resolution which makes it not so great for mobile.
+  button:
+    text: 'Hero banner cta'
+
+

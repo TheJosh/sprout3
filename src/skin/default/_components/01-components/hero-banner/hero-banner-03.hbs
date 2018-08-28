@@ -1,0 +1,44 @@
+
+
+<div class="hero-banner-03">
+
+    <style>
+        .hero-banner-03 {
+            /*image size ratio 4:3*/
+            background-image: url(http://placehold.it/960x660/48b183/ffffff?text=c960x660-ct~30);
+
+        }
+
+
+        @media screen and (min-width: 30em) { /* 480px */
+            .hero-banner-03 {
+                background-image: url(http://placehold.it/1536x1056/48b183/ffffff?text=c1536x1056-ct~35);
+            }
+        }
+        @media screen and (min-width:  48em) { /* 768px */
+            .hero-banner-03 {
+                /*image size crop safe area */
+                background-image: url(http://placehold.it/1984x1364/48b183/ffffff?text=c1984x1364-ct~35);
+            }
+        }
+        @media screen and (min-width: 62em) { /* 992px */
+            .hero-banner-03 {
+                /*image size ratio changes */
+                background-image: url(http://placehold.it/2425x1364/48b183/ffffff?text=c2400x1650-ct~30);
+            }
+        }
+        @media only screen and (min-width: 75em) { /* 1200px */
+            .hero-banner-03 {
+                background-image: url(http://placehold.it/3100x1800/48b183/ffffff?text=c3100x1800-ct~25);
+            }
+        }
+    </style>
+
+    <div class="hero-banner-03__content">
+
+        <div class="container">
+           {{> @tile-list }}
+
+    </div>
+
+</div>

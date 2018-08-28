@@ -1,0 +1,15 @@
+title: Hero Banner
+context:
+  hero-banner:
+    img: http://placehold.it/960x660/48b183/ffffff?text=c960x660-ct~30
+    img-lgmob: http://placehold.it/1536x1056/48b183/ffffff?text=c1536x1056-ct~35
+    img-tb-portrait: http://placehold.it/1984x1364/48b183/ffffff?text=c1984x1364-ct~35
+    img-tb-landscape: http://placehold.it/2425x1364/48b183/ffffff?text=c2400x1364-ct~35
+    img-desk-sm: http://placehold.it/3100x1364/48b183/ffffff?text=c3100x1364-ct~35
+    img-desk-lg: http://placehold.it/3100x1364/48b183/ffffff?text=c3100x1364-ct~35
+    heading: Mighty Morphing Power banner
+    description: This banner is good for textures and clients who are cool with croping. If you can find such a mythical being, this banner goes from a 4:3 to a 16:9 to and even wider ratio. This banner is likely to be too impractical if clients need to regularly update their banner.
+  button:
+    text: Hero banner cta
+
+

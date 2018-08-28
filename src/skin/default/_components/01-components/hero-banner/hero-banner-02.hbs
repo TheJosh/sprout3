@@ -6,26 +6,26 @@
             background-image: url({{ hero-banner.img }});
         }
         @media screen and (min-width: 30em) { /* 480px */
-            .hr-bnr-02 {
-                background-image: url(http://placehold.it/1536x1056/48b183/ffffff?text=c1536x1056-ct~35);
+            .hero-banner-02 {
+                background-image: url({{ hero-banner.img-lgmob }});
             }
         }
         @media screen and (min-width:  48em) { /* 768px */
-            .hr-bnr-02 {
+            .hero-banner-02 {
                 /*image size crop safe area */
-                background-image: url(http://placehold.it/1984x1364/48b183/ffffff?text=c1984x1364-ct~35);
+                background-image: url({{ hero-banner.img-tb-portrait }});
             }
         }
         @media screen and (min-width: 62em) { /* 992px */
-            .hr-bnr-02 {
+            .hero-banner-02 {
                 /* image size ratio becomes 16:9 */
-                background-image: url(http://placehold.it/2425x1364/48b183/ffffff?text=c2400x1364-ct~35);
+                background-image: url({{ hero-banner.img-tb-landscape }});
             }
         }
         @media only screen and (min-width: 75em) { /* 1200px */
-            .hr-bnr-02 {
+            .hero-banner-02 {
                 /*image size ratio starts gets really widescreen */
-                background-image: url(http://placehold.it/3100x1364/48b183/ffffff?text=c3100x1364-ct~35);
+                background-image: url({{ hero-banner.img-desk-sm }});
             }
         }
 

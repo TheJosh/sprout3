@@ -4331,11 +4331,38 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_components\/01-components\/hero-banner\/_hero-banner-03.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/_hero-banner-03.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-01.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-01.config.yml",
+		"oF": 0
+		},
 	"\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-01.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-01.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-02.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-02.config.yml",
 		"oF": 0
 		},
 	"\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-02.hbs": {
@@ -4345,11 +4372,18 @@
 		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-02.hbs",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner.config.yml": {
+	"\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-03.config.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner.config.yml",
+		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-03.config.yml",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-03.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-03.hbs",
 		"oF": 0
 		},
 	"\/skin\/default\/_components\/01-components\/lists\/_sidebar-linklist.scss": {

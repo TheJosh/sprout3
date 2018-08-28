@@ -9,7 +9,7 @@
 .hero-banner-02:before {
     content: '';
     display: block;
-    padding-top: 40%
+    padding-top: 68.75%;
 }
 
 .hero-banner-02__heading {
@@ -26,14 +26,25 @@
 .hero-banner-02__content .container > *:last-child {
     margin-bottom: 0;
 }
-@media screen and (min-width:  48em) { /* 768px */
 
+@media screen and (min-width:  48em) { /* 768px */
     .hero-banner-02__content {
         position: absolute;
         left: 0;
         right: 0;
         bottom: 0;
-        background: rgba( $color-white, .5 );
+        background: rgba($color-white, .5);
+    }
+}
 
+@media screen and (min-width: 62em) { /* 992px */
+    .hero-banner-02:before {
+        padding-top: 56.25%;
+    }
+}
+
+@media screen and (min-width: 75em) { /* 1200px */
+    .hero-banner-02:before {
+        padding-top: 44%;
     }
 }
