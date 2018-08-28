@@ -5,7 +5,7 @@ use Sprout\Helpers\Navigation;
 
 <header id="header">
 
-    <div class="section section--header bg-navyblue">
+    <div class="section section--header">
 
         <div class="container">
 
