@@ -4351,13 +4351,6 @@
 		"oAP": "\/skin\/default\/_components\/00-base\/icons\/icons.hbs",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/00-base\/icons\/README.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/00-base\/icons\/README.html",
-		"oF": 0
-		},
 	"\/skin\/default\/_components\/00-base\/icons\/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -4755,6 +4748,33 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/skin\/default\/_components\/00-base\/wrap\/wrap.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/article\/_article.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/01-components\/article\/_article.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_components\/01-components\/article\/article.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/article\/article.config.yml",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/article\/article.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/article\/article.hbs",
 		"oF": 0
 		},
 	"\/skin\/default\/_components\/01-components\/forms\/_captcha.scss": {
