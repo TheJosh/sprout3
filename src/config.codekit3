@@ -3985,6 +3985,20 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_components\/01-components\/article\/article.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/article\/article.config.yml",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/article\/article.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/article\/article.hbs",
+		"oF": 0
+		},
 	"\/skin\/default\/_components\/01-components\/forms\/_captcha.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4519,19 +4533,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/skin\/default\/_components\/01-components\/navigation\/_primary-nav.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/skin\/default\/_components\/01-components\/navigation\/_primary-nav.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/skin\/default\/_components\/01-components\/navigation\/breadcrumb.hbs": {
 		"cB": 0,
 		"ft": 8192,
@@ -4553,11 +4554,24 @@
 		"oAP": "\/skin\/default\/_components\/01-components\/navigation\/pagination.hbs",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/01-components\/navigation\/primary-nav.hbs": {
+	"\/skin\/default\/_components\/01-components\/navigation\/primary-nav\/_primary-nav.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/01-components\/navigation\/primary-nav\/_primary-nav.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_components\/01-components\/navigation\/primary-nav\/primary-nav.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/01-components\/navigation\/primary-nav.hbs",
+		"oAP": "\/skin\/default\/_components\/01-components\/navigation\/primary-nav\/primary-nav.hbs",
 		"oF": 0
 		},
 	"\/skin\/default\/_components\/01-components\/text-blocks\/01-blockquote.hbs": {
