@@ -16,17 +16,27 @@ variants:
        modifier: "white section-large"
        text: "Large Section"
  -
-    name: "Navy Blue"
+    name: "Primary Colour"
     context:
-       modifier: "navyblue reverse-text"
-       text: "Navy blue Section with reverse text"
+       modifier: "primary reverse-text"
+       text: "Primary colour section with reverse text"
  -
-    name: Orange
+    name: "Secondary Colour"
     context:
-       modifier: "orange reverse-text"
-       text: "Orange Section with reverse text"
+       modifier: "secondary reverse-text"
+       text: "Secondary colour section with reverse text"
  -
-    name: Green
+    name: "Accent Colour 1"
     context:
-       modifier: "green reverse-text"
-       text: "Green Section with reverse text"
+       modifier: "accent-01 reverse-text"
+       text: "Accent colour 1 section with reverse text"
+ -
+    name: "Accent Colour 2"
+    context:
+       modifier: "accent-02"
+       text: "Accent colour 2 section"
+ -
+    name: "Alternative Colour"
+    context:
+       modifier: "alternative reverse-text"
+       text: "Alternative base colour section with reverse text"
