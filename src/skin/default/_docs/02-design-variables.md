@@ -16,19 +16,31 @@ You can find info on controlling colour with sass color functions here... https:
         <div class="sg-palette-list__item__swatch" style="background: #2a333e;">
             <code>#2a333e</code>
         </div>
-        <code>$color-brand-navy</code>
+        <code>$color-primary</code>
     </div>
     <div class="sg-palette-list__item">
         <div class="sg-palette-list__item__swatch" style="background: #f77450;">
             <code>#f77450</code>
         </div>
-        <code>$color-brand-orange</code>
+        <code>$color-secondary</code>
+    </div>
+    <div class="sg-palette-list__item">
+        <div class="sg-palette-list__item__swatch" style="background: #EE4266;">
+            <code>#EE4266</code>
+        </div>
+        <code>$color-alternative</code>
     </div>
     <div class="sg-palette-list__item">
         <div class="sg-palette-list__item__swatch" style="background: #35ab75;">
             <code>#35ab75</code>
         </div>
-        <code>$color-brand-green</code>
+        <code>$color-accent-01</code>
+    </div>
+    <div class="sg-palette-list__item">
+        <div class="sg-palette-list__item__swatch" style="background: #FFD23F;">
+            <code>#FFD23F</code>
+        </div>
+        <code>$color-accent-02</code>
     </div>
 
 </div>
