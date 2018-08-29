@@ -1,4 +1,5 @@
 title: Home
+status: wip
 context:
   site-name: Sprout 3 Component Library
   tile-list: '@tile-list.tile-list'

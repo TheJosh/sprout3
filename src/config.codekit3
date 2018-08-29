@@ -4987,7 +4987,7 @@
 		"oAP": "\/skin\/default\/_components\/02-layout\/lists\/tile-list.hbs",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/04-templates\/home\/_home.scss": {
+	"\/skin\/default\/_components\/04-pages\/home\/_home.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4995,23 +4995,84 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/skin\/default\/_components\/04-templates\/home\/_home.css",
+		"oAP": "\/skin\/default\/_components\/04-pages\/home\/_home.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/skin\/default\/_components\/04-templates\/home\/home.config.yml": {
+	"\/skin\/default\/_components\/04-pages\/home\/home.config.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/04-templates\/home\/home.config.yml",
+		"oAP": "\/skin\/default\/_components\/04-pages\/home\/home.config.yml",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/04-templates\/home\/home.hbs": {
+	"\/skin\/default\/_components\/04-pages\/home\/home.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/04-templates\/home\/home.hbs",
+		"oAP": "\/skin\/default\/_components\/04-pages\/home\/home.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/04-pages\/inner\/_inner.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/04-pages\/inner\/_inner.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_components\/04-pages\/inner\/inner.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/04-pages\/inner\/inner.config.yml",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/04-pages\/inner\/inner.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/04-pages\/inner\/inner.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/04-pages\/site-search\/_site-search.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/04-pages\/site-search\/_site-search.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_components\/04-pages\/site-search\/site-search--with-results.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/04-pages\/site-search\/site-search--with-results.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/04-pages\/site-search\/site-search.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/04-pages\/site-search\/site-search.config.yml",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/04-pages\/site-search\/site-search.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/04-pages\/site-search\/site-search.hbs",
 		"oF": 0
 		},
 	"\/skin\/default\/_components\/06-abstracts\/_animation.scss": {
