@@ -3275,6 +3275,13 @@
 		"oAP": "\/skin\/default\/_components\/00-base\/buttons-and-links\/button.config.yml",
 		"oF": 0
 		},
+	"\/skin\/default\/_components\/00-base\/buttons-and-links\/text-link--hidden.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/00-base\/buttons-and-links\/text-link--hidden.hbs",
+		"oF": 0
+		},
 	"\/skin\/default\/_components\/00-base\/buttons-and-links\/text-link.config.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -4004,33 +4011,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/skin\/default\/_components\/00-base\/wrap\/wrap.hbs",
-		"oF": 0
-		},
-	"\/skin\/default\/_components\/01-components\/article\/_article.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/skin\/default\/_components\/01-components\/article\/_article.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/skin\/default\/_components\/01-components\/article\/article.config.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/01-components\/article\/article.config.yml",
-		"oF": 0
-		},
-	"\/skin\/default\/_components\/01-components\/article\/article.hbs": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/01-components\/article\/article.hbs",
 		"oF": 0
 		},
 	"\/skin\/default\/_components\/01-components\/forms\/_captcha.scss": {
@@ -4953,6 +4933,19 @@
 		"oAP": "\/skin\/default\/_components\/02-layout\/header\/header.hbs",
 		"oF": 0
 		},
+	"\/skin\/default\/_components\/02-layout\/lists\/_media-object_list.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/02-layout\/lists\/_media-object_list.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/skin\/default\/_components\/02-layout\/lists\/_tile-list.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4965,6 +4958,20 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/skin\/default\/_components\/02-layout\/lists\/media-object_list.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/02-layout\/lists\/media-object_list.config.yml",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/02-layout\/lists\/media-object_list.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/02-layout\/lists\/media-object_list.hbs",
+		"oF": 0
 		},
 	"\/skin\/default\/_components\/02-layout\/lists\/tile-list.config.yml": {
 		"cB": 0,
