@@ -4447,7 +4447,7 @@
 		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-03.hbs",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/01-components\/image-gallery\/_image-gallery.scss": {
+	"\/skin\/default\/_components\/01-components\/image-galleries\/_image-gallery.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4455,37 +4455,50 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/skin\/default\/_components\/01-components\/image-gallery\/_image-gallery.css",
+		"oAP": "\/skin\/default\/_components\/01-components\/image-galleries\/_image-gallery.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery--slider.hbs": {
+	"\/skin\/default\/_components\/01-components\/image-galleries\/_slider-image-gallery.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/01-components\/image-galleries\/_slider-image-gallery.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_components\/01-components\/image-galleries\/image-gallery--with-captions.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery--slider.hbs",
+		"oAP": "\/skin\/default\/_components\/01-components\/image-galleries\/image-gallery--with-captions.hbs",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery--with-captions.hbs": {
+	"\/skin\/default\/_components\/01-components\/image-galleries\/image-gallery.config.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery--with-captions.hbs",
+		"oAP": "\/skin\/default\/_components\/01-components\/image-galleries\/image-gallery.config.yml",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery.config.yml": {
+	"\/skin\/default\/_components\/01-components\/image-galleries\/image-gallery.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery.config.yml",
+		"oAP": "\/skin\/default\/_components\/01-components\/image-galleries\/image-gallery.hbs",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery.hbs": {
+	"\/skin\/default\/_components\/01-components\/image-galleries\/slider-image-gallery.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery.hbs",
+		"oAP": "\/skin\/default\/_components\/01-components\/image-galleries\/slider-image-gallery.hbs",
 		"oF": 0
 		},
 	"\/skin\/default\/_components\/01-components\/lists\/_file-list.scss": {
@@ -4607,6 +4620,40 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/skin\/default\/_components\/01-components\/lists\/social-list.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/maps\/_google-map.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/01-components\/maps\/_google-map.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_components\/01-components\/maps\/google-map--directions.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/maps\/google-map--directions.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/maps\/google-map.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/maps\/google-map.config.yml",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/maps\/google-map.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/maps\/google-map.hbs",
 		"oF": 0
 		},
 	"\/skin\/default\/_components\/01-components\/media-object\/_media-object.scss": {
