@@ -18,7 +18,7 @@ fractal.set('project.title', 'Sprout3 Starter Template Component Library');
 /*
  * Tell Fractal where to look for components.
  */
-fractal.components.set('path', path.join(__dirname, 'skin/default/_components'));
+fractal.components.set('path', path.join(__dirname, 'skin/default/_patterns'));
 
 /*
  * Tell Fractal where to look for documentation pages.
@@ -39,7 +39,7 @@ const myCustomisedTheme = mandelbrot({
     "nav": ["docs", "components"], // show docs above components in the sidebar
     "styles": [
         "default",
-        "/_components/styleguide.css"
+        "/_patterns/styleguide.css"
     ]
     // any other theme configuration values here
 });
