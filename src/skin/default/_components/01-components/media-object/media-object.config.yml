@@ -1,13 +1,14 @@
-title: Article
-notes: A feature article with image. Requires a wrapper class like <code>container</code> to not force a horizontal scroll.
+title: Media object
+notes: An image with a paragraph of text. Requires a wrapper class like <code>container</code> to not force a horizontal scroll.
 context:
-  article:
-    img: http://placehold.it/400x300
+  media-object:
+    img: http://placehold.it/800x600
     heading: A lovely long and generous heading about a specific thing
     date: 23 September 2018
     author: Hailey Summers
     text: Nulla facilisi. Integer finibus purus eros, quis sodales diam pulvinar quis. Pellentesque non quam quis urna viverra mattis. Nulla facilisi. Sed id consectetur neque, nec euismod magna. Vestibulum orci sem, suscipit tempor tempus nec, rhoncus vitae diam. Vestibulum pellentesque id neque et pretium.
-
+  button:
+    text: This is a button
 
 
 

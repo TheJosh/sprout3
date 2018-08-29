@@ -1,1 +1,23 @@
+<div class="media-object">
+    <div class="media-object__img">
+        <img src="{{ media-object.img }}">
+    </div>
 
+    <div class="media-object__content">
+
+        <h3 class="media-object__heading">{{ media-object.heading }}</h3>
+        <p class="media-object__details">
+            <span class="media-object__date">
+            {{ media-object.date }}
+            </span>
+            <span class="media-object__author">
+            {{ media-object.author }}
+            </span>
+        </p>
+        <p>{{ media-object.text }}</p>
+
+
+        {{> @button }}
+
+    </div>
+</div>
