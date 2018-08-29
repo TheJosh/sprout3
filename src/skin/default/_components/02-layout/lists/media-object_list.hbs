@@ -1,0 +1,8 @@
+<h3 class="media-object__header">{{ media-object_list.heading }}</h3>
+<ul class="media-object__list">
+    {{#each media-object_list.media-objects }}
+    <li class="media-object__item -clearfix">
+        {{> @media-object }}
+    </li>
+    {{/each}}
+</ul>

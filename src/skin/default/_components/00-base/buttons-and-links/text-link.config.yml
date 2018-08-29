@@ -1,26 +1,31 @@
 title: "Text links"
 collated: true
 context:
-  modifier: " "
-  text: "Read more"
+  text-link:
+    modifier: " "
+    text: "Read more"
 variants:
   -
    name: "right arrow after"
    context:
-    modifier: "-r-arrow-after"
-    text: "right arrow after"
+    text-link:
+      modifier: "-r-arrow-after"
+      text: "right arrow after"
   -
    name: "right arrow before"
    context:
-    modifier: "-r-arrow-before"
-    text: "right arrow before"
+    text-link:
+      modifier: "-r-arrow-before"
+      text: "right arrow before"
   -
    name: "left arrow after"
    context:
-    modifier: "-l-arrow-after"
-    text: "left arrow after"
+    text-link:
+      modifier: "-l-arrow-after"
+      text: "left arrow after"
   -
    name: "left arrow before"
    context:
-    modifier: "-l-arrow-before"
-    text: "left arrow before"
+    text-link:
+      modifier: "-l-arrow-before"
+      text: "left arrow before"
