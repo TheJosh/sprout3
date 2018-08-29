@@ -3566,6 +3566,13 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_components\/00-base\/icons\/icons.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/00-base\/icons\/icons.config.yml",
+		"oF": 0
+		},
 	"\/skin\/default\/_components\/00-base\/icons\/icons.hbs": {
 		"cB": 0,
 		"ft": 8192,
@@ -4479,6 +4486,13 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_components\/01-components\/lists\/children-pg-list\/children-pg-list.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/lists\/children-pg-list\/children-pg-list.config.yml",
+		"oF": 0
+		},
 	"\/skin\/default\/_components\/01-components\/lists\/children-pg-list\/children-pg-list.hbs": {
 		"cB": 0,
 		"ft": 8192,
@@ -4513,6 +4527,13 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_components\/01-components\/media-object\/media-object.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/01-components\/media-object\/media-object.config.yml",
+		"oF": 0
+		},
 	"\/skin\/default\/_components\/01-components\/media-object\/media-object.hbs": {
 		"cB": 0,
 		"ft": 8192,
@@ -4533,6 +4554,13 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/skin\/default\/_components\/01-components\/navigation\/breadcrumb.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/navigation\/breadcrumb.config.yml",
+		"oF": 0
+		},
 	"\/skin\/default\/_components\/01-components\/navigation\/breadcrumb.hbs": {
 		"cB": 0,
 		"ft": 8192,
@@ -4540,11 +4568,11 @@
 		"oAP": "\/skin\/default\/_components\/01-components\/navigation\/breadcrumb.hbs",
 		"oF": 0
 		},
-	"\/skin\/default\/_components\/01-components\/navigation\/footer-nav.hbs": {
+	"\/skin\/default\/_components\/01-components\/navigation\/pagination.config.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/01-components\/navigation\/footer-nav.hbs",
+		"oAP": "\/skin\/default\/_components\/01-components\/navigation\/pagination.config.yml",
 		"oF": 0
 		},
 	"\/skin\/default\/_components\/01-components\/navigation\/pagination.hbs": {
