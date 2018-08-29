@@ -4118,34 +4118,8 @@ If they don't they belong in separate partial file
 }
 
 /* ---- Videos ---- */
-.tinymce-media-iframe,
-.widget-Video {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 30px;
-    height: 0;
-    overflow: hidden;
-    clear: both;
-}
 
-.tinymce-media-iframe iframe,
-.widget-Video iframe,
-.widget-Video object,
-.widget-Video embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
 
-iframe {
-    border: 0;
-}
-
-.tinymce-media-iframe {
-    margin: 2rem 0;
-}
 
 /* ---- Map Directions ---- */
 .widget-MapDirections .directions-form {
