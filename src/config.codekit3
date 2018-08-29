@@ -3579,13 +3579,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/skin\/default\/_components\/00-base\/icons\/icons.config.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/_components\/00-base\/icons\/icons.config.yml",
-		"oF": 0
-		},
 	"\/skin\/default\/_components\/00-base\/icons\/icons.hbs": {
 		"cB": 0,
 		"ft": 8192,
@@ -4454,6 +4447,60 @@
 		"oAP": "\/skin\/default\/_components\/01-components\/hero-banner\/hero-banner-03.hbs",
 		"oF": 0
 		},
+	"\/skin\/default\/_components\/01-components\/image-gallery\/_image-gallery.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/01-components\/image-gallery\/_image-gallery.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery--slider.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery--slider.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery--with-captions.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery--with-captions.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery.config.yml",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/image-gallery\/image-gallery.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/lists\/_file-list.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/skin\/default\/_components\/01-components\/lists\/_file-list.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/skin\/default\/_components\/01-components\/lists\/_sidebar-linklist.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4532,6 +4579,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/skin\/default\/_components\/01-components\/lists\/children-pg-list\/children-pg-list.hbs",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/lists\/file-list.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/lists\/file-list.config.yml",
+		"oF": 0
+		},
+	"\/skin\/default\/_components\/01-components\/lists\/file-list.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_components\/01-components\/lists\/file-list.hbs",
 		"oF": 0
 		},
 	"\/skin\/default\/_components\/01-components\/lists\/inline-list.hbs": {
