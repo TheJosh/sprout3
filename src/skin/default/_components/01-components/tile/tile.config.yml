@@ -1,5 +1,7 @@
 title: Tile
 notes: Simple Promotional Tile
+display:
+    max-width: 800px;
 context:
   tile:
     img: http://placehold.it/300x200
