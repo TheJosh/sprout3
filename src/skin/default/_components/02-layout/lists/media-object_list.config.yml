@@ -1,0 +1,33 @@
+title: Media objects list
+notes: A collection of individual media object. Requires a wrapper class like <code>container</code> to not force a horizontal scroll.
+context:
+  media-object_list:
+    heading:  Media object list
+    media-objects:
+    -
+      media-object:
+        img: http://placehold.it/300x200
+        heading: This is a pretty lovely heading
+        date: 13 July 2018
+        author: John Smith
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet massa at lorem placerat tristique vitae porta odio. Donec cursus dignissim ante, eget pretium libero posuere id. Nullam tempor velit elit, sed aliquam nunc lobortis in. Nullam ac bibendum metus. Aliquam tempor tortor sit amet ante hendrerit sodales. Nulla bibendum lacus sit amet diam mollis condimentum.
+      button:
+        text: Read more
+    -
+      media-object:
+        img: http://placehold.it/300x200
+        heading: A mostly lovely heading about mundane things
+        date: 23 September 2018
+        author: Hailey Summers
+        text: Sed imperdiet massa at lorem placerat tristique vitae porta odio. Donec cursus dignissim ante, eget pretium libero posuere id. Nullam tempor velit elit, sed aliquam nunc lobortis in. Nullam ac bibendum metus. Aliquam tempor tortor sit amet ante hendrerit sodales. Nulla bibendum lacus sit amet diam mollis condimentum.
+      button:
+        text: Sign up
+    -
+      media-object:
+        img: http://placehold.it/300x200
+        heading: A lovely heading
+        date: 6 December 2017
+        author: Summers Blake
+        text: Lorem ipsum
+      button:
+        text: Read more
