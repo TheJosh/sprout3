@@ -5219,139 +5219,11 @@
 		"oAP": "\/skin\/default\/config\/sprout.php",
 		"oF": 0
 		},
-	"\/skin\/default\/css\/.htaccess": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/.htaccess",
-		"oF": 0
-		},
-	"\/skin\/default\/css\/cart.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/cart-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/flexboxgrid-ie9.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/flexboxgrid-ie9-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/flexboxgrid.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/flexboxgrid-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/frankenmenu.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/frankenmenu-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/global.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/global-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/global.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/global.css.map",
-		"oF": 0
-		},
-	"\/skin\/default\/css\/global_original-unedited-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/global_original-unedited-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/global_original-unedited.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/global_original-unedited-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/global_original.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/global_original-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/magnific-popup.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/magnific-popup-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/normalize.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/normalize-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/partials\/_search_results.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
+	"\/skin\/default\/css": {
+		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/skin\/default\/css\/partials\/_search_results-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/skin\/default\/css\/richtext.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/skin\/default\/css\/richtext-min.css",
-		"oF": 0,
-		"oS": 3
+		"oAP": "\/build\/skin\/default\/css",
+		"oF": 0
 		},
 	"\/skin\/default\/email.php": {
 		"cB": 0,
@@ -13853,7 +13725,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, \/skin\/default\/css",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",

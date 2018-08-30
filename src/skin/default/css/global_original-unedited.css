@@ -3866,64 +3866,6 @@ If they don't they belong in separate partial file
 }
 
 /* ---- Related Links ---- */
-.widget-RelatedLinks {
-    margin-bottom: 25px;
-}
-
-.widget-RelatedLinks ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.widget-RelatedLinks a {
-    text-decoration: none;
-    color: #2a333e;
-    display: block;
-    padding: 9px 0;
-}
-
-
-/* - Depth 1 - */
-.widget-RelatedLinks li.depth1 {
-    border-bottom: 1px solid #e6e1e1;
-    position: relative;
-}
-.widget-RelatedLinks li.depth1:last-child {
-    border-bottom: none;
-}
-.widget-RelatedLinks li.depth1 > a {
-    padding: 9px 0;
-}
-
-/* On */
-.widget-RelatedLinks li.depth1.on > a {
-    border-left: 3px solid #35ab75;
-    padding-left: 20px;
-}
-
-
-/* - Depth 2 - */
-.widget-RelatedLinks li.depth2 {
-    font-size: 1.4rem;
-}
-.widget-RelatedLinks li.depth2 a:before {
-    content: "- ";
-}
-.widget-RelatedLinks li.depth2 a {
-    padding: 3px 0 3px 24px;
-}
-
-/* Hover */
-.widget-RelatedLinks li > a:hover {
-    color: #000;
-}
-
-/* On */
-.widget-RelatedLinks li.depth2.on > a {
-    color: #35ab75;
-    font-weight: bold;
-}
 
 
 /* ---- Simple Image Gallery ---- */
