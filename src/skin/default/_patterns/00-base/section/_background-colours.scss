@@ -41,3 +41,18 @@
     color: inherit;
     opacity: .75;
 }
+
+@mixin reverse-text {
+    color: #ffffff;
+
+    & a {
+        color: inherit;
+    }
+
+    & a:hover,
+    & a:focus,
+    & a:active {
+        color: inherit;
+        opacity: .75;
+    }
+}
