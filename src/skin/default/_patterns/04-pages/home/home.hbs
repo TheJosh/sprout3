@@ -1,48 +1,48 @@
 <!--[if IE]><div class="old-browser"><p>This website uses modern construction techniques, which may not render correctly in your old browser. <br>We recommend updating your browser for the best online experience.</p> <p>Visit <a href="http://browsehappy.com/">browsehappy.com</a> to help you select an upgrade.</p></div><![endif]-->
 
-    <a class="-vis-hidden" href="#content">Skip to Content</a>
+<a class="-vis-hidden" href="#content">Skip to Content</a>
 
-    <div id="mobile-header">
+<div id="mobile-header">
+    <div class="container">
+        <button type="button" id="mobile-menu-button">
+            <span class="-vis-hidden">Toggle menu</span>
+            <span class="mobile-menu-button-top"></span>
+            <span class="mobile-menu-button-middle"></span>
+            <span class="mobile-menu-button-bottom"></span>
+        </button>
+    </div>
+</div>
+
+<div id="wrap">
+
+    {{> @header }}
+
+    {{> @hero-banner-01 }}
+
+    <div class="section bg-lightgrey">
         <div class="container">
-            <button type="button" id="mobile-menu-button">
-                <span class="-vis-hidden">Toggle menu</span>
-                <span class="mobile-menu-button-top"></span>
-                <span class="mobile-menu-button-middle"></span>
-                <span class="mobile-menu-button-bottom"></span>
-            </button>
+
+            {{> @tile-list }}
+
         </div>
     </div>
 
-    <div id="wrap">
+    <div id="content" class="section section--content bg-white">
 
-        {{> @header }}
+        <div class="container">
 
-        {{> @hero-banner-01 }}
+            <div class="mainbar">
 
-        <div class="section bg-lightgrey">
-            <div class="container">
+                <h1>A Sprout Site</h1>
 
-                {{> @tile-list }}
-
-            </div>
-        </div>
-
-        <div id="content" class="section section--content bg-white">
-
-            <div class="container">
-
-                <div class="mainbar">
-
-                    <h1>A Sprout Site</h1>
-
-                    <p>A lovely content area</p>
-
-                </div>
+                <p>A lovely content area</p>
 
             </div>
 
         </div>
 
-        {{> @footer }}
-
     </div>
+
+    {{> @footer }}
+
+</div>
