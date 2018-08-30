@@ -1,11 +1,28 @@
+.children-gallery-list {
+    list-style-type: none;
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.children-gallery-list-item {
+    max-width: 100%;
+}
 
 @supports (display: grid) {
-      .children-gallery-list {
+    .children-gallery-list {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
         grid-gap: 1rem;
+        justify-items: center;
+    }
+    .children-gallery-list-item {
+        max-width: 100%;
     }
 
-    /* Undo some fallback CSS   */
-
+    /* BP Smaller */
+    @media screen and (min-width: 38.125em) { /* 610px */
+        .children-gallery-list {
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        }
+    }
 }

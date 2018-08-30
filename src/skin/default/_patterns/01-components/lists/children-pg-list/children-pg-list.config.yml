@@ -1,2 +1,6 @@
 status: wip
 notes: Avoid changing HTML for now. Baby steps baby steps.
+context:
+  children-pg-list-item:
+    img: http://placehold.it/400x300
+    text: this is a title that is really rather long
