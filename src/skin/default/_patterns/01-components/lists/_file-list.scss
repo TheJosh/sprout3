@@ -1,0 +1,89 @@
+.widget-FileList {
+    background: $color-gray-10;
+    padding: 20px;
+    margin-bottom: 16px;
+}
+
+.widget-FileList ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.widget-FileList li {
+    margin-bottom: 8px;
+}
+
+.widget-FileList li:last-child {
+    margin-bottom: 0;
+}
+
+.widget-FileList .document {
+    min-height: 24px;
+    padding-left: 32px;
+    background: url(../../images/icon-system/icon_document.svg) no-repeat;
+}
+
+.widget-FileList .document-pdf {
+    background-image: url(../../images/icon-system/icon_pdf.svg);
+}
+
+.widget-FileList .document-png,
+.widget-FileList .document-gif,
+.widget-FileList .document-jpg {
+    background-image: url(../../images/icon-system/icon_image.svg);
+}
+
+.widget-FileList .document-rtf,
+.widget-FileList .document-txt,
+.widget-FileList .document-doc,
+.widget-FileList .document-docx {
+    background-image: url(../../images/icon-system/icon_word-doc.svg);
+}
+
+.widget-FileList .document-csv,
+.widget-FileList .document-xls,
+.widget-FileList .document-xlsx {
+    background-image: url(../../images/icon-system/icon_spreadsheet.svg);
+}
+
+.widget-FileList .document-mp3,
+.widget-FileList .document-aac,
+.widget-FileList .document-oga {
+    background-image: url(../../images/icon-system/icon_sound.svg);
+}
+
+.widget-FileList .document-mp4,
+.widget-FileList .document-mpeg,
+.widget-FileList .document-mpg,
+.widget-FileList .document-webm,
+.widget-FileList .document-ogv,
+.widget-FileList .document-aac,
+.widget-FileList .document-avi,
+.widget-FileList .document-mov,
+.widget-FileList .document-wmv {
+    background-image: url(../../images/icon-system/icon_video.svg);
+}
+
+.widget-FileList a {
+    display: inline-block;
+    text-decoration: none;
+    color: $color-primary;
+    padding-bottom: 1px;
+    border-bottom: 1px solid rgba( $color-primary, 0);
+    transition: all 200ms ease-in-out;
+}
+
+.widget-FileList a:hover,
+.widget-FileList a:focus,
+.widget-FileList a:active {
+    text-decoration: none;
+    border-bottom: 1px solid rgba( $color-primary, 1);
+}
+
+
+@media screen and (min-width: 23.75em) { /* 380px */
+    .widget-FileList {
+        padding: 30px;
+    }
+}
