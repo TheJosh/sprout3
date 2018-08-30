@@ -2,6 +2,12 @@
 use Sprout\Helpers\Enc;
 use Sprout\Helpers\Text;
 use Sprout\Helpers\Url;
+use Sprout\Helpers\ContentReplace;
+use Sprout\Helpers\Jquery;
+use Sprout\Helpers\Notification;
+use Sprout\Helpers\Request;
+use Sprout\Helpers\Skin;
+use Sprout\Helpers\Widgets;
 ?>
 
 <footer id="footer">
@@ -82,10 +88,10 @@ use Sprout\Helpers\Url;
 
     </div>
 
-    <div class="section section--footer section--small">
+    <div class="section section--footer">
         <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 col-sm--left-align">
+            <div class="row middle-xs">
+                <div class="col-xs-12 col-sm-8 col-sm--left-align">
                     <div class="footer__text">
                         <p>Copyright &copy; <?php echo Enc::html(Text::copyright('2017')); ?> <?php echo Enc::html(Kohana::config('sprout.site_title')); ?>
                         </p>
@@ -94,39 +100,58 @@ use Sprout\Helpers\Url;
                         </p>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-6 col-sm--right-align">
-                    <ul class="social-list social-list--inline">
+                <div class="col-xs-12 col-sm-4 col-sm--right-align">
+
+
+                    <ul class="social-list">
                         <li class="social-list__item">
                             <a href="#">
-                                <svg class="icon icon-facebook"><use xlink:href="<?= Url::current(true); ?>#icon-facebook"></use></svg>
+                                <span class="icon icon--24px">
+                                    <?php require __DIR__ . '/../images/icon-system/icon_facebook.svg'  ?>
+                                </span>
+
                                 <span class="-vis-hidden">Follow us on Facebook</span>
                             </a>
                         </li>
                         <li class="social-list__item">
                             <a href="#">
-                                <svg class="icon icon-twitter"><use xlink:href="<?= Url::current(true); ?>#icon-twitter"></use></svg>
+                                <span class="icon icon--24px">
+                                    <?php require __DIR__ . '/../images/icon-system/icon_twitter.svg'  ?>
+                                </span>
+
                                 <span class="-vis-hidden">Follow us on Twitter</span>
                             </a>
                         </li>
                         <li class="social-list__item">
                             <a href="#">
-                                <svg class="icon icon-instagram"><use xlink:href="<?= Url::current(true); ?>#icon-instagram"></use></svg>
+                                <span class="icon icon--24px">
+                                    <?php require __DIR__ . '/../images/icon-system/icon_instagram.svg'  ?>
+                                </span>
+
                                 <span class="-vis-hidden">Follow us on Instagram</span>
                             </a>
                         </li>
                         <li class="social-list__item">
                             <a href="#">
-                                <svg class="icon icon-youtube"><use xlink:href="<?= Url::current(true); ?>#icon-youtube"></use></svg>
-                                <span class="-vis-hidden">Follow us on YouTube</span>
+                                <span class="icon icon--24px">
+                                    <?php require __DIR__ . '/../images/icon-system/icon_pinterest.svg'  ?>
+                                </span>
+
+                                <span class="-vis-hidden">Follow us on Pinterest</span>
                             </a>
                         </li>
                         <li class="social-list__item">
                             <a href="#">
-                                <svg class="icon icon-pinterest"><use xlink:href="<?= Url::current(true); ?>#icon-pinterest"></use></svg>
-                                <span class="-vis-hidden">Follow us on Pinterest</span>
+                                <span class="icon icon--24px">
+                                    <?php require __DIR__ . '/../images/icon-system/icon_youtube.svg'  ?>
+                                </span>
+
+                                <span class="-vis-hidden">Follow us on YouTube</span>
                             </a>
                         </li>
                     </ul>
+
+
                 </div>
             </div>
 

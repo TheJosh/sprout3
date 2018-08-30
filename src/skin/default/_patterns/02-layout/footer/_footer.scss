@@ -12,10 +12,13 @@
 .section--footer {
     background: $color-secondary;
     @include reverse-text;
+    padding: $spacing--xlarge 0;
+    text-align: center;
 }
 
 .footer__text {
-    padding-top: 9px;
+    padding-top: $spacing--large;
+    padding-bottom: $spacing--large;
 }
 
 .footer__text p {
@@ -40,5 +43,11 @@
         -webkit-column-gap: 40px;
            -moz-column-gap: 40px;
                 column-gap: 40px;
+    }
+    .section--footer {
+        text-align: auto;
+    }
+    .footer__text {
+        padding: 0;
     }
 }
