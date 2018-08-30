@@ -13,7 +13,7 @@ const fractal = module.exports = require('@frctl/fractal').create();
 /*
  * Give your project a title.
  */
-fractal.set('project.title', 'Sprout3 Starter Template Component Library');
+fractal.set('project.title', 'Sprout3 Starter Template Pattern Library');
 
 /*
  * Tell Fractal where to look for components.
