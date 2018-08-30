@@ -6,7 +6,7 @@ use Sprout\Helpers\Url;
 
 <footer id="footer">
 
-    <div class="section section--pre-footer bg-navyblue">
+    <div class="section section--pre-footer">
 
         <div class="container">
 
@@ -18,7 +18,7 @@ use Sprout\Helpers\Url;
 
                         <div class="col-xs-12 col-sm-4">
 
-                            <h2>Contact us</h2>
+                            <h2 class="footer-heading">Contact us</h2>
 
                             <p>
                                 <strong>T:</strong> <a href="tel:618-5550-0976">+61 8 5550 0976</a><br>
@@ -29,7 +29,7 @@ use Sprout\Helpers\Url;
                         </div>
                         <div class="col-xs-12 col-sm-8">
 
-                            <h2>Quicklinks</h2>
+                            <h2 class="footer-heading">Quicklinks</h2>
 
                             <ul class="block-list">
                                 <li><a href="#">Home</a></li>
@@ -50,7 +50,7 @@ use Sprout\Helpers\Url;
 
                     <div class="search">
                         <form method="" action="">
-                            <h2>Sign up for our enews!</h2>
+                            <h2 class="footer-heading">Sign up for our enews!</h2>
 
                             <div class="field-element field-element--text field-element--white field-element--hidden-label">
                                 <div class="field-label">
@@ -82,7 +82,7 @@ use Sprout\Helpers\Url;
 
     </div>
 
-    <div class="section section--footer section--small bg-orange">
+    <div class="section section--footer section--small">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm--left-align">

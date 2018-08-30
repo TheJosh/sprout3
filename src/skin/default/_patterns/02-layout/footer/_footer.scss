@@ -1,6 +1,17 @@
+
+.section--pre-footer {
+    background: $color-primary;
+    @include reverse-text;
+}
+
 .footer-heading {
     font-size: 2.4rem;
     line-height: 3.2rem;
+}
+
+.section--footer {
+    background: $color-secondary;
+    @include reverse-text;
 }
 
 .footer__text {
