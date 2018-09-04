@@ -1,2 +1,21 @@
 status: wip
 notes: Avoid changing HTML for now. Baby steps baby steps.
+context:
+  innerpage:
+    title: A lovely inner page header
+    content: Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent dignissim finibus libero eget cursus. Donec elit nulla, molestie in dapibus ac, mollis non quam. Aliquam eget magna sed mauris consequat imperdiet. Etiam et est blandit, sollicitudin purus eu, posuere mi. Ut erat nisl, pretium quis nisl ac, consectetur egestas nulla. Mauris sollicitudin nec dui eget sagittis. Phasellus commodo vel purus eget suscipit. Fusce sapien ligula, gravida ut lacus vitae, pulvinar interdum nisi. Etiam quis aliquet tellus, id congue felis.
+  breadcrumb:
+    currentpage: current page
+    breadcrumbList:
+    -
+      breadcrumbItem:
+        link: https://www.lifewire.com/html5-placeholder-links-3468070
+        text: home
+    -
+      breadcrumbItem:
+        link: https://www.lifewire.com/html5-placeholder-links-3468070
+        text: another page
+    -
+      breadcrumbItem:
+        link: https://www.lifewire.com/html5-placeholder-links-3468070
+        text: a third page
