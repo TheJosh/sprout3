@@ -1,1 +1,19 @@
-status: wip
+status: ready
+title: Breadcrumb
+notes: A inline list of parent pages
+context:
+  breadcrumb:
+      currentpage: current page
+      breadcrumbList:
+      -
+        breadcrumbItem:
+          link: https://www.lifewire.com/html5-placeholder-links-3468070
+          text: home
+      -
+        breadcrumbItem:
+          link: https://www.lifewire.com/html5-placeholder-links-3468070
+          text: another page
+      -
+        breadcrumbItem:
+          link: https://www.lifewire.com/html5-placeholder-links-3468070
+          text: a third page

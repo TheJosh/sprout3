@@ -1,8 +1,8 @@
 <ul class="breadcrumb">
-    {{# breadcrumb }}
-    <li class="pagination__item"><a href="{{ link }}">{{ text }}</a></li>
-    {{/ breadcrumb }}
+    {{#each breadcrumb.breadcrumbList }}
+    <li class="pagination__item"><a href="{{ breadcrumbItem.link }}">{{ breadcrumbItem.text }}</a></li>
+    {{/each }}
     <li>
-        <span>{{ breadcrumbCurrent }}</span>
+        <span>{{ breadcrumb.currentpage }}</span>
     </li>
 </ul>
