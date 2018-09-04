@@ -1,0 +1,9 @@
+<div class="search-paginate">
+    <a class="page-prev" href="{{ pagination.button--prev }}">« Prev</a>
+    {{#each pagination.pages }}
+    <a class="page {{ pagination-item.modifier }}" href="{{ pagination-item.link }}">
+        {{ pagination-item.number }}
+    </a>
+    {{/each}}
+    <a class="page-next" href="{{ pagination.button--next }}">Next »</a>
+</ul>

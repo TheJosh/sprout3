@@ -1,2 +1,29 @@
+title: Search Pagination
 status: wip
 notes: Find a very new sprout 3 site with lots of content and do a site search that is going to returns loads of results. Grab the HTML from there
+context:
+  pagination:
+    button--prev:
+    button--next:
+    pages:
+    -
+      pagination-item:
+        link:
+        number: 1
+    -
+      pagination-item:
+        link:
+        number: 2
+    -
+      pagination-item:
+        modifier: on
+        link:
+        number: 3
+    -
+      pagination-item:
+        link:
+        number: "4"
+    -
+      pagination-item:
+        link:
+        number: 5

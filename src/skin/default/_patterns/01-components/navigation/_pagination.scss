@@ -1,0 +1,31 @@
+.search-paginate {
+    text-align: center;
+    padding: 10px 15px;
+    background: $color-gray-15;
+}
+.search-paginate .page {
+    display: inline-block;
+    background: $color-accent-01;
+    color: #fff;
+    padding: 3px 12px;
+    text-decoration: none;
+    text-align: center;
+    margin: 0 2px;
+}
+.search-paginate .page.on {
+    background: darken($color-accent-01, 20%);
+}
+.search-paginate .page-next {
+    margin-left: 16px;
+}
+.search-paginate .page-prev {
+    margin-right: 16px;
+}
+
+@supports (display: flex) {
+    .search-paginate {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
