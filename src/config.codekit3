@@ -4915,6 +4915,13 @@
 		"oAP": "\/skin\/default\/_patterns\/01-components\/tile\/tile.hbs",
 		"oF": 0
 		},
+	"\/skin\/default\/_patterns\/02-layout\/_mobile-header.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/skin\/default\/_patterns\/02-layout\/_mobile-header.hbs",
+		"oF": 0
+		},
 	"\/skin\/default\/_patterns\/02-layout\/footer\/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
