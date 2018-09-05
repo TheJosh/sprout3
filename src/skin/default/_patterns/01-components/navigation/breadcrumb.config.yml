@@ -1,6 +1,6 @@
-status: ready
+status: WIP
 title: Breadcrumb
-notes: A inline list of parent pages
+notes: Let's grab my fancy mobile show/hide stuff from Tango. These are so often problematic on mobile.
 context:
   breadcrumb:
       currentpage: current page
