@@ -1,15 +1,7 @@
-
-<ul class="messages all-type-confirm">
-    <li class="confirm">
-        <span class="notification--text">Your changes have been saved and are now live</span>
+<ul class="messages">
+    {{#each messages }}
+    <li class="{{ message.modifier }}">
+        <span class="notification--text">{{ message.notification }}</span>
     </li>
-</ul>
-
-<ul class="messages all-type-error">
-    <li class="error">
-        <span class="notification--text">Name -- This field is required</span>
-    </li>
-    <li class="error">
-        <span class="notification--text">There was an error saving your changes</span>
-    </li>
+    {{/each}}
 </ul>

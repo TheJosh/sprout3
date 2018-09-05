@@ -1,2 +1,21 @@
-status: wip
+title: Site Messages
+status: ready
 notes: Can't change HTML and default styles are fine but I think there is an orange warning message missing from my example.
+context:
+  messages:
+  -
+    message:
+      modifier: confirm
+      notification: Your changes have been saved and are now live
+  -
+    message:
+      modifier: error
+      notification: Name -- This field is required
+  -
+    message:
+      modifier: error
+      notification: There was an error saving your changes
+  -
+    message:
+      modifier: warning
+      notification: Be careful, you might stuff this up

@@ -16,15 +16,21 @@ ul.messages li {
 }
 
 ul.messages .error {
-    background: #E04D4D;
-    border-left: 4px solid #B72323;
+    background: $color-utility-negative-subtle;
+    border-left: 4px solid $color-utility-negative;
     color: #FFF !important;
 }
 
 ul.messages .confirm {
     color: #FFF !important;
-    background: #6DBB5A;
-    border-left: 4px solid #439230;
+    background: $color-utility-positive-subtle;
+    border-left: 4px solid $color-utility-positive;
+}
+
+ul.messages .warning {
+    color: #FFF !important;
+    background: $color-utility-caution-subtle;
+    border-left: 4px solid $color-utility-caution;
 }
 
 ul.messages a {
