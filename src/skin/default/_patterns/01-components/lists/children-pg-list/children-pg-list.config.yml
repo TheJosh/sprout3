@@ -1,4 +1,4 @@
-status: WIP
+status: wip
 notes: There is different HTML when a client doesn't upload a thumbnail. Could you add that 2 one of the list items?
 context:
   children-pg-list-item:
