@@ -1,0 +1,27 @@
+title: "Slider"
+collated: false
+notes: TODO - arrow icons need updating to be SVG not font based. https://kenwheeler.github.io/slick/
+status: wip
+context:
+  slider:
+    slider-items:
+    -
+      slider:
+        link: "#"
+        img: "https://picsum.photos/2040/700?random?gravity=north"
+        img-alt-text: Banner 1
+    -
+      slider:
+        link: "#"
+        img: "https://picsum.photos/2040/700?random?gravity=east"
+        img-alt-text: Banner 2
+    -
+      slider:
+        link: "#"
+        img: "https://picsum.photos/2040/700?random?gravity=south"
+        img-alt-text: Banner 3
+    -
+      slider:
+        link: "#"
+        img: "https://picsum.photos/2040/700?random?gravity=west"
+        img-alt-text: Banner 4
