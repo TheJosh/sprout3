@@ -38,7 +38,7 @@ const myCustomisedTheme = mandelbrot({
     skin: "navy",
     "nav": ["docs", "components"], // show docs above components in the sidebar
     "styles": [
-        "default",
+        "default", // This is the default Mandelbrot CSS, not a ref to the default skin folder
         "/_patterns/styleguide.css"
     ]
     // any other theme configuration values here
