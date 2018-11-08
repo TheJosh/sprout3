@@ -16,8 +16,8 @@ ul.messages li {
 }
 
 ul.messages .error {
-    background: $color-utility-negative-subtle;
-    border-left: 4px solid $color-utility-negative;
+    background: $color-utility-warning-subtle;
+    border-left: 4px solid $color-utility-warning;
     color: #FFF !important;
 }
 
@@ -29,8 +29,8 @@ ul.messages .confirm {
 
 ul.messages .warning {
     color: #FFF !important;
-    background: $color-utility-caution-subtle;
-    border-left: 4px solid $color-utility-caution;
+    background: $color-utility-alert-subtle;
+    border-left: 4px solid $color-utility-alert;
 }
 
 ul.messages a {

@@ -7,7 +7,7 @@
 		"uuidString": "DD3339B9-F3AC-4CAD-9BFC-ECD4CC6DB0E4"
 		}
 	],
-"creatorBuild": "28901",
+"creatorBuild": "28905",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
@@ -3084,6 +3084,13 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/skin/default/_docs/02-design-variables.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/skin/default/_docs/02-design-variables.html",
+		"oF": 0
+		},
 	"/skin/default/_docs/02-design-variables.md": {
 		"cB": 0,
 		"cS": 0,
@@ -4973,6 +4980,33 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/skin/default/_patterns/02-layout/footer/footer.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/02-layout/forms/_enews-signup.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/skin/default/_patterns/02-layout/forms/_enews-signup.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/skin/default/_patterns/02-layout/forms/enews-signup.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/02-layout/forms/enews-signup.config.yml",
+		"oF": 0
+		},
+	"/skin/default/_patterns/02-layout/forms/enews-signup.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/02-layout/forms/enews-signup.hbs",
 		"oF": 0
 		},
 	"/skin/default/_patterns/02-layout/header/_header.scss": {

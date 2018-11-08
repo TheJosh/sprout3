@@ -130,25 +130,25 @@ You can find info on controlling colour with sass color functions here... https:
         <div class="sg-palette-list__item__swatch" style="background: #d06041;">
             <code>#d06041</code>
         </div>
-        <code>$color-utility-caution</code>
+        <code>$color-utility-alert</code>
     </div>
    <div class="sg-palette-list__item">
         <div class="sg-palette-list__item__swatch" style="background: #f77450;">
             <code>#28943e</code>
         </div>
-        <code>$color-utility-caution-subtle</code>
+        <code>$color-utility-alert-subtle</code>
     </div>
     <div class="sg-palette-list__item">
         <div class="sg-palette-list__item__swatch" style="background: #a23947;">
             <code>#35ab4d</code>
         </div>
-        <code>$color-utility-negative</code>
+        <code>$color-utility-warning</code>
     </div>
     <div class="sg-palette-list__item">
         <div class="sg-palette-list__item__swatch" style="background: #ce6976;">
             <code>#ce6976</code>
         </div>
-        <code>$color-utility-negative-subtle</code>
+        <code>$color-utility-warning-subtle</code>
     </div>
     <div class="sg-palette-list__item">
         <div class="sg-palette-list__item__swatch" style="background: #0192d0;">
