@@ -1,6 +1,6 @@
 
 a {
-    color: #35ab75;
+    color: $color-secondary;
     word-break: break-word;
     transition: all $link-transition;
 }
@@ -8,7 +8,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #2d9c69;
+    color: darken($color-secondary--hover, 20%);
 }
 
 /* Address `outline` inconsistency between Chrome and other browsers. */
