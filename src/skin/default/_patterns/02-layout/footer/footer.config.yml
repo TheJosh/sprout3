@@ -1,4 +1,6 @@
 title: Footer
+status: wip
+notes: Update enews to use enews pattern
 context:
   year: 2015 - 2018
   company-name: Company Name
