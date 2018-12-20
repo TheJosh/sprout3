@@ -20,13 +20,15 @@
     outline: none;
     background: none;
     padding: 6px 0 3px 40px;
-    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
-    color: #35ab75;
+    font-family: $primary-font;
+    color: $color-secondary;
     position: relative;
     cursor: pointer;
     display: block;
     margin: 0 0 12px;
     font-size: inherit;
+    line-height: inherit;
+    transition: color $link-transition;
 }
 
 .expando-open__icon {
@@ -51,7 +53,7 @@
     left: 0;
     right: 0;
     margin: 0 auto;
-    transition: transform 200ms ease;
+    transition: all $link-transition;
 }
 
 .expando-open__icon:after {
@@ -61,8 +63,8 @@
 /* Hover */
 .expando-open:hover,
 .expando-open:focus {
-    color: #2d9c69;
-    text-decoration: underline;
+    color: darken($color-secondary--hover, 20%);
+    text-decoration: none;
 }
 
 .expando-open:hover .expando-open__icon {
