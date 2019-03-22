@@ -17,3 +17,38 @@
 .breadcrumb > li:first-child:before {
     content: none;
 }
+
+
+@media screen and (max-width: 61.25em) { /* 980px */
+
+    .breadcrumb {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        line-height: 1.4;
+    }
+    .breadcrumb > li {
+        display: none;
+        margin-left: 0;
+    }
+    .breadcrumb > li:first-child,
+    .breadcrumb > li:nth-last-child(2),
+    .blog-post-controller .breadcrumb > li:nth-last-child(5) {
+        display: inline-block;
+    }
+    .blog-post-controller .breadcrumb > li:nth-last-child(5):before,
+    .breadcrumb > li:nth-last-child(2):before{
+        background: none;
+        content: '\003c\00a0';
+        position: unset;
+        font-weight: bold;
+        position: relative;
+        left: -1px;
+        margin-left: 0px;
+        top: 0;
+    }
+
+    /* code for the blog posts because the breadcrumbs are nonsensical */
+    .blog-post-controller .breadcrumb > li:nth-last-child(2) {
+        display: none;
+    }
+}
