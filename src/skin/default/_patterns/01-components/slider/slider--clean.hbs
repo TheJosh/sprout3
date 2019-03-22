@@ -1,0 +1,11 @@
+<div class="slider-clean" role="region" aria-label="gallery" tabindex="0">
+<ul class="slider-clean">
+	{{#each slider.slider-items }}
+	<li id="slide-{{ slider.id }}">
+	    <a href="{{ slider.link }}">
+	    	<img src="{{ slider.img }}" alt="{{ slider.img-alt-text }}">
+	    </a>
+	</li>
+	{{/each}}
+
+</ul>
