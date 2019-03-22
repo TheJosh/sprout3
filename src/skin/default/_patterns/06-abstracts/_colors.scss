@@ -4,7 +4,9 @@
 
 $color-primary: 					#2a333e; // NAVY
 
-$color-secondary: 				    #f77450; // ORANGE
+$color-secondary:                   #f77450; // ORANGE
+
+$color-secondary--hover: 			darken($color-secondary, 40%);
 
 $color-alternative:                 #EE4266; // optional - unused
 
