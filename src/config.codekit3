@@ -81,6 +81,14 @@
 		"oAP": "/config/database.php",
 		"oF": 0
 		},
+	"/config/dev_hosts.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/config/dev_hosts.php",
+		"oF": 0
+		},
 	"/config/require_ssl.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -129,6 +137,149 @@
 		"oAP": "/files/.htaccess",
 		"oF": 0
 		},
+	"/files/1_banner1.jpg": {
+		"ft": 16384,
+		"iS": 101816,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/1_banner1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/1_banner1.large.jpg": {
+		"ft": 16384,
+		"iS": 29400,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/1_banner1.large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/1_banner1.medium.jpg": {
+		"ft": 16384,
+		"iS": 7392,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/1_banner1.medium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/1_banner1.small.jpg": {
+		"ft": 16384,
+		"iS": 2244,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/1_banner1.small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/2_promo1.jpg": {
+		"ft": 16384,
+		"iS": 48774,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/2_promo1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/2_promo1.medium.jpg": {
+		"ft": 16384,
+		"iS": 11245,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/2_promo1.medium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/2_promo1.small.jpg": {
+		"ft": 16384,
+		"iS": 3628,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/2_promo1.small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/3_promo2.jpg": {
+		"ft": 16384,
+		"iS": 67540,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/3_promo2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/3_promo2.medium.jpg": {
+		"ft": 16384,
+		"iS": 14886,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/3_promo2.medium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/3_promo2.small.jpg": {
+		"ft": 16384,
+		"iS": 3875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/3_promo2.small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/4_promo3.jpg": {
+		"ft": 16384,
+		"iS": 78779,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/4_promo3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/4_promo3.medium.jpg": {
+		"ft": 16384,
+		"iS": 17409,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/4_promo3.medium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/4_promo3.small.jpg": {
+		"ft": 16384,
+		"iS": 4419,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/4_promo3.small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/files/index.htm": {
 		"cB": 0,
 		"ft": 8192,
@@ -147,14 +298,6 @@
 		"oF": 1,
 		"sC": 3,
 		"tS": 0
-		},
-	"/getdb.sql": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/getdb.sql",
-		"oF": 0
 		},
 	"/index.php": {
 		"cB": 0,
@@ -3018,14 +3161,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/package-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/skin/default/_docs/01-index.md": {
 		"cB": 0,
 		"cS": 0,
@@ -4285,12 +4420,28 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/skin/default/_patterns/01-components/forms/checkboxes.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/checkboxes.config.yml",
+		"oF": 0
+		},
 	"/skin/default/_patterns/01-components/forms/checkboxes.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/skin/default/_patterns/01-components/forms/checkboxes.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/color-picker.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/color-picker.config.yml",
 		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/forms/color-picker.hbs": {
@@ -4301,12 +4452,28 @@
 		"oAP": "/skin/default/_patterns/01-components/forms/color-picker.hbs",
 		"oF": 0
 		},
+	"/skin/default/_patterns/01-components/forms/date-input.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/date-input.config.yml",
+		"oF": 0
+		},
 	"/skin/default/_patterns/01-components/forms/date-input.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/skin/default/_patterns/01-components/forms/date-input.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/date-time-input.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/date-time-input.config.yml",
 		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/forms/date-time-input.hbs": {
@@ -4317,12 +4484,28 @@
 		"oAP": "/skin/default/_patterns/01-components/forms/date-time-input.hbs",
 		"oF": 0
 		},
+	"/skin/default/_patterns/01-components/forms/money.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/money.config.yml",
+		"oF": 0
+		},
 	"/skin/default/_patterns/01-components/forms/money.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/skin/default/_patterns/01-components/forms/money.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/radio-buttons.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/radio-buttons.config.yml",
 		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/forms/radio-buttons.hbs": {
@@ -4333,12 +4516,28 @@
 		"oAP": "/skin/default/_patterns/01-components/forms/radio-buttons.hbs",
 		"oF": 0
 		},
+	"/skin/default/_patterns/01-components/forms/range.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/range.config.yml",
+		"oF": 0
+		},
 	"/skin/default/_patterns/01-components/forms/range.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/skin/default/_patterns/01-components/forms/range.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/search.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/search.config.yml",
 		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/forms/search.hbs": {
@@ -4349,12 +4548,28 @@
 		"oAP": "/skin/default/_patterns/01-components/forms/search.hbs",
 		"oF": 0
 		},
+	"/skin/default/_patterns/01-components/forms/select.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/select.config.yml",
+		"oF": 0
+		},
 	"/skin/default/_patterns/01-components/forms/select.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/skin/default/_patterns/01-components/forms/select.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/site-search-results.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/site-search-results.config.yml",
 		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/forms/site-search-results.hbs": {
@@ -4365,12 +4580,28 @@
 		"oAP": "/skin/default/_patterns/01-components/forms/site-search-results.hbs",
 		"oF": 0
 		},
+	"/skin/default/_patterns/01-components/forms/site-search.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/site-search.config.yml",
+		"oF": 0
+		},
 	"/skin/default/_patterns/01-components/forms/site-search.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/skin/default/_patterns/01-components/forms/site-search.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/submit-bar.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/submit-bar.config.yml",
 		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/forms/submit-bar.hbs": {
@@ -4381,12 +4612,28 @@
 		"oAP": "/skin/default/_patterns/01-components/forms/submit-bar.hbs",
 		"oF": 0
 		},
+	"/skin/default/_patterns/01-components/forms/text-area.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/text-area.config.yml",
+		"oF": 0
+		},
 	"/skin/default/_patterns/01-components/forms/text-area.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/skin/default/_patterns/01-components/forms/text-area.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/text-field.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/text-field.config.yml",
 		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/forms/text-field.hbs": {
@@ -4397,12 +4644,28 @@
 		"oAP": "/skin/default/_patterns/01-components/forms/text-field.hbs",
 		"oF": 0
 		},
+	"/skin/default/_patterns/01-components/forms/time-pickers.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/time-pickers.config.yml",
+		"oF": 0
+		},
 	"/skin/default/_patterns/01-components/forms/time-pickers.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/skin/default/_patterns/01-components/forms/time-pickers.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/total-selector.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/total-selector.config.yml",
 		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/forms/total-selector.hbs": {
@@ -4840,6 +5103,19 @@
 		"oAP": "/skin/default/_patterns/01-components/navigation/related-links.hbs",
 		"oF": 0
 		},
+	"/skin/default/_patterns/01-components/slider/_slider--clean.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/skin/default/_patterns/01-components/slider/_slider--clean.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/skin/default/_patterns/01-components/slider/_slider-theme--match-heights.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4878,6 +5154,14 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/skin/default/_patterns/01-components/slider/slider--clean.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/slider/slider--clean.hbs",
+		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/slider/slider--match-heights.hbs": {
 		"cB": 0,
