@@ -29,3 +29,7 @@ Use the following classes to change the icon colour.
 * `icon--accent-01`
 * `icon--accent-02`
 
+You can also specify an svgs stoke-linecap or stroke-linejoin in the CSS.
+Example:
+* `stroke-linecap: round / butt / square;`
+* `stroke-linejoin: round / bevel / arcs;`
