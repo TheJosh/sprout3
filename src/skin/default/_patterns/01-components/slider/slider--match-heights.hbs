@@ -1,0 +1,28 @@
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<ul class="slider">
+	{{#each slider.slider-items }}
+	<li>
+	    <a class="slider__slide" href="{{ slider.link }}">
+	    	<img src="{{ slider.img }}" alt="{{ slider.img-alt-text }}">
+
+	    	<div class="slider-text">
+	    		<p>{{ slider.text }}</p>
+	    	</div>
+	    </a>
+	</li>
+	{{/each}}
+
+</ul>
+
+<script>
+	$('.slider').slick({
+		arrows: false,
+		dots: true,
+		autoplay: false,
+	})
+	.on('setPosition', function (event, slick) {
+	    slick.$slides.css('height', slick.$slideTrack.height() + 'px');
+	});;
+</script>
