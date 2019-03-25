@@ -66,7 +66,7 @@ variants:
           slider:
             id: "1"
             link: "#"
-            img: "https://picsum.photos/2040/700?random?gravity=north"
+            img: "https://picsum.photos/2040/800?random?gravity=north"
             img-alt-text: Banner 1
             text: "consectetur adipisicing elit. Ab nesciunt consequatur"
         -
@@ -80,13 +80,13 @@ variants:
           slider:
             id: "3"
             link: "#"
-            img: "https://picsum.photos/2040/900?random?gravity=south"
+            img: "https://picsum.photos/2040/800?random?gravity=south"
             img-alt-text: Banner 3
             text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab nesciunt consequatur aut incidunt dolore culpa deleniti aliquam quas recusandae ullam dolor doloribus, quis perferendis quaerat quo voluptatibus, dicta, repellendus distinctio. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab nesciunt consequatur aut incidunt dolore culpa deleniti aliquam quas recusandae ullam dolor doloribus, quis perferendis quaerat quo voluptatibus, dicta, repellendus distinctio."
         -
           slider:
             id: "4"
             link: "#"
-            img: "https://picsum.photos/2040/1000?random?gravity=west"
+            img: "https://picsum.photos/2040/800?random?gravity=west"
             img-alt-text: Banner 4
             text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab nesciunt consequatur aut incidunt"
