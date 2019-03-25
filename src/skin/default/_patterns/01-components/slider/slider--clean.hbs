@@ -1,7 +1,12 @@
-<div class="slider-clean" role="region" aria-label="gallery" tabindex="0">
-<ul class="slider-clean">
+<section class="slider-clean" aria-label="gallery" role="region"  tabindex="0">
+<ul class="slider__buttons">
+{{#each slider.slider-items }}
+	<ol class="slider__button" type="button" role="tab" id="slider__controls" aria-controls="slider__controls" aria-label="{{ slider.id }} of 4" tabindex="-1"><a href="#slide-{{ slider.id }}">{{ slider.id }}</a></ol>
+{{/each}}
+</ul>
+<ul class="slider__gallery">
 	{{#each slider.slider-items }}
-	<li id="slide-{{ slider.id }}">
+	<li class="slider__item" id="slide-{{ slider.id }}">
 	    <a href="{{ slider.link }}">
 	    	<img src="{{ slider.img }}" alt="{{ slider.img-alt-text }}">
 	    </a>
@@ -9,3 +14,4 @@
 	{{/each}}
 
 </ul>
+</section>
