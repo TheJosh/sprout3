@@ -1,2 +1,27 @@
+title: "Image Gallery"
+collated: false
 status: wip
-notes: Avoid changing HTML for now. Baby steps baby steps. Don't worry about getting the slider ACTUALLY working, just get the CSS and HTML in there
+notes:
+context:
+  image-gallery:
+    gallery-thumbs:
+    -
+      gallery-thumb:
+        link-title: Open image in popup window
+        img: "https://picsum.photos/600/600?random?gravity=north"
+        img-alt-text: Phasellus at suscipit turpis, vitae posuere mauris. Nunc vitae bibendum nisl.
+    -
+      gallery-thumb:
+        link-title: Open image in popup window
+        img: "https://picsum.photos/600/600?random?gravity=east"
+        img-alt-text: Donec scelerisque leo sed mi interdum, at dictum nisi cursus
+    -
+      gallery-thumb:
+        link-title: Open image in popup window
+        img: "https://picsum.photos/600/600?random?gravity=south"
+        img-alt-text: Proin a quam eu justo tincidunt cursus
+    -
+      gallery-thumb:
+        link-title: Open image in popup window
+        img: "https://picsum.photos/600/600?random?gravity=west"
+        img-alt-text: Nunc dictum nisl et lacinia malesuada massa auctor

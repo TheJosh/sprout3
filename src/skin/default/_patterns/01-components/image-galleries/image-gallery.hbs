@@ -1,0 +1,9 @@
+<div class="image-gallery">
+	{{#each image-gallery.gallery-thumbs }}
+    <div class="image-gallery-thumb">
+        <a class="image-gallery-popup" href="{{ gallery-thumb.img }}" title="{{ gallery-thumb.link-title }}">
+            <img src="{{ gallery-thumb.img }}" alt="{{ gallery-thumb.img-alt-text }}">
+        </a>
+    </div>
+	{{/each}}
+</div>
