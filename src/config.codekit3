@@ -5103,7 +5103,7 @@
 		"oAP": "/skin/default/_patterns/01-components/navigation/related-links.hbs",
 		"oF": 0
 		},
-	"/skin/default/_patterns/01-components/slider/_slider--clean.scss": {
+	"/skin/default/_patterns/01-components/slider/_slider-clean.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -5111,7 +5111,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/skin/default/_patterns/01-components/slider/_slider--clean.css",
+		"oAP": "/skin/default/_patterns/01-components/slider/_slider-clean.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
