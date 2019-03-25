@@ -1,0 +1,123 @@
+.image-gallery {
+	margin: 0.5em;
+}
+.image-gallery-thumb {
+	width: 100%;
+	display: inline-block;
+	float: left;
+}
+.image-gallery-caption {
+	margin-top: $spacing--small;
+}
+.image-gallery-popup {
+	display: block;
+}
+.image-gallery-thumb img {
+	width: 100%;
+}
+.image-gallery--captions {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-ms-flex-flow: row wrap;
+	flex-flow: row wrap;
+}
+
+@supports(display: grid) {
+	.image-gallery {
+		margin: 0;
+	}
+	.image-gallery-thumb {
+		width: auto;
+		margin: 0;
+	}
+	.image-gallery {
+		display: grid;
+		grid-gap: $spacing--large;
+		grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)) ;
+	}
+	.image-gallery.-clearfix:before,
+	.image-gallery.-clearfix:after {
+		content: none;
+	}
+}
+
+/* BP Smaller */
+@media screen and (min-width: 35em) { /* 560px */
+	.image-gallery-thumb {
+		width: calc(50% - 1em);
+		margin: 0.5em;
+	}
+	@supports(display: grid) {
+		.image-gallery {
+			margin: 0;
+		}
+		.image-gallery-thumb {
+			width: auto;
+			margin: 0;
+		}
+		.image-gallery {
+			display: grid;
+			grid-gap: $spacing--large;
+			grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)) ;
+		}
+		.image-gallery.-clearfix:before,
+		.image-gallery.-clearfix:after {
+			content: none;
+		}
+	}
+}
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+	.image-gallery-thumb {
+		width: calc(33% - 1em);
+		margin: 0.5em;
+	}
+	@supports(display: grid) {
+		.image-gallery {
+			margin: 0;
+		}
+		.image-gallery-thumb {
+			width: auto;
+			margin: 0;
+		}
+		.image-gallery {
+			display: grid;
+			grid-gap: $spacing--large;
+			grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)) ;
+		}
+		.image-gallery.-clearfix:before,
+		.image-gallery.-clearfix:after {
+			content: none;
+		}
+	}
+}
+
+/* BP medium */
+@media only screen and (min-width: 62em) { /* 992px */
+	.image-gallery-thumb {
+		width: calc(25% - 1em);
+		margin: 0.5em;
+	}
+	@supports(display: grid) {
+		.image-gallery {
+			margin: 0;
+		}
+		.image-gallery-thumb {
+			width: auto;
+			margin: 0;
+		}
+		.image-gallery {
+			display: grid;
+			grid-gap: $spacing--large;
+			grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)) ;
+		}
+		.image-gallery.-clearfix:before,
+		.image-gallery.-clearfix:after {
+			content: none;
+		}
+	}
+}
