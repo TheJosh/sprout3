@@ -1,0 +1,70 @@
+.slider-clean {
+    position: relative;
+}
+[aria-label="gallery"]:focus {
+  outline: 4px solid DodgerBlue;
+  outline-offset: -4px; /* compensates for 2px border */
+}
+.slider__buttons {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: auto;
+    text-align: center;
+}
+.slider__button {
+    display: inline-block;
+    text-align: center;
+}
+.slider__button a {
+    display: block;
+    font-size: $font-small;
+    line-height: 2;
+    border-radius: 50%;
+    height: 2em;
+    width: 2em;
+    background: rgba(0,0,0,0.66);
+    color: $color-white;
+    text-decoration: none;
+}
+
+.slider__gallery {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: auto;
+    display: flex;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -webkit-scroll-snap-type: mandatory;
+        -ms-scroll-snap-type: mandatory;
+            scroll-snap-type: mandatory;
+    -webkit-scroll-snap-points-y: repeat(100vw);
+      -ms-scroll-snap-points-y: repeat(100vw);
+          scroll-snap-points-y: repeat(100vw);
+  -webkit-scroll-snap-type: x mandatory;
+      -ms-scroll-snap-type: x mandatory;
+          scroll-snap-type: x mandatory;
+}
+.slider__item {
+    display: inline-block;
+    scroll-snap-align: start;
+    float: left;
+    width: 100vw;
+    flex-shrink: 0;
+    height: 100%;
+    scroll-behavior: smooth;
+}
+.slider__item img {
+    object-fit: cover;
+}
+@supports (scroll-snap-type: mandatory) {
+  .slider__buttons {
+    display: none;
+  }
+}
