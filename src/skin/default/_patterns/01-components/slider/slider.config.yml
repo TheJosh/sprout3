@@ -1,7 +1,7 @@
 title: "Slider"
 collated: false
 notes: TODO - arrow icons need updating to be SVG not font based. https://kenwheeler.github.io/slick/
-status: wip
+status: ready
 context:
   slider:
     slider-items:
@@ -58,7 +58,7 @@ variants:
             text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab nesciunt consequatur aut incidunt"
   -
     name: "clean"
-    status: wip
+    status: ready
     context:
       slider:
         slider-items:
