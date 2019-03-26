@@ -1,6 +1,6 @@
-status: wip
+status: ready
 title: Breadcrumb
-notes: Let's grab my fancy mobile show/hide stuff from Tango. These are so often problematic on mobile.
+notes: A breadcrumb keeps track of the hierarchical structure of content, and where the current page you're on fits in. It lists the given page's parent pages and then the homepage.
 context:
   breadcrumb:
       currentpage: current page
