@@ -18,9 +18,7 @@
     content: none;
 }
 
-
-@media screen and (max-width: 61.25em) { /* 980px */
-
+@media screen and (max-width: 47.9375em) { /* 767px */
     .breadcrumb {
         margin-top: 20px;
         margin-bottom: 10px;
@@ -31,11 +29,9 @@
         margin-left: 0;
     }
     .breadcrumb > li:first-child,
-    .breadcrumb > li:nth-last-child(2),
-    .blog-post-controller .breadcrumb > li:nth-last-child(5) {
+    .breadcrumb > li:nth-last-child(2) {
         display: inline-block;
     }
-    .blog-post-controller .breadcrumb > li:nth-last-child(5):before,
     .breadcrumb > li:nth-last-child(2):before{
         background: none;
         content: '\003c\00a0';
@@ -46,9 +42,28 @@
         margin-left: 0px;
         top: 0;
     }
+}
 
+@media screen and (max-width: 61.25em) { /* 980px */
     /* code for the blog posts because the breadcrumbs are nonsensical */
+    .blog-post-controller .breadcrumb > li {
+        display: none;
+        margin-left: 0;
+    }
+    .blog-post-controller .breadcrumb > li:nth-last-child(5) {
+        display: inline-block;
+    }
     .blog-post-controller .breadcrumb > li:nth-last-child(2) {
         display: none;
+    }
+    .blog-post-controller .breadcrumb > li:nth-last-child(5):before {
+        background: none;
+        content: '\003c\00a0';
+        position: unset;
+        font-weight: bold;
+        position: relative;
+        left: -1px;
+        margin-left: 0px;
+        top: 0;
     }
 }
