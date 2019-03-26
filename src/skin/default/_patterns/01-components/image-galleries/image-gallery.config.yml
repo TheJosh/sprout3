@@ -1,7 +1,7 @@
 title: "Image Gallery"
 collated: false
 status: wip
-notes:
+notes: Still need to add pop up and confirm this structure is compatible with existing HTML structure
 context:
   image-gallery:
     gallery-thumbs:
@@ -28,20 +28,20 @@ context:
     -
       gallery-thumb:
         link-title: Open image in popup window
-        img: "https://picsum.photos/600/600?random"
+        img: "https://picsum.photos/600/600?random?book"
         img-alt-text: Phasellus at suscipit turpis, vitae posuere mauris. Nunc vitae bibendum nisl.
     -
       gallery-thumb:
         link-title: Open image in popup window
-        img: "https://picsum.photos/600/600?random?gravity=south"
+        img: "https://picsum.photos/600/600?random?gravity"
         img-alt-text: Donec scelerisque leo sed mi interdum, at dictum nisi cursus
     -
       gallery-thumb:
         link-title: Open image in popup window
-        img: "https://picsum.photos/600/600?random?gravity=west"
+        img: "https://picsum.photos/600/600?random?man"
         img-alt-text: Proin a quam eu justo tincidunt cursus
     -
       gallery-thumb:
         link-title: Open image in popup window
-        img: "https://picsum.photos/600/600?random?gravity=north"
+        img: "https://picsum.photos/600/600?random?smiles"
         img-alt-text: Nunc dictum nisl et lacinia malesuada massa auctor
