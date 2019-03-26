@@ -19,8 +19,8 @@
 }
 
 .widget-FileList .document {
-    min-height: 24px;
-    padding-left: 32px;
+    min-height: $spacing--large;
+    padding-left: $spacing--xlarge;
     background: url(../../images/icon-system/icon_document.svg) no-repeat;
 }
 

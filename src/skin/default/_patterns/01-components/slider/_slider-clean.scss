@@ -10,7 +10,7 @@
     padding: 0;
     margin: 0;
     position:absolute;
-    bottom: $spacing--large;
+    bottom: $spacing--medium;
     right: 0;
     left: 0;
     height: auto;
@@ -20,7 +20,7 @@
     display: inline-block;
     text-align: center;
     padding: 0;
-    margin: 0 $spacing--small;
+    margin: 0 $spacing--xsmall;
 }
 .slider__button[type="button"] {
     -webkit-appearance: unset;
