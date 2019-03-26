@@ -6017,6 +6017,126 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/skin/default/images/icon-system/icon_form_arrow-down-sm.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_arrow-down-sm.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_arrow-down.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_arrow-down.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_arrow-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_arrow-left.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_cross-red.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_cross-red.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_cross.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_cross.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_datepicker.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_datepicker.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_datetimepicker.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_datetimepicker.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_tick-green.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_tick-green.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_tick-lg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_tick-lg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_tick-md.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_tick-md.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_tick-sm.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_tick-sm.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_timepicker.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_timepicker.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/skin/default/images/icon-system/icon_image.svg": {
 		"ft": 2097152,
 		"miP": 0,
