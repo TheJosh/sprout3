@@ -14,11 +14,12 @@
     outline: none;
     opacity: 1;
     position: relative;
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-family: $primary-font;
     font-weight: $primary-font-weight;
     line-height: 1;
     transition: all 250ms ease-in-out;
+    font-weight: 600;
 }
 
 
@@ -44,19 +45,19 @@
 .button__icon {
     display: inline-block;
     vertical-align: top;
-    width: $spacing--large;
-    height: $spacing--large;
+    width: $spacing--medium;
+    height: $spacing--medium;
 }
 
 
 .button__icon--right {
-    margin-left: $spacing--small;
-    margin-right: -($spacing--xsmall);
+    margin-left: $spacing--xsmall;
+    margin-right: -($spacing--xxsmall);
 }
 
 .button__icon--left {
-    margin-right: $spacing--small;
-    margin-left: -($spacing--xsmall);
+    margin-right: $spacing--xsmall;
+    margin-left: -($spacing--xxsmall);
 }
 
 .button__icon svg {
@@ -174,7 +175,7 @@
 @media screen and (min-width: 48em) { /* 768px */
     /* Regular */
     .button {
-        padding: $spacing*1.5 $spacing--large $spacing*1.5;
+        padding: $spacing*1.5 $spacing--medium $spacing*1.5;
         line-height: 1;
     }
     .button-small,
@@ -190,26 +191,26 @@
     .button-large,
     .button--large {
         font-size: 2.4rem;
-        padding: $spacing--large $spacing--xlarge;
+        padding: $spacing--medium $spacing--xlarge;
     }
 
     .button--large .button__icon {
-        width: $spacing--large*1.5;
-        height: $spacing--large*1.5;
+        width: $spacing--medium*1.5;
+        height: $spacing--medium*1.5;
     }
 
     .button--large .button__icon svg {
-        width: $spacing--large*1.5;
-        height: $spacing--large*1.5;
+        width: $spacing--medium*1.5;
+        height: $spacing--medium*1.5;
     }
 
     .button--large .button__icon--right {
-        margin-left: $spacing--small;
+        margin-left: $spacing--xsmall;
         margin-right: -($spacing);
     }
 
     .button--large .button__icon--left {
-        margin-right: $spacing--small;
+        margin-right: $spacing--xsmall;
         margin-left: -($spacing);
     }
 
