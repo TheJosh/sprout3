@@ -27,17 +27,21 @@ form > * + * {
 }
 
 /* ---- form colour varients ---- */
-/* ---- default ---- */
-.field-input input {
+/* ---- default - grey ---- */
+.field-input input,
+.field-element .field-input select {
     border: 1px solid $color-grey-20;
     border-radius: $standard-radius;
     background-color: $color-grey-05;
 }
 
 /* ---- white ---- */
-.field-element--white .field-input input {
+.field-element--white .field-input input,
+.field-element--white .field-input select {
     background-color: $color-white;
 }
+
+
 %form-field-pseudo-anchor--before {
     position: absolute;
     top: -$form-spacing;
