@@ -66,26 +66,11 @@
 }
 
 .daterangepicker.opensright:before {
-    position: absolute;
-    top: -7px;
-    left: 9px;
-    display: inline-block;
-    border-right: 7px solid transparent;
-    border-bottom: 7px solid $color-grey-20;
-    border-left: 7px solid transparent;
-    border-bottom-color: $color-grey-20;
-    content: '';
+    @extend %form-field-pseudo-anchor--before;
 }
 
 .daterangepicker.opensright:after {
-    position: absolute;
-    top: -6px;
-    left: 10px;
-    display: inline-block;
-    border-right: 6px solid transparent;
-    border-bottom: 6px solid $color-white;
-    border-left: 6px solid transparent;
-    content: '';
+    @extend %form-field-pseudo-anchor--after;
 }
 
 .daterangepicker.dropup{
