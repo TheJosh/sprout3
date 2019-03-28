@@ -11,7 +11,10 @@ form > * + * {
  /* All form elements with preceeding icon */
  .field-element--datepicker .field-input .textbox,
  .field-element--daterangepicker .field-input .textbox,
- .field-element--money .field-input .textbox {
+ .field-element--datetimepicker .field-input .textbox,
+ .field-element--datetimerangepicker .field-input .textbox,
+ .field-element--money .field-input .textbox,
+ .field-element--timepicker .field-input .textbox {
      padding-left: $form-spacing*6.5;
  }
 
