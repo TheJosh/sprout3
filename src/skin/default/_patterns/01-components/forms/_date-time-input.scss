@@ -1,11 +1,11 @@
 /* - Date/time picker - */
-.field-element.field-element--datetimepicker .field-input,
-.field-element.field-element--datetimerangepicker .field-input {
+.field-element--datetimepicker .field-input,
+.field-element--datetimerangepicker .field-input {
     position: relative;
 }
 
-.field-element.field-element--datetimepicker .field-input:before,
-.field-element.field-element--datetimerangepicker .field-input:before {
+.field-element--datetimepicker .field-input:before,
+.field-element--datetimerangepicker .field-input:before {
     content: "\00a0";
     display: block;
     position: absolute;
@@ -19,7 +19,7 @@
     border-right: 1px solid $color-grey-20;
 }
 
-.field-element.field-element--datetimepicker .field-input .textbox,
-.field-element.field-element--datetimerangepicker .field-input .textbox {
+.field-element--datetimepicker .field-input .textbox,
+.field-element--datetimerangepicker .field-input .textbox {
     padding-left: $spacing*6.5;
 }
