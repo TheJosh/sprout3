@@ -8,9 +8,9 @@
     content: "\00a0";
     display: block;
     position: absolute;
-    left: $spacing--xxsmall;
+    left: $form-spacing/4;
     top: calc(50% - 12px);
-    width: $spacing*5;
+    width: $form-spacing*5;
     background-image: url(../images/icon-system/icon_form_datepicker.svg);
     background-repeat: no-repeat;
     background-size: contain;
