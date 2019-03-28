@@ -7,7 +7,7 @@
     left: 20px;
     padding: 4px;
     margin-top: 2px;
-    border-radius: $border-radius;
+    border-radius: $standard-radius;
     width: 278px;
 }
 
@@ -142,7 +142,7 @@
 .daterangepicker .calendar-table {
     border: 1px solid $color-grey-15;
     padding: 4px;
-    border-radius: $border-radius;
+    border-radius: $standard-radius;
     background: $color-white;
 }
 
@@ -226,7 +226,7 @@
     width: 62px;
     background-color: $color-white;
     outline: none;
-    border-radius: $border-radius;
+    border-radius: $standard-radius;
     font-size: 1.4rem;
     line-height: 1.2;
     padding: 5px 23px 5px 8px;
@@ -291,7 +291,7 @@
 /* Text Input Above Each Calendar */
 .daterangepicker .input-mini {
     border: 1px solid $color-grey-20;
-    border-radius: $border-radius;
+    border-radius: $standard-radius;
     color: $color-grey-65;
     display: block;
     height: $spacing--xlarge;
