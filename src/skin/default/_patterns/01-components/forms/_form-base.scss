@@ -29,13 +29,35 @@ form > * + * {
     clear: both;
 }
 
+ /* fieldset styles */
+.field-element fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.field-label, .fieldset__legend {
+    font-weight: 600;
+    font-size: $font-regular;
+    margin-bottom: $form-spacing;
+    line-height: 1.2;
+    font-family: $primary-font;
+}
+
 /* ---- form colour varients ---- */
 /* ---- default - grey ---- */
 .field-input input,
+.field-input textarea,
 .field-element .field-input select {
     border: 1px solid $color-grey-20;
     border-radius: $standard-radius;
     background-color: $color-grey-05;
+}
+
+.field-input input:focus,
+.field-input textarea:focus,
+.field-element .field-input select:focus {
+    outline: $color-grey-50 auto 5px;
 }
 
 /* ---- white ---- */
