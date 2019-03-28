@@ -30,7 +30,7 @@ form > * + * {
 /* ---- default ---- */
 .field-input input {
     border: 1px solid $color-grey-20;
-    border-radius: $spacing--xsmall;
+    border-radius: $border-radius;
     background-color: $color-grey-05;
 }
 
