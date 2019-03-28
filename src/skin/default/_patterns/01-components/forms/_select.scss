@@ -1,15 +1,16 @@
 .field-element .field-input select {
     -moz-appearance: none;
-    background-image: url(../images/form-icons.svg),
-    url(../images/form-icons.svg);
-    background-repeat: no-repeat, no-repeat;
-    background-position: top -262px right -104px, top -447px right -92px;
-    padding-right: 55px;
+    background-image: url(../images/icon-system/icon_form_arrow-down.svg),
+    url(../images/form_bg-fill.svg);
+    background-repeat: no-repeat, repeat-Y;
+    background-position: center right $form-spacing, center right;
+    background-size: $form-spacing*3, $form-spacing*5;
+    padding-right: $form-spacing*6.5;
 }
 
 .field-element .field-input select[multiple] {
     background-image: none;
-    padding-right: 20px;
+    padding-right: $form-spacing*2.5;
 }
 
 .field-element select::-ms-expand,
@@ -19,24 +20,11 @@
 }
 
 /* Multiple selects */
-.field-element.field-element--select--multiple select {
-    padding: 8px 8px;
+.field-element--select--multiple select {
+    padding: $form-spacing;
     background-image: none;
 }
 
-.field-element.field-element--select--multiple option {
-    padding: 6px 10px;
+.field-element--select--multiple option {
+    padding: $form-spacing;
 }
-
-/* White + Small */
-.field-element.field-element--white .field-input select {
-    background-position: top -262px right -104px, top -607px right -92px;
-}
-
-/* BP small */
-@media screen and (min-width: 48em) { /* 768px */
-    .field-element .field-input select {
-        background-position: top -257px right -104px, top -447px right -92px;
-    }
-}
-
