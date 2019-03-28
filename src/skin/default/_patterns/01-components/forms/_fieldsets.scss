@@ -1,0 +1,134 @@
+/* fieldset styles */
+.field-element fieldset {
+   border: none;
+   padding: 0;
+   margin: 0;
+}
+
+.field-label, .fieldset__legend {
+   font-weight: 600;
+   font-size: $font-regular;
+   margin-bottom: $form-spacing;
+   line-height: 1.2;
+   font-family: $primary-font;
+}
+
+.field-element--checkboxlist--columns .field-element__input-set {
+    -webkit-columns: 3;
+    -moz-columns: 3;
+    columns: 3;
+}
+
+/* Hide checkbox and radio field element) */
+.field-element input[type="checkbox"],
+.field-element input[type="radio"] {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.field-element input[type="checkbox"] + label,
+.field-element input[type="radio"] + label,
+.field-element.field-element--small input[type="checkbox"] + label,
+.field-element.field-element--small input[type="radio"] + label {
+    padding-left: 34px;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+}
+
+/* -- Field set pseudo elements -- */
+.field-element input[type="checkbox"] + label:before,
+.field-element input[type="radio"] + label:before,
+.field-element.field-element--small input[type="checkbox"] + label:before,
+.field-element.field-element--small input[type="radio"] + label:before {
+    content: " ";
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    margin-right: 13px;
+    position: relative;
+    top: 4px;
+    background-color: #EEF0F3;
+    border: 1px solid #CED2DC;
+    margin-left: -34px;
+}
+
+/* Radio button (pseudo element) */
+.field-element input[type="radio"] + label:before,
+.field-element--small input[type="radio"] + label:before {
+    border-radius: 12px;
+}
+
+/* -- Field set pseudo elements : checked -- */
+.field-element input[type="checkbox"]:checked + label:after,
+.field-element input[type="radio"]:checked + label:after,
+.field-element.field-element--small input[type="checkbox"]:checked + label:after,
+.field-element.field-element--small input[type="radio"]:checked + label:after {
+    content: " ";
+    position: absolute;
+    left: 1px;
+    top: 6px;
+}
+/* Checkbox box checked (pseudo element) */
+input[type="checkbox"]:checked + label:after,
+.field-element--small input[type="checkbox"]:checked + label:after {
+   content: "\00a0";
+   background-image: url(../images/icon-system/icon_form_tick-md.svg);
+   background-position: left top;
+   background-repeat: no-repeat;
+   background-size: 90%;
+   width: 24px;
+   height: 24px;
+}
+
+/* Box */
+.field-element input[type="checkbox"]:checked + label:before {
+    border-radius: 1px;
+}
+
+
+
+
+
+
+
+/* Radio dot (pseudo element) */
+.field-element input[type="radio"]:checked + label:after,
+.field-element--small input[type="radio"]:checked + label:after {
+    left: 6px;
+    top: 9px;
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    background: #58595B;
+}
+
+/* White */
+.field-element--white input[type="checkbox"] + label:before,
+.field-element--white input[type="radio"] + label:before {
+    background-color: #FFF;
+}
+
+/* BP small */
+@media screen and (min-width: 48em) { /* 768px */
+
+    /* Radio outer */
+    .field-element input[type="radio"] + label:before {
+        border-radius: 12px;
+    }
+
+    /* Radio dot (pseudo element) */
+    .field-element input[type="radio"]:checked + label:after {
+        left: 7px;
+        top: 11px;
+        width: 10px;
+        height: 10px;
+        border-radius: 5px;
+    }
+}
