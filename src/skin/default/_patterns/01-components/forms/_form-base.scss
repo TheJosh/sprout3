@@ -44,6 +44,35 @@ form > * + * {
     background-color: $color-white;
 }
 
+/* ---- Disabled ---- */
+.field-element--disabled,
+.fieldset-input.fieldset-input--disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+.field-element--disabled .textbox[disabled],
+.field-element--disabled select[disabled],
+.field-element--disabled button[disabled],
+.field-element--disabled input[type="checkbox"] + label,
+.fieldset-input.fieldset-input--disabled input[type="checkbox"] + label,
+.field-element--disabled input[type="radio"] + label,
+.fieldset-input.fieldset-input--disabled input[type="radio"] + label {
+    cursor: not-allowed;
+}
+
+/* Hidden labels */
+.field-element--hidden-label .field-label,
+.field-element--hidden-label .fieldset__legend {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
 
 %form-field-pseudo-anchor--before {
     position: absolute;
