@@ -1,5 +1,5 @@
 /* fieldset styles */
-.field-element fieldset {
+fieldset {
    border: none;
    padding: 0;
    margin: 0;
@@ -20,53 +20,53 @@
 }
 
 /* Hide checkbox and radio field element) */
-.field-element input[type="checkbox"],
-.field-element input[type="radio"] {
+input[type="checkbox"],
+input[type="radio"] {
     @extend %vis-hidden;
 }
 
-.field-element input[type="checkbox"] + label,
-.field-element input[type="radio"] + label,
-.field-element.field-element--small input[type="checkbox"] + label,
-.field-element.field-element--small input[type="radio"] + label {
-    padding-left: 34px;
+input[type="checkbox"] + label,
+input[type="radio"] + label,
+.field-element--small input[type="checkbox"] + label,
+.field-element--small input[type="radio"] + label {
+    padding-left: $form-spacing*4;
     position: relative;
     cursor: pointer;
     display: inline-block;
 }
 
 /* -- Field set pseudo elements -- */
-.field-element input[type="checkbox"] + label:before,
-.field-element input[type="radio"] + label:before,
-.field-element.field-element--small input[type="checkbox"] + label:before,
-.field-element.field-element--small input[type="radio"] + label:before {
+input[type="checkbox"] + label:before,
+input[type="radio"] + label:before,
+.field-element--small input[type="checkbox"] + label:before,
+.field-element--small input[type="radio"] + label:before {
     content: " ";
     display: inline-block;
-    width: 24px;
-    height: 24px;
-    margin-right: 13px;
+    width: $form-spacing*3;
+    height: $form-spacing*3;
+    margin-right: $form-spacing*1.5;
     position: relative;
-    top: 4px;
-    background-color: #EEF0F3;
-    border: 1px solid #CED2DC;
-    margin-left: -34px;
+    top: $form-spacing/2;
+    background-color: $color-grey-05;
+    border: 1px solid $color-grey-20;
+    margin-left: -$form-spacing*4;
 }
 
 /* Radio button (pseudo element) */
-.field-element input[type="radio"] + label:before,
+input[type="radio"] + label:before,
 .field-element--small input[type="radio"] + label:before {
-    border-radius: 12px;
+    border-radius: $form-spacing*1.5;
 }
 
 /* -- Field set pseudo elements : checked -- */
-.field-element input[type="checkbox"]:checked + label:after,
-.field-element input[type="radio"]:checked + label:after,
-.field-element.field-element--small input[type="checkbox"]:checked + label:after,
-.field-element.field-element--small input[type="radio"]:checked + label:after {
+input[type="checkbox"]:checked + label:after,
+input[type="radio"]:checked + label:after,
+.field-element--small input[type="checkbox"]:checked + label:after,
+.field-element--small input[type="radio"]:checked + label:after {
     content: " ";
     position: absolute;
     left: 1px;
-    top: 6px;
+    top: $form-spacing*0.75;
 }
 /* Checkbox box checked (pseudo element) */
 input[type="checkbox"]:checked + label:after,
@@ -76,52 +76,23 @@ input[type="checkbox"]:checked + label:after,
    background-position: left top;
    background-repeat: no-repeat;
    background-size: 90%;
-   width: 24px;
-   height: 24px;
+   width: $form-spacing*3;
+   height: $form-spacing*3;
 }
-
-/* Box */
-.field-element input[type="checkbox"]:checked + label:before {
-    border-radius: 1px;
-}
-
-
-
-
-
-
 
 /* Radio dot (pseudo element) */
-.field-element input[type="radio"]:checked + label:after,
+input[type="radio"]:checked + label:after,
 .field-element--small input[type="radio"]:checked + label:after {
-    left: 6px;
-    top: 9px;
-    width: 6px;
-    height: 6px;
-    border-radius: 3px;
-    background: #58595B;
+    left: $form-spacing - 1;
+    top: $form-spacing *1.5 - 1;
+    width: $form-spacing*1.2;
+    height: $form-spacing*1.2;
+    border-radius: $form-spacing*0.6;
+    background: $color-grey-65;
 }
 
 /* White */
 .field-element--white input[type="checkbox"] + label:before,
 .field-element--white input[type="radio"] + label:before {
-    background-color: #FFF;
-}
-
-/* BP small */
-@media screen and (min-width: 48em) { /* 768px */
-
-    /* Radio outer */
-    .field-element input[type="radio"] + label:before {
-        border-radius: 12px;
-    }
-
-    /* Radio dot (pseudo element) */
-    .field-element input[type="radio"]:checked + label:after {
-        left: 7px;
-        top: 11px;
-        width: 10px;
-        height: 10px;
-        border-radius: 5px;
-    }
+    background-color: $color-white;
 }
