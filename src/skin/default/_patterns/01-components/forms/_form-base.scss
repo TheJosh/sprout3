@@ -38,3 +38,24 @@ form > * + * {
 .field-element--white .field-input input {
     background-color: $color-white;
 }
+%form-field-pseudo-anchor--before {
+    position: absolute;
+    top: -$form-spacing;
+    left: $form-spacing*2;
+    display: inline-block;
+    border-right: $form-spacing solid transparent;
+    border-bottom: $form-spacing solid $color-grey-20;
+    border-left: $form-spacing solid transparent;
+    border-bottom-color: $color-grey-20;
+    content: '';
+}
+%form-field-pseudo-anchor--after {
+    position: absolute;
+    top: -$form-spacing + 1;
+    left: $form-spacing * 2 + 1;
+    display: inline-block;
+    border-right: $form-spacing - 1 solid transparent;
+    border-bottom: $form-spacing - 1 solid #fff;
+    border-left: $form-spacing - 1 solid transparent;
+    content: '';
+}
