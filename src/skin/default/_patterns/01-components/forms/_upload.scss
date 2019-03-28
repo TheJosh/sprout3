@@ -1,0 +1,28 @@
+.field-element--upload .field-input input[type="file"] {
+    border: 1px solid transparent;
+    border-radius: $standard-radius;
+    background-color: transparent;
+}
+input[type="file"]::-webkit-file-upload-button {
+    background: #000;
+    padding: $form-spacing*1.5 $form-spacing*2;
+    border: 1px solid $color-grey-20;
+    border-radius: $standard-radius;
+    background-color: $color-grey-05;
+}
+input[type="file"]:hover::-webkit-file-upload-button {
+    background-color: $color-grey-10;
+    border: 1px solid darken($color-grey-20, 10%);
+}
+input[type="file"]:focus {
+    outline: $color-grey-50 auto 5px;
+}
+input[type="file" i]:focus {
+    outline-offset: 0;
+}
+input[type="file"]:focus::-webkit-file-upload-button {
+    background-color: $color-grey-10;
+}
+input[type="file"]:active::-webkit-file-upload-button {
+    background-color: $color-grey-15;
+}
