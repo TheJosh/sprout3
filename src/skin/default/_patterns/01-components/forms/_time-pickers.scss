@@ -1,10 +1,23 @@
+/* time picker */
+.field-element--timepicker .field-input {
+    position: relative;
+}
 
-.field-element.field-element--timepicker .field-input .textbox {
-    padding-left: 55px;
-    background-image: url(../images/form-icons.svg),
-    url(../images/form-icons.svg);
-    background-repeat: no-repeat, no-repeat;
-    background-position: top -175px left 12px, top -447px left 0;
+.field-element--timepicker .field-input:before {
+    content: "\00a0";
+    display: block;
+    position: absolute;
+    left: $spacing--xxsmall;
+    top: calc(50% - 12px);
+    width: $spacing*5;
+    background-image: url(../images/icon-system/icon_form_timepicker.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    border-right: 1px solid $color-grey-20;
+}
+.field-element--timepicker .field-input .textbox {
+    padding-left: $spacing*6.5;
 }
 
 /* Timepicker modal */
@@ -17,13 +30,13 @@
 }
 
 .ui-timepicker-standard {
-    background-color: #FFF;
-    border: 1px solid #CED2DC;
+    background-color: $color-white;
+    border: 1px solid $color-grey-20;
     display: block;
     margin: 3px 0 0;
     padding: 5px;
     list-style: none outside none;
-    border-radius: 4px;
+    border-radius: $standard-radius;
 }
 
 .ui-timepicker-standard a {
@@ -31,7 +44,7 @@
 }
 
 .ui-timepicker-standard .ui-state-hover {
-    background-color: #EAECF1;
+    background-color: $color-grey-10;
 }
 
 .ui-timepicker-standard .ui-menu-item {
@@ -47,28 +60,9 @@
     padding: 5px 10px;
     line-height: 1.5;
     text-decoration: none;
-    border-radius: 3px;
+    border-radius: $standard-radius;
 }
 
 .ui-timepicker-hidden {
     display: none;
 }
-
-/* White */
-.field-element.field-element--timepicker.field-element--white .field-input .textbox {
-    background-position: top -175px left 12px, top -607px left 0;
-}
-
-/* BP small */
-@media screen and (min-width: 48em) { /* 768px */
-    .field-element.field-element--timepicker .field-input .textbox {
-        background-position: top -170px left 12px, top -447px left 0;
-    }
-    /* White */
-    .field-element.field-element--timepicker.field-element--white .field-input .textbox {
-        background-position: top -170px left 12px, top -607px left 0;
-    }
-}
-
-
-
