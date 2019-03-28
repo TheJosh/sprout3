@@ -7,9 +7,9 @@
     content: "\00a0";
     display: block;
     position: absolute;
-    left: $spacing--xxsmall;
+    left: $form-spacing/4;
     top: calc(50% - 12px);
-    width: $spacing*5;
+    width: $form-spacing*5;
     background-image: url(../images/icon-system/icon_form_timepicker.svg);
     background-repeat: no-repeat;
     background-size: contain;
@@ -17,7 +17,7 @@
     border-right: 1px solid $color-grey-20;
 }
 .field-element--timepicker .field-input .textbox {
-    padding-left: $spacing*6.5;
+    padding-left: $form-spacing*6.5;
 }
 
 /* Timepicker modal */
