@@ -2,12 +2,6 @@ form > * + * {
     margin-top: $form-spacing*2;
 }
 
-@media screen and (min-width: 48em) { /* 768px */
-    form > * + * {
-        margin-top: $form-spacing*2;
-    }
-}
-
  /* All form elements with preceeding icon */
  .field-element--datepicker .field-input .textbox,
  .field-element--daterangepicker .field-input .textbox,
