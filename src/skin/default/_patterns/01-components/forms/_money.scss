@@ -6,13 +6,13 @@
     content: "\00a4";       /* Generic currency sign */
     position: absolute;
     display: block;
-    left: $spacing--xxsmall;
+    left: $form-spacing/4;
     top: calc(50% - 14px);
     color: $color-grey-65;
     border-right: 1px solid $color-grey-20;
     font-weight: bold;
     font-size: $font-regular*1.2;
-    width: $spacing*5;
+    width: $form-spacing*5;
     text-align: center;
 }
 
