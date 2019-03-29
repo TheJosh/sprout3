@@ -50,7 +50,7 @@
     -webkit-justify-content: space-between;
         -ms-flex-pack: justify;
             justify-content: space-between;
-    margin: 0 0 $form-spacing*1.5;
+    margin: 0 0 $form-spacing*2;
 }
 
 .total-selector__dropdown__field:last-child {
@@ -134,17 +134,16 @@
     -webkit-flex: 0 0 auto;
         -ms-flex: 0 0 auto;
             flex: 0 0 auto;
-    padding: 3px 5px;
+    padding: $form-spacing*0.5 $form-spacing*0.75;
     width: 50px;
     text-align: center;
     font-size: 1.8rem;
 }
 
 .total-selector__dropdown__field__labels p {
-    display: inline-block;
+    display: block;
     margin-right: $form-spacing;
 }
-
 .total-selector__dropdown__field__labels__title {
     margin: 0;
     font-size: 1.6rem;
@@ -152,7 +151,7 @@
 
 .total-selector__dropdown__field__labels__helper {
     margin: 0;
-    font-size: 1.5rem;
+    font-size: $font-small;
 }
 
 .field-element--totalselector__fields {
@@ -169,10 +168,11 @@
 @media only screen and (min-width: 37.5em) { /* 600px */
     .field-element--totalselector__dropdown {
         right: auto;
+        min-width: 320px;
     }
-    .total-selector__dropdown__field__labels p {
-        display: block;
-        margin-right: $form-spacing*3.5;
+    .total-selector__dropdown__field__labels__helper {
+        font-size: 1.5rem;
+        line-height: 1;
     }
     .total-selector__dropdown__field {
         margin: 0 0 $form-spacing*3;
@@ -186,4 +186,3 @@
         display: none;
     }
 }
-
