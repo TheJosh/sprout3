@@ -10,6 +10,7 @@ input[type="file"]::-webkit-file-upload-button {
     border-radius: $standard-radius;
     background-color: $color-grey-05;
     transition: all 250ms ease-in-out;
+    outline: none;
 }
 input[type="file"]:hover::-webkit-file-upload-button {
     background-color: $color-grey-10;
@@ -17,8 +18,10 @@ input[type="file"]:hover::-webkit-file-upload-button {
 }
 input[type="file"]:focus::-webkit-file-upload-button {
     background-color: $color-grey-10;
+    outline: none;
 }
 input[type="file"]:active::-webkit-file-upload-button {
+    outline: none;
     background-color: $color-grey-15;
 }
 input[type="file"]:focus {
