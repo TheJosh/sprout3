@@ -1,5 +1,5 @@
 .site-search-form {
-    margin: 0 0 40px;
+    margin: 0 0 $form-spacing*5;
 }
 
 .site-search-form--header {
@@ -7,9 +7,9 @@
 }
 
 .search-result {
-    border-top: 1px solid #ced2dc;
-    margin: 20px 0;
-    padding: 20px 0;
+    border-top: 1px solid $color-grey-20;
+    margin: $form-spacing*2.5 0;
+    padding: $form-spacing*2.5 0;
 }
 
 .search-result p:last-child {
