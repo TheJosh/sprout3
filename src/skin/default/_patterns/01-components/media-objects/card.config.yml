@@ -1,0 +1,10 @@
+title: Card
+notes: An image with a title and a paragraph of text. Use cases could be promos, blog posts, or lists of content previews.
+context:
+  card:
+    img: http://placehold.it/800x600
+    link: "#"
+    heading: A lovely long and generous heading about a specific thing
+    text: Nulla facilisi. Integer finibus purus eros, quis sodales diam pulvinar quis. Pellentesque non quam quis urna viverra mattis. Nulla facilisi. Sed id consectetur neque, nec euismod magna. Vestibulum orci sem, suscipit tempor tempus nec, rhoncus vitae diam. Vestibulum pellentesque id neque et pretium.
+  button:
+    text: This is a button

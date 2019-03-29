@@ -1,0 +1,27 @@
+<ul class="card-list">
+    <li class="card">
+        <div class="card__content">
+            
+            <h3 class="card__heading"><a href="{{ card.link }}">{{ card.heading }}</a></h3>
+            <p>{{ card.text }}</p>
+            <p class="media-object__author">
+            {{ media-object.author }}
+            </p>
+
+            {{> @button }}
+
+        </div>
+        <div class="card__img">
+            <img src="{{ card.img }}">
+        </div>
+    </li>
+</ul>
+
+<script>
+$('.card').mousedown(function(){
+    console.log("i have been pressed")
+    $(this).find('a').css('color', 'red');
+}
+$('.card').mousedown(function(){
+    console.log("i am free!")
+}
