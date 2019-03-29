@@ -1,9 +1,20 @@
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+
+
 <div class="image-gallery -clearfix">
 	{{#each image-gallery.gallery-thumbs }}
     <div class="image-gallery-thumb">
-        <a class="image-gallery-popup" href="{{ gallery-thumb.img }}" title="{{ gallery-thumb.link-title }}">
+        <a class="image-gallery-popup js-popup-image" href="{{ gallery-thumb.img }}" title="{{ gallery-thumb.link-title }}">
             <img src="{{ gallery-thumb.img }}" alt="{{ gallery-thumb.img-alt-text }}">
         </a>
     </div>
 	{{/each}}
 </div>
+
+<script>
+	// MagnificPopup links
+	$('a.js-popup-image').magnificPopup({
+		type: 'image',
+	});
+	}
+</script>
