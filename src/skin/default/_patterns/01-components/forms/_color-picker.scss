@@ -1,16 +1,5 @@
-
-/* Small */
-.field-element.field-element--colorpicker .textbox.colorpicker {
-    padding: 2px 7px;
-    height: 32px;
-    width: 38px;
-}
-
-/* BP small */
-@media screen and (min-width: 48em) { /* 768px */
-    .field-element.field-element--colorpicker .textbox.colorpicker {
-        padding: 3px 8px;
-        height: 42px;
-        width: 49px;
-    }
+.field-element--colorpicker .textbox.colorpicker {
+    padding: $form-spacing/4 $form-spacing;
+    height: $form-spacing*5;
+    width: $form-spacing*6;
 }
