@@ -97,3 +97,12 @@ input[type="radio"]:checked + label:after,
 .field-element--white input[type="radio"] + label:before {
     background-color: $color-white;
 }
+
+/* input focus state */
+.fieldset--multiradio:focus-within {
+    outline: $color-grey-50 auto 5px;
+}
+input[type="checkbox"]:focus + label {
+    outline: $color-grey-50 auto 5px;
+    outline-offset: -3px;
+}
