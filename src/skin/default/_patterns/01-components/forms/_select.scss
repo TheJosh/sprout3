@@ -1,4 +1,4 @@
-.field-element .field-input select {
+.field-input select {
     -moz-appearance: none;
     background-image: url(../images/icon-system/icon_form_arrow-down.svg),
     url(../images/form_bg-fill.svg);
@@ -8,14 +8,12 @@
     padding-right: $form-spacing*6.5;
 }
 
-.field-element .field-input select[multiple] {
+.field-input select[multiple] {
     background-image: none;
     padding-right: $form-spacing*2.5;
 }
 
-.field-element select::-ms-expand,
-.daterangepicker select.monthselect::-ms-expand,
-.daterangepicker select.yearselect::-ms-expand {
+.field-input select::-ms-expand {
     display: none;
 }
 
