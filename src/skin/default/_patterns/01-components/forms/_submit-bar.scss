@@ -1,14 +1,14 @@
 .submit-bar {
     text-align: right;
     background: $color-grey-10;
-    padding: 15px;
-    margin: 15px 0;
+    padding: $form-spacing*2;
+    margin: $form-spacing*2 0;
 }
 
 .sidebar .submit-bar {
-    padding: 10px 0;
+    padding: $form-spacing*1.5 0;
 }
 
 .submit-bar a {
-    margin-right: 20px;
+    margin-right: $form-spacing*2.5;
 }
