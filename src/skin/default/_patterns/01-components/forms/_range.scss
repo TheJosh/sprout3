@@ -1,9 +1,120 @@
-
-.field-element.field-element--range .field-input .textbox {
-    -webkit-appearance: slider-horizontal;
+.field-element--range .field-input .textbox {
     background: none;
     padding: 0;
     border-radius: 0;
     border: none;
     background: none !important;
+}
+.field-element--range .field-input input[type=range] + div {
+    color: $color-grey-65;
+    font-weight: bold;
+}
+.field-element--range .field-input input[type=range]:focus + div {
+    color: $color-accent-01;
+    font-weight: bold;
+}
+
+input[type=range] {
+  -webkit-appearance: none;
+  width: 100%;
+  background: transparent; /* Otherwise white in Chrome */
+  margin: 0;
+}
+input[type=range]:focus {
+  outline: none;
+}
+input[type=range]::-webkit-slider-runnable-track {
+	width: 100%;
+	height: $form-spacing;
+	cursor: pointer;
+	box-shadow: none;
+	background: $color-grey-20;
+	border-radius: $form-spacing/2;
+	border: none;
+}
+input[type=range]::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	box-shadow: 1px 1px 2px darken($color-grey-65, 10%);
+	border: none;
+	height: $form-spacing*4;
+	width: $form-spacing*4;
+	border-radius: $form-spacing*2;
+	background: $color-grey-65;
+	cursor: pointer;
+	margin-top: -14px;
+    -webkit-transition: all 250ms ease-in-out;
+    transition: all 250ms ease-in-out;
+}
+input[type=range]:focus::-webkit-slider-runnable-track {
+	background: $color-grey-20;
+}
+input[type=range]:focus::-webkit-slider-thumb {
+	background: $color-accent-01;
+    box-shadow: 2px 2px 4px $color-grey-65;
+}
+input[type=range]::-moz-range-track {
+	width: 100%;
+	height: $form-spacing/2;
+	cursor: pointer;
+	box-shadow: none;
+	background: $color-grey-15;
+	border-radius: $form-spacing/2;
+	border: none;
+}
+input[type=range]::-moz-range-thumb {
+	box-shadow: 1px 1px 2px darken($color-grey-65, 10%);
+	border: none;
+	height: $form-spacing*4;
+	width: $form-spacing*4;
+	border-radius: $form-spacing*2;
+	background: $color-grey-65;
+	cursor: pointer;
+}
+input[type=range]::-ms-track {
+	width: 100%;
+	height: $form-spacing/2;
+	cursor: pointer;
+	background: transparent;
+	border-color: transparent;
+  	border-width: $form-spacing * 2 + 2 0;
+	color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+	background: $color-grey-15;
+	border: none;
+	border-radius: $form-spacing/2;
+	box-shadow: none;
+}
+input[type=range]::-ms-fill-upper {
+	background: $color-grey-15;
+	border: none;
+	border-radius: $form-spacing/2;
+	box-shadow: none;
+}
+input[type=range]::-ms-thumb {
+	box-shadow: 1px 1px 2px darken($color-grey-65, 10%);
+	border: none;
+	height: $form-spacing*4;
+	width: $form-spacing*4;
+	border-radius: $form-spacing*2;
+	background: $color-grey-65;
+	cursor: pointer;
+}
+input[type=range]:focus::-ms-fill-lower {
+	background: $color-grey-15;
+}
+input[type=range]:focus::-ms-fill-upper {
+	background: $color-grey-15;
+}
+input[type=text] {
+	display: none;
+}
+/* IE hack fix -
+if not IE, apply these styles
+has nothing to do with (display:block)
+and everything to do with IE not supporting @supports */
+@supports(display:block) {
+	 input[type=range] {
+		margin: $form-spacing*1.6 0;
+	}
 }
