@@ -4969,7 +4969,7 @@
 		"oAP": "/skin/default/_patterns/01-components/maps/google-map.hbs",
 		"oF": 0
 		},
-	"/skin/default/_patterns/01-components/media-object/_media-object.scss": {
+	"/skin/default/_patterns/01-components/media-objects/_card.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4977,25 +4977,54 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/skin/default/_patterns/01-components/media-object/_media-object.css",
+		"oAP": "/skin/default/_patterns/01-components/media-objects/_card.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/skin/default/_patterns/01-components/media-object/media-object.config.yml": {
+	"/skin/default/_patterns/01-components/media-objects/_media-object.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/skin/default/_patterns/01-components/media-objects/_media-object.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/skin/default/_patterns/01-components/media-objects/card.config.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/skin/default/_patterns/01-components/media-object/media-object.config.yml",
+		"oAP": "/skin/default/_patterns/01-components/media-objects/card.config.yml",
 		"oF": 0
 		},
-	"/skin/default/_patterns/01-components/media-object/media-object.hbs": {
+	"/skin/default/_patterns/01-components/media-objects/card.hbs": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/skin/default/_patterns/01-components/media-object/media-object.hbs",
+		"oAP": "/skin/default/_patterns/01-components/media-objects/card.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/media-objects/media-object.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/media-objects/media-object.config.yml",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/media-objects/media-object.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/media-objects/media-object.hbs",
 		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/navigation/_breadcrumb.scss": {
@@ -5422,6 +5451,19 @@
 		"oAP": "/skin/default/_patterns/02-layout/header/header.hbs",
 		"oF": 0
 		},
+	"/skin/default/_patterns/02-layout/lists/_card_list.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/skin/default/_patterns/02-layout/lists/_card_list.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/skin/default/_patterns/02-layout/lists/_media-object_list.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5447,6 +5489,22 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/skin/default/_patterns/02-layout/lists/card_list.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/02-layout/lists/card_list.config.yml",
+		"oF": 0
+		},
+	"/skin/default/_patterns/02-layout/lists/card_list.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/02-layout/lists/card_list.hbs",
+		"oF": 0
 		},
 	"/skin/default/_patterns/02-layout/lists/media-object_list.config.yml": {
 		"cB": 0,
