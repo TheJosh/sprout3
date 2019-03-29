@@ -24,7 +24,7 @@ form > * + * {
 }
 
 /* ---- form colour varients ---- */
-/* ---- default - grey ---- */
+/* -- default - grey -- */
 .field-input input,
 .field-input textarea,
 .field-input select {
@@ -39,7 +39,7 @@ form > * + * {
     outline: $color-grey-50 auto 5px;
 }
 
-/* ---- white ---- */
+/* -- white -- */
 .field-element--white .field-input input,
 .field-element--white .field-input textarea,
 .field-element--white .field-input select {
@@ -68,7 +68,92 @@ form > * + * {
     @extend %vis-hidden;
 }
 
+/* ---- Required ---- */
+.field-label__required {
+    text-indent: -9999px;
+    line-height: 0;
+    display: inline-block;
+}
 
+.field-label__required:after {
+    content: "*";
+    text-indent: 0;
+    display: block;
+    line-height: inherit;
+}
+
+/* ---- Field helpers ---- */
+.field-helper {
+    font-weight: 400;
+    font-size: $font-small;
+    margin-bottom: 1em;
+}
+
+.field-label .field-helper {
+    margin-top: 0.3em;
+    margin-bottom: 0;
+}
+
+/* ---- Field errors ---- */
+.field-element.field-element--error  .field-input .textbox,
+.field-element.field-element--error  .field-input select {
+    background-color: lighten($color-utility-warning, 62%);
+}
+.field-error__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.field-error__list__item {
+    color: $color-white;
+    background: $color-utility-warning;
+    padding: 10px 20px;
+    margin: 11px 0;
+    border-left: 6px solid $color-utility-warning-subtle;
+}
+
+/* ---- Attach wrapper ---- */
+.field-element-attach-wrapper {
+    position: relative;
+}
+.field-element-attach-wrapper__button {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    bottom: 1px;
+    border-radius: 0 5px 5px 0;
+    background: $color-grey-15;
+    border: none;
+    outline: none;
+    padding: 0 7px;
+    z-index: 1;
+    cursor: pointer;
+    min-width: 45px;
+}
+.field-element-attach-wrapper__button svg {
+    vertical-align: middle;
+}
+.field-element-attach-wrapper__button:hover,
+.field-element-attach-wrapper__button:active,
+.field-element-attach-wrapper__button:focus {
+    background-color: $color-grey-20;
+}
+.field-element-attach-wrapper .field-element .field-input .textbox,
+.field-element-attach-wrapper .field-element .field-input select {
+    padding-right: 55px;
+}
+/* White attachment wrapper */
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button {
+    background-color: $color-grey-10;
+}
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button:hover,
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button:active,
+.field-element-attach-wrapper--white .field-element-attach-wrapper__button:focus {
+    background-color: $color-grey-15;
+}
+
+/* ---- form style extenders ---- */
 %form-field-pseudo-anchor--before {
     position: absolute;
     top: -$form-spacing;
