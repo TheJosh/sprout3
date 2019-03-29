@@ -1,0 +1,41 @@
+title: Cards list
+notes: A collection of individual cards. Requires a wrapper class like <code>container</code> to not force a horizontal scroll.
+context:
+  card_list:
+    heading:  Card list
+    cards:
+    -
+      card:
+        img: http://placehold.it/800x600
+        link: "https://inclusive-components.design/cards/"
+        heading: A lovely long and generous heading about a specific thing
+        text: Nulla facilisi. Integer finibus purus eros, quis sodales diam pulvinar quis. Pellentesque non quam quis urna viverra mattis. Nulla facilisi. Sed id consectetur neque, nec euismod magna. 
+        footer: by Karmabunny Web
+    -
+      card:
+        img: http://placehold.it/600x300
+        link: "#"
+        heading: This is a pretty lovely heading
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet massa at lorem placerat tristique vitae porta odio. Donec cursus dignissim ante, eget pretium libero posuere id.
+        footer: by John Smith
+    -
+      card:
+        img: http://placehold.it/300x200
+        link: "#"
+        heading: A mostly lovely heading about mundane things
+        text: Sed imperdiet massa at lorem placerat tristique vitae porta odio. Donec cursus dignissim ante, eget pretium libero posuere id.
+        footer: by Hailey Summers
+    -
+      card:
+        img: http://placehold.it/800x600
+        link: "#"
+        heading: Another heading about stuff and things
+        text: Donec cursus dignissim ante, eget pretium libero posuere id. Nullam tempor velit elit, sed aliquam nunc lobortis in. Nulla bibendum lacus sit amet diam mollis condimentum.
+        footer: by some other person
+    -
+      card:
+        img: http://placehold.it/400x300
+        link: "#"
+        heading: A title of sorts
+        text: Sed imperdiet massa at lorem placerat tristique vitae porta odio. Nullam ac bibendum metus. Aliquam tempor tortor sit amet ante hendrerit sodales. Nulla bibendum lacus sit amet diam mollis condimentum.
+        footer: brought to you by gatorade

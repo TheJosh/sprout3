@@ -1,0 +1,8 @@
+<h3 class="card__header">{{ card_list.heading }}</h3>
+<ul class="card__list">
+    {{#each card_list.cards }}
+    <li class="card__item">
+        {{> @card }}
+    </li>
+    {{/each}}
+</ul>
