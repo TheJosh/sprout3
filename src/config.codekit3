@@ -4212,19 +4212,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/skin/default/_patterns/01-components/forms/_checkboxes.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/skin/default/_patterns/01-components/forms/_checkboxes.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/skin/default/_patterns/01-components/forms/_color-picker.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4277,6 +4264,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/skin/default/_patterns/01-components/forms/_fieldsets.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/skin/default/_patterns/01-components/forms/_fieldsets.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/skin/default/_patterns/01-components/forms/_form-base.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4299,19 +4299,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/skin/default/_patterns/01-components/forms/_money.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/skin/default/_patterns/01-components/forms/_radio-buttons.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/skin/default/_patterns/01-components/forms/_radio-buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -4368,19 +4355,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/skin/default/_patterns/01-components/forms/_text-area.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/skin/default/_patterns/01-components/forms/_text-area.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/skin/default/_patterns/01-components/forms/_text-field.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4416,6 +4390,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/skin/default/_patterns/01-components/forms/_total-selector.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/skin/default/_patterns/01-components/forms/_upload.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/skin/default/_patterns/01-components/forms/_upload.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -4594,6 +4581,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/skin/default/_patterns/01-components/forms/site-search.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/slider.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/slider.config.yml",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/slider.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/slider.hbs",
 		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/forms/submit-bar.config.yml": {
@@ -5844,6 +5847,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/skin/default/images/form_bg-fill.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/form_bg-fill.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/skin/default/images/icomoon/demo-external-svg.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -6042,6 +6055,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/skin/default/images/icon-system/icon_form_arrow-left.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_form_arrow-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_form_arrow-right.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
