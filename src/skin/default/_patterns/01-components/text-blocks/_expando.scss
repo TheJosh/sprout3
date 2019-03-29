@@ -21,7 +21,7 @@
     background: none;
     padding: 6px 0 3px 40px;
     font-family: $primary-font;
-    color: $color-secondary;
+    color: $color-accent-01;
     position: relative;
     cursor: pointer;
     display: block;
@@ -35,7 +35,7 @@
     position: absolute;
     top: 50%;
     left: 0;
-    background-color: #f0f0f3;
+    background-color: $color-grey-05;
     width: 26px;
     height: 26px;
     transform: translate(0, -50%);
@@ -46,7 +46,7 @@
     content: " ";
     width: 14px;
     height: 2px;
-    background-color: #778294;
+    background-color: $color-grey-50;
     display: block;
     position: absolute;
     top: 12px;
@@ -63,17 +63,17 @@
 /* Hover */
 .expando-open:hover,
 .expando-open:focus {
-    color: darken($color-secondary--hover, 20%);
-    text-decoration: none;
+    color: darken($color-accent-01, 10%);
+    text-decoration: underline;
 }
 
 .expando-open:hover .expando-open__icon {
-    background-color: #e4e4e8;
+    background-color: $color-grey-10;
 }
 
 .expando-open:hover .expando-open__icon:before,
 .expando-open:hover .expando-open__icon:after {
-    background-color: #222932;
+    background-color: $color-grey-87;
 }
 
 /* - Close button - */
@@ -96,7 +96,7 @@
     content: " ";
     width: 14px;
     height: 2px;
-    background-color: #778294;
+    background-color: $color-grey-50;
     display: block;
     position: absolute;
     top: 12px;
@@ -117,7 +117,7 @@
 /* Hover */
 .expando__close:hover:before,
 .expando__close:hover:after {
-    background-color: #222932;
+    background-color: $color-grey-87;
 }
 
 
@@ -130,7 +130,7 @@
     position: relative;
     width: auto;
     padding: 25px 45px;
-    background-color: #f0f0f3;
+    background-color: $color-grey-05;
     animation: fadeInDown 200ms ease;
     animation-fill-mode: forwards;
 }
