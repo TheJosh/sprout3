@@ -5,7 +5,8 @@ fieldset {
    margin: 0;
 }
 
-.field-label, .fieldset__legend {
+.field-label,
+.fieldset__legend {
    font-weight: 600;
    font-size: $font-regular;
    margin-bottom: $form-spacing;
