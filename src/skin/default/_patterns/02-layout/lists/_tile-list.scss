@@ -2,16 +2,8 @@
     padding: 0;
     margin: 0;
     list-style: none;
-}
 
-.tile-list:before,
-.tile-list:after {
-    content: " ";
-    display: table;
-}
-
-.tile-list:after {
-    clear: both;
+    @include clearfix;
 }
 
 @media screen and (min-width: 48em) { /*  768px */
