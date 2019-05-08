@@ -23,7 +23,7 @@ fieldset {
 /* Hide checkbox and radio field element) */
 input[type="checkbox"],
 input[type="radio"] {
-    @extend %vis-hidden;
+    @include vis-hidden;
 }
 
 input[type="checkbox"] + label,

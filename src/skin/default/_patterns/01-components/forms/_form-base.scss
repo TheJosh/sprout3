@@ -86,7 +86,7 @@ form > * + * {
 /* Hidden labels */
 .field-element--hidden-label .field-label,
 .field-element--hidden-label .fieldset__legend {
-    @extend %vis-hidden;
+    @include vis-hidden;
 }
 
 /* ---- Required ---- */

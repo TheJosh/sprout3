@@ -1,3 +1,4 @@
+%vis-hidden,
 .-vis-hidden {
     border: 0;
     clip: rect(0 0 0 0);
@@ -7,8 +8,19 @@
     padding: 0;
     position: absolute;
     width: 1px;
+
+    &.focusable:active,
+    &.focusable:focus, {
+        clip: auto;
+        height: auto;
+        margin: 0;
+        overflow: visible;
+        position: static;
+        width: auto;
+    }
 }
-%vis-hidden {
+
+@mixin vis-hidden() {
     border: 0;
     clip: rect(0 0 0 0);
     height: 1px;
@@ -17,14 +29,14 @@
     padding: 0;
     position: absolute;
     width: 1px;
-}
 
-.-vis-hidden.focusable:active,
-.-vis-hidden.focusable:focus {
-    clip: auto;
-    height: auto;
-    margin: 0;
-    overflow: visible;
-    position: static;
-    width: auto;
+    &.focusable:active,
+    &.focusable:focus, {
+        clip: auto;
+        height: auto;
+        margin: 0;
+        overflow: visible;
+        position: static;
+        width: auto;
+    }
 }
