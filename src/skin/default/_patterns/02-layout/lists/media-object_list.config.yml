@@ -1,5 +1,6 @@
 title: Media objects list
 notes: A collection of individual media object. Requires a wrapper class like <code>container</code> to not force a horizontal scroll.
+preview: "@preview-grey"
 context:
   media-object_list:
     heading:  Media object list
