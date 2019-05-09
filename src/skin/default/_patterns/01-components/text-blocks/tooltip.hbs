@@ -11,41 +11,31 @@
 
 <script>
 	var windowWidth = $(window).width();
-	console.log("windowWidth: " + windowWidth);
-
 	var windowHeight = $(window).height();
-	console.log("windowHeight: " + windowHeight);
-
 	var hoverBreakpoint = 1080;
-
 	var $currentTooltip;
 
 	// fluid tooltip function
 	function fnTooltipFluid() {
-		console.log("do i work at all?");
 		$currentTooltip = $(this);
 
 		// tooltip offset - position relative to document
 		var offset = $currentTooltip.offset();
-		console.log("tooltip offset: " + offset.left + ", " + offset.top );
 
-		// tooltip width and height
+		// tooltip width
 		var tooltipWidth = $currentTooltip.width();
-		console.log('tooltipWidth: ' + tooltipWidth);
 
+		// tooltip height
 		var tooltipHeight = $currentTooltip.height();
-		console.log('tooltipHeight: ' + tooltipHeight);
 
 		// tooltip content width
 		var tooltipContentInitialWidth = $currentTooltip.find('.tooltip__content').width(); // note width given sans-padding
 		var tooltipContentPaddingLeft = parseInt($currentTooltip.css("padding-left"));
 		var tooltipContentPaddingRight = parseInt($currentTooltip.css("padding-right"));
 		var tooltipContentWidth = (tooltipContentInitialWidth + tooltipContentPaddingLeft + tooltipContentPaddingRight);
-		console.log('tooltipContentWidth: ' + tooltipContentWidth);
 
 		// tooltip content height
 		var tooltipContentHeight = $currentTooltip.find('.tooltip__content').height();
-		console.log('tooltipContentHeight: ' + tooltipContentHeight);
 
 		// if the tooltip is within the contents width left of the left of the browser anchor it from the left out rightwards
 		if( offset.left <= tooltipContentWidth ) {
@@ -60,7 +50,7 @@
 		};
 	};
 
-	if( $('.tooltip--fluid').length > 0) {
+	// set the tooltip fluid function to fire on hover on desktop and click/press on touchscreens
 		if ($(window).width() >= hoverBreakpoint) {
 			// for tooltips activated on hover
 			$('.tooltip--fluid').on("mouseover", fnTooltipFluid );

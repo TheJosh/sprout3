@@ -1,7 +1,7 @@
 title: "Tooltip component"
 collated: true
 status: wip
-notes:
+notes: Stolen from Discovery will need the CSS to be cleaned up as discovery does not have the js fluid tooltip
 context:
   tooltip:
     modifier: "tooltip--icon tooltip--right"
