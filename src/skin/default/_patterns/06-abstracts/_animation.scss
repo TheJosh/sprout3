@@ -1,6 +1,25 @@
 
 $link-transition:   250ms ease-in-out;
 
+/* Fade in */
+@-webkit-keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+/* Fade in down */
 @-webkit-keyframes fadeInDown {
     from {
         opacity: 0;
