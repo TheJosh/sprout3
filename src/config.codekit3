@@ -5287,6 +5287,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/skin/default/_patterns/01-components/text-blocks/_tooltip.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/skin/default/_patterns/01-components/text-blocks/_tooltip.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/skin/default/_patterns/01-components/text-blocks/expando.config.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -5325,6 +5338,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/skin/default/_patterns/01-components/text-blocks/site-messages.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/text-blocks/tooltip.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/text-blocks/tooltip.config.yml",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/text-blocks/tooltip.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/text-blocks/tooltip.hbs",
 		"oF": 0
 		},
 	"/skin/default/_patterns/01-components/tile/_tile.scss": {
@@ -5697,6 +5726,14 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/skin/default/_patterns/_preview-grey.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/skin/default/_patterns/_preview-grey.hbs",
+		"oF": 0
 		},
 	"/skin/default/_patterns/_preview.hbs": {
 		"cB": 0,
@@ -6233,6 +6270,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/skin/default/images/icon-system/icon_form_timepicker.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/skin/default/images/icon-system/icon_i.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/skin/default/images/icon-system/icon_i.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
