@@ -1,0 +1,52 @@
+title: "Tooltip component"
+collated: true
+status: wip
+notes:
+context:
+  tooltip:
+    modifier: "tooltip--icon tooltip--right"
+    title: "icon right"
+    content: "tooltip with icon and right anchor no js Aenean venenatis justo arcu, ut placerat ipsum imperdiet sed. Sed ut sollicitudin est. Phasellus tincidunt eros sed ipsum porta rhoncus. Mauris ut dictum elit."
+variants:
+  -
+    name: tooltip icon and left anchor  no js
+    context:
+      tooltip:
+        modifier: "tooltip--icon tooltip--tablet-end"
+        title: "icon left"
+        content: "Ut placerat ipsum imperdiet sed. Sed ut sollicitudin est. Phasellus tincidunt eros sed ipsum porta rhoncus."
+  -
+    name: tooltip without icon and right anchor  no js
+    context:
+      tooltip:
+        modifier: "tooltip--right"
+        title: "sans-icon right"
+        content: "Mauris ut dictum elit. Placerat ipsum imperdiet sed ut sollicitudin est. Phasellus tincidunt eros sed ipsum porta rhoncus. Donec iaculis quam a mollis convallis."
+  -
+    name: tooltip without icon and left anchor  no js
+    context:
+      tooltip:
+        modifier: "tooltip--left"
+        title: "sans-icon left"
+        content: "Mauris ut dictum elit. Placerat ipsum imperdiet sed ut sollicitudin est. Phasellus tincidunt eros sed ipsum porta rhoncus. Donec iaculis quam a mollis convallis."
+  -
+    name: tooltip with js positioning
+    context:
+      tooltip:
+        modifier: "tooltip--fluid tooltip--icon"
+        title: "tooltip fluid"
+        content: "Quisque dictum condimentum ligula a gravida. Cras elementum rutrum iaculis."
+  -
+    name: tooltip with js positioning right
+    context:
+      tooltip:
+        modifier: "tooltip--fluid tooltip--icon tooltip--right"
+        title: "fluid right"
+        content: "Quisque dictum condimentum ligula a gravida. Cras elementum rutrum iaculis."
+  -
+    name: tooltip with js positioning left
+    context:
+      tooltip:
+        modifier: "tooltip--fluid tooltip--icon tooltip--left"
+        title: "fluid left"
+        content: "Quisque dictum condimentum ligula a gravida. Cras elementum rutrum iaculis."
