@@ -35,6 +35,29 @@ $link-transition:   250ms ease-in-out;
     }
 }
 
+/* Fade in up margin */
+@-webkit-keyframes fadeInUpMargin {
+	from {
+		opacity: 0;
+		margin-bottom: -20px;
+	}
+	to {
+		opacity: 1;
+		margin-bottom: 0;
+	}
+}
+
+@keyframes fadeInUpMargin {
+	from {
+		opacity: 0;
+		margin-bottom: -20px;
+	}
+	to {
+		opacity: 1;
+		margin-bottom: 0;
+	}
+}
+
 .animate-fade {
     animation: fadeInDown 400ms ease-in-out;
 }

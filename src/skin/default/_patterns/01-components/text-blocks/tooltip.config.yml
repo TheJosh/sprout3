@@ -1,52 +1,66 @@
 title: "Tooltip component"
 collated: true
-status: wip
-notes: Stolen from Discovery will need the CSS to be cleaned up as discovery does not have the js fluid tooltip
+status: ready
+notes:
 context:
   tooltip:
     modifier: "tooltip--icon tooltip--right"
-    title: "icon right"
-    content: "tooltip with icon and right anchor no js Aenean venenatis justo arcu, ut placerat ipsum imperdiet sed. Sed ut sollicitudin est. Phasellus tincidunt eros sed ipsum porta rhoncus. Mauris ut dictum elit."
+    title: "icon with right anchor"
+    content: "Tooltip with icon and right anchor. Uses CSS only, does not dynamically change anchoring."
 variants:
   -
-    name: tooltip icon and left anchor  no js
+    name: tooltip icon left
     context:
       tooltip:
-        modifier: "tooltip--icon tooltip--tablet-end"
-        title: "icon left"
-        content: "Ut placerat ipsum imperdiet sed. Sed ut sollicitudin est. Phasellus tincidunt eros sed ipsum porta rhoncus."
+        modifier: "tooltip--icon"
+        title: "icon with left anchor"
+        content: "Tooltip with icon and left anchor. Uses CSS only, does not dynamically change anchoring."
   -
-    name: tooltip without icon and right anchor  no js
+    name: tooltip icon center
+    context:
+      tooltip:
+        modifier: "tooltip--icon tooltip--center"
+        title: "icon with center anchor"
+        content: "Tooltip with icon and center anchor. Uses CSS only, does not dynamically change anchoring."
+  -
+    name: tooltip icon up
+    context:
+      tooltip:
+        modifier: "tooltip--icon tooltip--up"
+        title: "icon with above anchor"
+        content: "Tooltip with icon and anchor above title. Uses CSS only, does not dynamically change anchoring."
+  -
+    name: tooltip sans-icon and right anchor
     context:
       tooltip:
         modifier: "tooltip--right"
-        title: "sans-icon right"
-        content: "Mauris ut dictum elit. Placerat ipsum imperdiet sed ut sollicitudin est. Phasellus tincidunt eros sed ipsum porta rhoncus. Donec iaculis quam a mollis convallis."
+        title: "sans-icon right anchor"
+        content: "Tooltip sans-icon and right anchor. Uses CSS only, does not dynamically change anchoring."
   -
-    name: tooltip without icon and left anchor  no js
+    name: tooltip sans-icon and left anchor
     context:
       tooltip:
         modifier: "tooltip--left"
-        title: "sans-icon left"
-        content: "Mauris ut dictum elit. Placerat ipsum imperdiet sed ut sollicitudin est. Phasellus tincidunt eros sed ipsum porta rhoncus. Donec iaculis quam a mollis convallis."
+        title: "sans-icon left anchor"
+        content: "Tooltip sans-icon and left anchor. Uses CSS only, does not dynamically change anchoring."
   -
-    name: tooltip with js positioning
+    name: tooltip with js positioning and icon
     context:
       tooltip:
         modifier: "tooltip--fluid tooltip--icon"
-        title: "tooltip fluid"
-        content: "Quisque dictum condimentum ligula a gravida. Cras elementum rutrum iaculis."
+        title: "fluid with icon"
+        content: "Tooltip with icon, no set anchor but uses JQuery to dynamically change anchor (either left or right) based on tooltip width and window edge proximity."
   -
-    name: tooltip with js positioning right
+    name: tooltip with js positioning without icon
     context:
       tooltip:
-        modifier: "tooltip--fluid tooltip--icon tooltip--right"
-        title: "fluid right"
-        content: "Quisque dictum condimentum ligula a gravida. Cras elementum rutrum iaculis."
+        modifier: "tooltip--fluid"
+        title: "fluid sans-icon"
+        content: "Tooltip sans-icon, no set anchor but uses JQuery to dynamically change anchoring based on tooltip width and window edge proximity."
   -
-    name: tooltip with js positioning left
+    name: tooltip with js positioning, an icon, and either a specified left or right anchor [illustrates it will be overridden]
     context:
       tooltip:
         modifier: "tooltip--fluid tooltip--icon tooltip--left"
-        title: "fluid left"
-        content: "Quisque dictum condimentum ligula a gravida. Cras elementum rutrum iaculis."
+        title: "fluid L or R"
+        content: "Tooltip with icon, a set anchor (can be left or right) but uses JQuery to override set anchor and dynamically change anchoring based on width and window edge proximity."

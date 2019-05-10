@@ -18,12 +18,14 @@
 	// fluid tooltip function
 	function fnTooltipFluid() {
 		$currentTooltip = $(this);
+		console.log('$currentTooltip: ' + $currentTooltip);
 
 		// tooltip offset - position relative to document
 		var offset = $currentTooltip.offset();
 
 		// tooltip width
 		var tooltipWidth = $currentTooltip.width();
+		console.log('tooltipWidth: ' + tooltipWidth);
 
 		// tooltip height
 		var tooltipHeight = $currentTooltip.height();
@@ -33,30 +35,68 @@
 		var tooltipContentPaddingLeft = parseInt($currentTooltip.css("padding-left"));
 		var tooltipContentPaddingRight = parseInt($currentTooltip.css("padding-right"));
 		var tooltipContentWidth = (tooltipContentInitialWidth + tooltipContentPaddingLeft + tooltipContentPaddingRight);
+		console.log('tooltipContentWidth: ' + tooltipContentWidth);
+
+		// tooltip min-content width
+		var tooltipContentMinWidth = parseInt($currentTooltip.find('.tooltip__content').css("min-width"));
+		console.log('tooltipContentMinWidth: ' + tooltipContentMinWidth);
 
 		// tooltip content height
 		var tooltipContentHeight = $currentTooltip.find('.tooltip__content').height();
 
-		// if the tooltip is within the contents width left of the left of the browser anchor it from the left out rightwards
-		if( offset.left <= tooltipContentWidth ) {
-			$currentTooltip.addClass('tooltip--left');
-			$currentTooltip.removeClass('tooltip--right');
-		};
 
-		// if the tooltip is within the contents width right of the right of the browser anchor it from the right out leftwards
-		if( offset.left >= ($(window).width() - tooltipContentWidth) ) {
-			$currentTooltip.addClass('tooltip--right');
-			$currentTooltip.removeClass('tooltip--left');
+		if( $currentTooltip.hasClass('tooltip--icon') ) {
+			// if the tooltip has an icon
+
+			if (tooltipWidth >= tooltipContentMinWidth) {
+				// the tooltip's width is greater than or equal to it's content's width
+
+				// sit the tooltip's anchor on the right side, under the icon
+				$currentTooltip.addClass('tooltip--right');
+				$currentTooltip.removeClass('tooltip--left');
+
+			} else if ( tooltipWidth < tooltipContentMinWidth && offset.left < tooltipContentMinWidth){
+				// the tooltip is less wide than it's minimum content width
+				// and
+				// the tooltip is within the minimum content's width close to the left side of the browser window
+
+				// sit the tooltips anchor on the left side, under the icon
+				$currentTooltip.addClass('tooltip--left');
+				$currentTooltip.removeClass('tooltip--right');
+
+			} else if ( tooltipWidth < tooltipContentMinWidth && offset.left >= ($(window).width() - tooltipContentMinWidth) ){
+				// the tooltip is less wide than it's minimum content width
+				// and
+				// the tooltip is within the minimum content's width close to the right side of the browser window
+
+				// sit the tooltip's anchor on the right side, under the icon
+				$currentTooltip.addClass('tooltip--right');
+				$currentTooltip.removeClass('tooltip--left');
+			};
+		} else {
+			// if the tooltip doesn't have an icon
+			if ( tooltipWidth < tooltipContentMinWidth && offset.left >= ($(window).width() - tooltipContentMinWidth) ){
+				// the tooltip is less wide than it's minimum content width
+				// and
+				// the tooltip is within the minimum content's width close to the right side of the browser window
+
+				 // anchor it right, stretching out leftwards
+				$currentTooltip.addClass('tooltip--right');
+				$currentTooltip.removeClass('tooltip--left');
+			} else {
+				// Anchor the tooltip left, stretching out rightwards
+				$currentTooltip.addClass('tooltip--left');
+				$currentTooltip.removeClass('tooltip--right');
+			};
 		};
 	};
 
 	// set the tooltip fluid function to fire on hover on desktop and click/press on touchscreens
-		if ($(window).width() >= hoverBreakpoint) {
-			// for tooltips activated on hover
-			$('.tooltip--fluid').on("mouseover", fnTooltipFluid );
-		} else {
-			// for tooltips activated on press (touchscreens)
-			$('.tooltip--fluid').on("click", fnTooltipFluid );
-		};
+	if ($(window).width() >= hoverBreakpoint) {
+		// for tooltips activated on hover
+		$('.tooltip--fluid').on("mouseover", fnTooltipFluid );
+	} else {
+		// for tooltips activated on press (touchscreens)
+		$('.tooltip--fluid').on("click", fnTooltipFluid );
 	};
 </script>
