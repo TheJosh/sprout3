@@ -27,36 +27,6 @@ context:
         img-alt-text: Banner 4
 variants:
   -
-    name: "match-heights"
-    status: wip
-    context:
-      slider:
-        slider-items:
-        -
-          slider:
-            link: "#"
-            img: "https://picsum.photos/2040/700?random?gravity=north"
-            img-alt-text: Banner 1
-            text: "consectetur adipisicing elit. Ab nesciunt consequatur"
-        -
-          slider:
-            link: "#"
-            img: "https://picsum.photos/2040/800?random?gravity=east"
-            img-alt-text: Banner 2
-            text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab nesciunt consequatur aut incidunt dolore culpa deleniti aliquam quas recusandae ullam dolor doloribus, quis perferendis quaerat quo voluptatibus, dicta, repellendus distinctio."
-        -
-          slider:
-            link: "#"
-            img: "https://picsum.photos/2040/900?random?gravity=south"
-            img-alt-text: Banner 3
-            text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab nesciunt consequatur aut incidunt dolore culpa deleniti aliquam quas recusandae ullam dolor doloribus, quis perferendis quaerat quo voluptatibus, dicta, repellendus distinctio. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab nesciunt consequatur aut incidunt dolore culpa deleniti aliquam quas recusandae ullam dolor doloribus, quis perferendis quaerat quo voluptatibus, dicta, repellendus distinctio."
-        -
-          slider:
-            link: "#"
-            img: "https://picsum.photos/2040/1000?random?gravity=west"
-            img-alt-text: Banner 4
-            text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab nesciunt consequatur aut incidunt"
-  -
     name: "clean"
     status: ready
     context:
