@@ -56,8 +56,8 @@ if (!SocialMeta::hasTitle()) {
 
     <?php Skin::common(); ?>
     <?php Skin::modules(); ?>
-    <?php Skin::css('normalize', 'flexboxgrid', 'global', 'frankenmenu'); ?>
-    <?php Skin::js('frankenmenu', 'jquery.matchHeight-min', 'modernizr', 'skin'); ?>
+    <?php Skin::css('normalize', 'flexboxgrid', 'global'); ?>
+    <?php Skin::js('frankenmenu', 'modernizr', 'skin'); ?>
 
     <?php include 'google_analytics.php'; ?>
 </head>
