@@ -188,11 +188,13 @@
 
 @import "01-components/media-objects/card";
 
-@import "01-components/slider/_slider";
+@import "01-components/image-slider/slick-slider/_image-slider";
 
-@import "01-components/slider/_slider-clean";
+@import "01-components/image-slider/slick-slider/_image-slider-theme";
 
-@import "01-components/slider/_slider-theme";
+@import "01-components/image-slider/sans-slick/_image-slider-clean";
+
+
 
 
 
