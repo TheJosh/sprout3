@@ -3,8 +3,8 @@ notes: A list of upcoming events
 preview: "@preview-modules"
 context:
   event:
-    title: A lovely heading
-    single-event-title: This specific event
+    title: A title that applies to multiple event dates
+    single-event-title: This specific event's title
     img: http://placehold.it/800x400
     img-alt: This is a placeholder image
     date: 08-08-2019
