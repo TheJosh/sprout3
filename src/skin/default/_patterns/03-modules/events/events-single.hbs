@@ -1,0 +1,54 @@
+<h1>{{event.title}}</h1>
+
+<img class="event-detail__image" src="{{event.img}}" alt="">
+
+<div class="row">
+    <div class="col col-sm-6">
+
+        <div class="event-detail__time">
+            <h3>Time</h3>
+
+            <div class="event-detail__time__row row">
+                <div class="event-list__item__date col col-xs-3">
+                    <time datetime="2019-08-08">
+                        <span class="event-list__item__date-day">{{event.day}}</span>
+                        <span class="event-list__item__date-month">{{event.month}}</span>
+                        <span class="event-list__item__date-year">{{event.year}}</span>
+                    </time>
+                </div>
+
+                <div class="col col-xs-9">
+                    <h4>{{event.single-event-title}}</h4>
+
+                    <p class="event-detail__time__detail event-detail__time__startsends">
+                        <time datetime="2019-08-08 12:00:00">{{event.start-time}}</time>
+                        -
+                        <time datetime="2019-08-08 14:00:00">{{event.end-time}}</time>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="event-detail__location">
+            <h3>Location</h3>
+            <p class="event-detail__location__detail">{{event.location}}</p>
+        </div>
+
+        <div class="event-detail__website">
+            <h3>Website</h3>
+            <p>Visit: <a href="{{event.external-link}}" target="_blank">{{event.external-link}}</a></p>
+        </div>
+
+    </div>
+
+    <div class="col col-sm-6">
+        <div class="widget widget-MapWidget widget-hasinfobox orientation-wide"><a href="https://maps.google.com.au/maps?q=95+Beulah+Road+95+Beulah+Road+Norwood+South+Australia+Australia"><img width="400" height="250" src="https://maps.googleapis.com/maps/api/staticmap?size=400x250&amp;zoom=15&amp;key=please_generate_me&amp;markers=95+Beulah+Road+95+Beulah+Road+Norwood+South+Australia+Australia&amp;sensor=false&amp;maptype=roadmap" class="" alt="Visit Google Maps"></a>
+            <div class="widget-infobox"><i>Map Addon</i> &nbsp; <b>Address:</b> 95 Beulah Road 95 Beulah Road Norwood South Australia Australia &nbsp; </div>
+        </div>
+    </div>
+</div>
+
+<div class="event-detail__description">
+    {{event.description}}
+</div>
+
