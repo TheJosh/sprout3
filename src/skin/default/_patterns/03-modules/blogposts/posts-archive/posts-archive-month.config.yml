@@ -1,0 +1,19 @@
+title: Post archive months
+status: wip
+notes: Sidebar widget list of archived posts
+preview: "@preview-modules"
+context:
+  archive-year:
+    months:
+    -
+      archive-month-item:
+        month-link: http://getsproutcms.com/
+        month: February
+    -
+      archive-month-item:
+        month-link: http://getsproutcms.com/
+        month: April
+    -
+      archive-month-item:
+        month-link: http://getsproutcms.com/
+        month: May

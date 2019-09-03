@@ -1,0 +1,7 @@
+ <ul class="sidebar-linklist__item__sublist">
+    {{#each archive-year.months }}
+    <li class="sidebar-linklist__item__sublist__item">
+        <a class="sidebar-linklist__item__sublist__item__link" href="{{ archive-month-item.month-link }}"><span class="-vis-hidden">View posts for </span>{{ archive-month-item.month }}<span class="-vis-hidden"> {{ archived-month-item.month-link }}</span></a>
+    </li>
+    {{/each}}
+</ul>

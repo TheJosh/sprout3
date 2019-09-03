@@ -1,0 +1,19 @@
+title: Events single
+notes: An event's details
+preview: "@preview-modules"
+context:
+  event:
+    title: A title that applies to multiple event dates
+    single-event-title: This specific event's title
+    img: http://placehold.it/800x400
+    img-alt: This is a placeholder image
+    date: 08-08-2019
+    day: 8
+    month: Aug
+    year: 2019
+    start-time: 12:00pm
+    end-time: 2:00pm
+    event-link: https://www.karmabunny.com.au/
+    description: 'Vivamus varius imperdiet arcu non dignissim. Nulla maximus sapien vel vestibulum blandit. Aliquam blandit fermentum nibh, sed aliquet turpis tincidunt nec. Mauris id consectetur nisl. Morbi nec quam eleifend, porttitor neque nec, aliquet risus. Vestibulum efficitur, tellus et euismod dapibus, arcu leo gravida turpis, nec gravida urna dolor at velit. Fusce sed ornare lacus. Aenean lobortis, est vitae tempor scelerisque, ligula eros efficitur nisi, id tincidunt purus ante sit amet nisi. Aenean turpis elit, lobortis ut pulvinar pretium, imperdiet a lacus. Pellentesque elit libero, egestas at sollicitudin nec, venenatis a nunc. Phasellus a ex quis dui commodo pellentesque at ac massa. Quisque at feugiat neque. Aenean consequat ultricies ullamcorper. Aliquam volutpat, felis vitae lobortis sagittis, sem nisi tempor nibh, id ultrices velit felis et quam. Praesent bibendum tempor nisi, nec efficitur nibh tincidunt sit amet. Aenean hendrerit rutrum diam, sed finibus leo accumsan nec. Ut varius congue aliquam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut et commodo purus, sit amet auctor nisl.'
+    location: 95 Beulah Road, Norwood, South Australia, Australia, 5068.
+    external-link: https://www.karmabunny.com.au/what_we_do/web_design

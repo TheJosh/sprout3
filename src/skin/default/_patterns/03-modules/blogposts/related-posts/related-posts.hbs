@@ -1,0 +1,10 @@
+<div class="post-sidebar-section post-sidebar-section--related-posts">
+    <h3>Related posts</h3>
+    <ul class="post-sidebar-related-list">
+        {{#each related-posts.items }}
+        <li class="post-sidebar-related-list__item">
+            <a href="{{ related-post-item.link }}">{{ related-post-item.title }}</a>
+        </li>
+        {{/each}}
+    </ul>
+</div>

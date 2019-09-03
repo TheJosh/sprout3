@@ -1,0 +1,42 @@
+title: Blog hub
+notes: A galleyr of blog posts
+preview: "@preview-modules"
+context:
+  blogposts-hub:
+    posts:
+    -
+      post:
+        title: A lovely heading
+        img: http://placehold.it/600x600
+        img-preview: http://placehold.it/50x50
+        img-alt: This is ap placeholder image
+        link: https://www.karmabunny.com.au/blog/2018/08/13/domains_dns_and_hosting
+        author: Testy McTestington
+        author-link: https://www.karmabunny.com.au/blog_post/author/Josh
+        date: 06-02-2019
+        date-friendly: 6 Feb 2019
+        description: Veniam aut or culpa irure or accusantium but consectetur yet aliqua. Eum do yet labore...
+    -
+      post:
+        title: Then you are not the only one
+        img: http://placehold.it/600x600
+        img-preview: http://placehold.it/50x50
+        img-alt: This is ap placeholder image
+        link: https://www.karmabunny.com.au/blog/2018/08/13/domains_dns_and_hosting
+        author: Testy McTestington
+        author-link: https://www.karmabunny.com.au/blog_post/author/Josh
+        date: 30-04-2019
+        date-friendly: 30 April 2019
+        description: Veniam aut or culpa irure or accusantium but consectetur yet aliqua. Eum do yet labore...
+    -
+      post:
+        title: A superior, more noticeable, catchy title that draws people’s attention
+        img: http://placehold.it/600x600
+        img-preview: http://placehold.it/50x50
+        img-alt: This is ap placeholder image
+        link: https://www.karmabunny.com.au/blog/2018/08/13/domains_dns_and_hosting
+        author: Testy McTestington
+        author-link: https://www.karmabunny.com.au/blog_post/author/Josh
+        date: 18-12-2018
+        date-friendly: 18 Dec 2018
+        description: Veniam aut or culpa irure or accusantium but consectetur yet aliqua. Eum do yet labore...

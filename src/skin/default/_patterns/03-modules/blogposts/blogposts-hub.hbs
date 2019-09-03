@@ -1,0 +1,36 @@
+<div class="post-hub row">
+{{#each blogposts-hub.posts }}
+
+    <article class="post-hub__item col-xs-12 col-sm-6 col-md-4 post-hub__item__image-loaded" data-categories="all" data-post="1" data-img="{{ post.img }}">
+        <div class="post-hub__item__content">
+            <div class="post-hub__img-wrap">
+                <a href="{{ post.link }}" class="post-hub__img-link">
+                    <img src="{{ post.img }}" alt="{{ post.img-alt }}" class="post-hub__img">
+                    <img src="{{ post.img-preview }}" alt="" class="post-hub__img-placeholder">
+                </a>
+            </div>
+
+
+            <div class="post-hub__body">
+                <h2><a href="{{ post.link }}"><span class="-vis-hidden">Read more about </span>{{ post.title }}</a></h2>
+
+                <div class="row">
+                    <div class="col-xs-12 col-md-6 post-list__author">
+                        <p>Posted by <a href="{{ post.author-link }}">{{ post.author }}</a></p>
+                    </div>
+
+                    <div class="col-xs-12 col-md-6 post-list__date col-md--right-align">
+                        <p><span class="-vis-hidden">Date posted: </span><time datetime="{{ post.date }}"><span>{{ post.date-friendly }}</span></time></p>
+                    </div>
+                </div>
+
+                <p>{{ post.description }}</p>
+            </div>
+
+            <div class="post-hub__footer">
+                <p><a href="{{ post.link }}" class="button">Read more <span class="-vis-hidden"> about {{ post.title }}</span></a></p>
+            </div>
+        </div>
+    </article>
+{{/each}}
+</div>

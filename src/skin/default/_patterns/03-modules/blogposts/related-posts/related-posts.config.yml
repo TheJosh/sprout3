@@ -1,0 +1,26 @@
+title: Related posts link list
+notes: A list of related posts
+preview: "@preview-modules"
+context:
+  related-posts:
+    items:
+    -
+      related-post-item:
+        link: http://getsproutcms.com/
+        title: A beautifully simple way to complete complex tasks
+    -
+      related-post-item:
+        link: http://getsproutcms.com/
+        title: Customisable page regions and inbuilt content blocks
+    -
+      related-post-item:
+        link: http://getsproutcms.com/
+        title: Manage multiple websites with unique page trees
+    -
+      related-post-item:
+        link: http://getsproutcms.com/
+        title: Multiple saving modes with approval workflow
+    -
+      related-post-item:
+        link: http://getsproutcms.com/
+        title: Dynamic content from shared modules with site specific controls

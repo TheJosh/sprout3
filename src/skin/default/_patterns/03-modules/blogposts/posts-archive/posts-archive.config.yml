@@ -1,0 +1,14 @@
+title: Post archive
+status: wip
+notes: Sidebar widget list of archived posts
+preview: "@preview-modules"
+context:
+  archive:
+    posts:
+    -
+      archived-year:
+        year: 2019
+    -
+      archived-year:
+        year: 2018
+

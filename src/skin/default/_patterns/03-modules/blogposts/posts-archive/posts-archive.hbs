@@ -1,0 +1,11 @@
+<div class="post-sidebar-section post-sidebar-section--archive">
+    <h3>Archive</h3>
+    <ul class="post-sidebar-archive-list sidebar-linklist">
+        {{#each archive.posts }}
+        <li class="post-sidebar-archive-list__item sidebar-linklist__item">
+            <button class="sidebar-linklist__item__button">{{ archived-year.year }}</button>
+           {{> posts-archive-month }}
+        </li>
+        {{/each}}
+    </ul>
+</div>

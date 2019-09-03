@@ -1,0 +1,37 @@
+<ul class="event-list">
+    {{#each event-list.events }}
+    <li class="event-list__item row">
+
+        <div class="event-list__item__date col col-xs-3 col-sm-2">
+            <time datetime="{{event.date}}">
+                <span class="event-list__item__date-day">{{event.day}}</span>
+                <span class="event-list__item__date-month">{{event.month}}</span>
+                <span class="event-list__item__date-year">{{event.year}}</span>
+            </time>
+        </div>
+
+        <div class="event-list__item__text col col-xs-9 col-sm-10">
+            <div class="row reverse">
+
+                <div class="col reverse col-xs-12 col-sm-4">
+                    <a href="{{event.external-link}}">
+                        <img src="{{event.img}}" class="event-list__item__text__image" alt="{{event.img-alt}}">
+                    </a>
+                </div>
+
+                <div class="col reverse col-xs-12 col-sm-8">
+
+                    <h3 class="event-list__item__text__title"><a href="{{event.event-link}}">{{event.title}}</a></h3>
+
+                    <h4 class="event-list__item__text__location"><span class="-vis-hidden">Location: </span>{{event.location}}</h4>
+
+                    <p class="event-list__item__text__excerpt">{{event.description}}<a href="{{event.event-link}}">read more<span class="-vis-hidden"> about {{event.title}}</span></a></p>
+
+                </div>
+
+            </div>
+        </div>
+
+    </li>
+    {{/each}}
+</ul>
