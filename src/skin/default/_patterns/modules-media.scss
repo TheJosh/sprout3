@@ -12,3 +12,17 @@
 /* ----- Events ----- */
 
 @import "03-modules/events/events-core";
+
+
+/* ----- Blog Posts ----- */
+
+@import "03-modules/blogposts/_blogposts-core.scss";
+
+@import "03-modules/blogposts/_blogposts.scss";
+
+
+/* ----- Sponsors ----- */
+
+@import "03-modules/sponsors/_sponsor_list.scss";
+
+@import "03-modules/sponsors/_sponsors_slider.scss";
