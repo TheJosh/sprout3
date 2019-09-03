@@ -1,5 +1,5 @@
-title: Events list
-notes: A list of upcoming events
+title: Events single
+notes: An event's details
 preview: "@preview-modules"
 context:
   event:

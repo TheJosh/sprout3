@@ -15,7 +15,7 @@ context:
         year: 2019
         event-link: https://www.karmabunny.com.au/
         description: Veniam aut or culpa irure or accusantium but consectetur yet aliqua. Eum do yet labore...
-        location: 95 Beulah Road, Norwood
+        location: Norwood
         external-link: https://www.karmabunny.com.au/what_we_do/web_design
     -
       event:
@@ -28,7 +28,7 @@ context:
         year: 2019
         event-link: https://www.karmabunny.com.au/
         description: Est corporis but aliquip, si dicta for odit aliquip...
-        location: 95 Beulah Road, Norwood
+        location: Payneham
         external-link: https://www.karmabunny.com.au/what_we_do/web_design
     -
       event:
@@ -41,5 +41,5 @@ context:
         year: 2019
         event-link: https://www.karmabunny.com.au/
         description: Officia eaque or eiusmod or mollit nor esse so eius. Minim id and quisquam nor proident perspiciatis. Voluptas quo perspiciatis or cillum but elit for dicta aperiam...
-        location: 95 Beulah Road, Norwood
+        location: Adelaide
         external-link: https://www.karmabunny.com.au/what_we_do/web_design
