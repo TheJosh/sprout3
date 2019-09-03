@@ -254,8 +254,23 @@
 
 
 
+
 /* ------------------------------------------------------
-**** Pages
+**** MODULES
+------------------------------------------------------ */
+
+/*
+ * NOTE: [modules:01]
+ * DO NOT PUT core module css here
+ * the following are for bespoke skin styles that are ADDITIONAL to core module css
+ */
+
+
+
+
+
+/* ------------------------------------------------------
+**** PAGES
 ------------------------------------------------------ */
 
 @import "04-pages/home/home";
