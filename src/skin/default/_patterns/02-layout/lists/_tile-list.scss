@@ -4,16 +4,21 @@
     list-style: none;
 
     @include clearfix;
+
+    &__item {
+        margin-bottom: 25px;
+    }
 }
 
 @media screen and (min-width: 48em) { /*  768px */
     .tile-list {
         margin: 0 -30px;
-    }
-    .tile-list__item {
-        width: 33.333%;
-        padding: 15px 30px;
-        float: left;
+
+        &__item {
+            width: 33.333%;
+            padding: 15px 30px;
+            float: left;
+        }
     }
 }
 
