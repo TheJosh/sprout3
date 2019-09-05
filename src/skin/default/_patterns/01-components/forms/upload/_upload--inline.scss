@@ -1,0 +1,105 @@
+.field-element--upload .field-input input[type="file"] {
+    border: 1px solid transparent;
+    border-radius: $standard-radius;
+    background-color: transparent;
+}
+
+input[type="file"]::-webkit-file-upload-button {
+    padding: $form-spacing/2 $form-spacing;
+    border: 1px solid $color-grey-20;
+    border-radius: $standard-radius;
+    background-color: $color-grey-05;
+    transition: all 250ms ease-in-out;
+    outline: none;
+}
+
+input[type="file"]:hover::-webkit-file-upload-button {
+    background-color: $color-grey-10;
+    border: 1px solid darken($color-grey-20, 10%);
+}
+
+input[type="file"]:focus::-webkit-file-upload-button {
+    background-color: $color-grey-10;
+    outline: none;
+}
+
+input[type="file"]:active::-webkit-file-upload-button {
+    outline: none;
+    background-color: $color-grey-15;
+}
+
+input[type="file"]:focus {
+    outline: $color-grey-50 auto 5px;
+}
+
+input[type="file" i]:focus {
+    outline-offset: 0;
+}
+
+/* ---- white ---- */
+.field-element--white input[type="file"]::-webkit-file-upload-button {
+    background-color: $color-white;
+}
+
+.field-element--white input[type="file"]:hover::-webkit-file-upload-button {
+    background-color: $color-grey-10;
+    border: 1px solid darken($color-grey-20, 10%);
+}
+
+.field-element--white input[type="file"]:focus::-webkit-file-upload-button {
+    background-color: $color-grey-10;
+}
+
+.field-element--white input[type="file"]:active::-webkit-file-upload-button {
+    background-color: $color-grey-15;
+}
+
+// Inline form
+.field-element--upload-inline {
+    background-color: $color-grey-05;
+    padding: $form-spacing*2 $form-spacing*2;
+
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: flex-start;
+
+    label {
+        display: block;
+        cursor: pointer;
+        font-weight: bold;
+
+        &:after {
+            content: 'select';
+            font-weight: normal;
+            background: $color-secondary;
+            color: $color-white;
+            padding: $spacing/2 $spacing*2;
+            border-radius: $standard-radius;
+            margin: 0 0 0 $spacing*2;
+            transition: all 250ms ease-in-out;
+        }
+
+    }
+
+    label:hover:after {
+        content: 'select';
+        background-color: darken($color-secondary, 15%);
+    }
+
+    input:focus + label,
+    input:active + label {
+        outline: $color-grey-50 auto 5px;
+    }
+
+    input[type="file"] {
+        border: 0;
+        clip: rect(0, 0, 0, 0);
+        height: 1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute !important;
+        white-space: nowrap;
+        width: 1px;
+    }
+}
