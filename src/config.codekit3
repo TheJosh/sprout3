@@ -4581,6 +4581,43 @@
 		"oAP": "/skin/default/_patterns/01-components/forms/upload/upload.hbs",
 		"oF": 0
 		},
+	"/skin/default/_patterns/01-components/forms/upload/_upload--inline.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/skin/default/_patterns/01-components/forms/upload/_upload--inline.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/skin/default/_patterns/01-components/forms/upload/upload--inline.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/upload/upload--inline.hbs",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/upload/upload.config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/upload/upload.config.yml",
+		"oF": 0
+		},
+	"/skin/default/_patterns/01-components/forms/upload/upload.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/skin/default/_patterns/01-components/forms/upload/upload.hbs",
+		"oF": 0
+		},
 	"/skin/default/_patterns/01-components/hero-banner/_hero-banner-01.scss": {
 		"aP": 0,
 		"bl": 0,
