@@ -1,0 +1,160 @@
+
+/* ---- top-heavy-list ---- */
+
+/* To display a list of products nicely */
+
+.top-heavy-list {
+    width: 100%;
+    list-style: none;
+    padding: 20px 0 30px;
+    margin: 0 -10px;
+
+    @include clearfix;
+
+    & > & {
+        padding: 0;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    & + & {
+        padding-top: 0;
+    }
+
+    &__item {
+        padding: 10px;
+    }
+}
+
+
+
+@media screen and (min-width: 35em) { /* 560px */
+    .top-heavy-list__item {
+        padding: 10px;
+        width: 50%;
+        float: left;
+
+        &:nth-child(2n+1) {
+            clear: left;
+        }
+    }
+}
+
+@media screen and (min-width: 62em) { /* 992px */
+    .top-heavy-list__item {
+        width: 33.3333%;
+
+        &:nth-child(2n+1) {
+            clear: none;
+        }
+
+        &:nth-child(3n+1) {
+            clear: left;
+        }
+    }
+
+}
+
+@media screen and (min-width: 87.5em) {/* 1400px */
+    .top-heavy-list__item {
+        width: 25%;
+
+        .mainbar--narrow & {
+            width: 33.33333333%;
+        }
+
+        &:nth-child(3n+1) {
+            clear: none;
+        }
+
+        &:nth-child(4n+1) {
+            clear: left;
+        }
+    }
+
+}
+
+/* Flex code */
+
+@supports (display: flex) {
+
+    @media screen and (min-width: 35em) { /* 560px */
+        .top-heavy-list {
+            display: flex;
+            flex-flow: row wrap;
+            margin-left: -10px;
+            margin-right: -10px;
+            width: calc(100% + 20px) /*[1]*/
+
+            &__item {
+                margin-right: auto;
+                margin-left: auto;
+                padding: 0 10px 20px;
+                flex-basis: 50%;
+                min-width: 50%;
+                width: auto !important;
+            }
+
+            &--five &__item,
+            &__item:nth-child(-n+3) {
+                flex-grow: 1;
+            }
+        }
+    }
+
+    @media screen and (max-width: 991px) { /* 991px */
+        .top-heavy-list {
+            &--three &__item:first-child,
+            &--five &__item:first-child,
+            &--seven &__item:first-child,
+            &--odd &__item:first-child {
+                flex-basis: 100%;
+            }
+        }
+    }
+
+
+
+    @media screen and (min-width: 62em) { /* 992px */
+        .top-heavy-list {
+            margin-left: -2%;
+            margin-right: -2%;
+
+            & &__item {
+                padding: 2%;
+                flex-basis: 25%;
+                min-width: 25%;
+            }
+
+            &--odd > &__item,
+            .mainbar--narrow & > &__item,
+            &--six > &__item,
+            &--seven > &__item:nth-child(-n+3) {
+                flex-basis: 33.33333333%;
+                min-width: 33.33333333%;
+            }
+
+            &--five > &__item:nth-child(-n+2) {
+                flex-basis: 50%;
+            }
+
+            &--five > &__item:nth-child(n+3) {
+                flex-basis: 20%;
+            }
+
+            /*  grid with sidebar, stays only 3 columns  */
+
+            .mainbar--narrow &--four > &__item:nth-child(-n+4),
+            .mainbar--narrow &--seven > &__item:nth-child(-n+4) {
+                flex-basis: 50%;
+            }
+
+            .mainbar--narrow &--five > &__item:nth-child(-n+2),
+            .mainbar--narrow &--even > &__item:nth-child(-n+2) {
+                flex-basis: 50%;
+            }
+        }
+
+    }
+
+}
