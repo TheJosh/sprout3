@@ -21,7 +21,7 @@
     margin-top: $form-spacing/4;
     border-radius: $form-spacing/2;
     z-index: 800;
-    border: 1px solid $color-grey-20;
+    border: 1px solid $color-grey-04;
     display: none;
     white-space: nowrap;
 }
@@ -80,14 +80,14 @@
 
 .total-selector__dropdown__field__button {
     -webkit-appearance: none;
-    border: 1px solid $color-grey-35;
+    border: 1px solid $color-grey-05;
     border-radius: $standard-radius;
     outline: none;
     background: none;
     padding: 0;
     height: $form-spacing*4;
     width: $form-spacing*4;
-    color: $color-grey-50;
+    color: $color-grey-06;
     cursor: pointer;
     font-size: 1.4rem;
     -webkit-box-flex: 0;
@@ -110,14 +110,14 @@
 }
 
 .total-selector__dropdown__field__button:focus {
-    color: $color-grey-50;
-    border-color: $color-grey-50;
-    background-color:$color-grey-05;
+    color: $color-grey-06;
+    border-color: $color-grey-06;
+    background-color:$color-grey-01;
 }
 
 .total-selector__dropdown__field__button:hover {
-    color: $color-grey-50;
-    border-color: $color-grey-50;
+    color: $color-grey-06;
+    border-color: $color-grey-06;
 }
 
 /* Min / max */
@@ -125,8 +125,8 @@
 .total-selector__dropdown__field__button.total-selector__dropdown__field__button--max {
     opacity: 0.5;
     pointer-events: none;
-    color: $color-grey-50;
-    border-color: $color-grey-15;
+    color: $color-grey-06;
+    border-color: $color-grey-03;
 }
 
 .total-selector__dropdown__field__total {

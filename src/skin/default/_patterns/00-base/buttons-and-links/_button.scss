@@ -118,18 +118,18 @@
 
 /* Grey */
 .button--neutral {
-    background-color: $color-grey-10;
-    color: $color-grey-73;
+    background-color: $color-grey-02;
+    color: $color-grey-08;
 }
 
 .button--neutral:hover,
 .button--neutral:focus {
-    background-color: $color-grey-15;
-    color: $color-grey-73;
+    background-color: $color-grey-03;
+    color: $color-grey-08;
 }
 
 .button--neutral svg path{
-    fill: $color-grey-73;
+    fill: $color-grey-08;
 }
 
 /* Green */

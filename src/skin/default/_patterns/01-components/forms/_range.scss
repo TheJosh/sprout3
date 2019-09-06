@@ -6,7 +6,7 @@
     background: none !important;
 }
 .field-element--range .field-input input[type=range] + div {
-    color: $color-grey-65;
+    color: $color-grey-07;
     font-weight: bold;
 }
 .field-element--range .field-input input[type=range]:focus + div {
@@ -28,46 +28,46 @@ input[type=range]::-webkit-slider-runnable-track {
 	height: $form-spacing;
 	cursor: pointer;
 	box-shadow: none;
-	background: $color-grey-20;
+	background: $color-grey-04;
 	border-radius: $form-spacing/2;
 	border: none;
 }
 input[type=range]::-webkit-slider-thumb {
 	-webkit-appearance: none;
-	box-shadow: 1px 1px 2px darken($color-grey-65, 10%);
+	box-shadow: 1px 1px 2px darken($color-grey-07, 10%);
 	border: none;
 	height: $form-spacing*4;
 	width: $form-spacing*4;
 	border-radius: $form-spacing*2;
-	background: $color-grey-65;
+	background: $color-grey-07;
 	cursor: pointer;
 	margin-top: -14px;
     -webkit-transition: all 250ms ease-in-out;
     transition: all 250ms ease-in-out;
 }
 input[type=range]:focus::-webkit-slider-runnable-track {
-	background: $color-grey-20;
+	background: $color-grey-04;
 }
 input[type=range]:focus::-webkit-slider-thumb {
 	background: $color-accent-01;
-    box-shadow: 2px 2px 4px $color-grey-65;
+    box-shadow: 2px 2px 4px $color-grey-07;
 }
 input[type=range]::-moz-range-track {
 	width: 100%;
 	height: $form-spacing/2;
 	cursor: pointer;
 	box-shadow: none;
-	background: $color-grey-15;
+	background: $color-grey-03;
 	border-radius: $form-spacing/2;
 	border: none;
 }
 input[type=range]::-moz-range-thumb {
-	box-shadow: 1px 1px 2px darken($color-grey-65, 10%);
+	box-shadow: 1px 1px 2px darken($color-grey-07, 10%);
 	border: none;
 	height: $form-spacing*4;
 	width: $form-spacing*4;
 	border-radius: $form-spacing*2;
-	background: $color-grey-65;
+	background: $color-grey-07;
 	cursor: pointer;
 }
 input[type=range]::-ms-track {
@@ -80,31 +80,31 @@ input[type=range]::-ms-track {
 	color: transparent;
 }
 input[type=range]::-ms-fill-lower {
-	background: $color-grey-15;
+	background: $color-grey-03;
 	border: none;
 	border-radius: $form-spacing/2;
 	box-shadow: none;
 }
 input[type=range]::-ms-fill-upper {
-	background: $color-grey-15;
+	background: $color-grey-03;
 	border: none;
 	border-radius: $form-spacing/2;
 	box-shadow: none;
 }
 input[type=range]::-ms-thumb {
-	box-shadow: 1px 1px 2px darken($color-grey-65, 10%);
+	box-shadow: 1px 1px 2px darken($color-grey-07, 10%);
 	border: none;
 	height: $form-spacing*4;
 	width: $form-spacing*4;
 	border-radius: $form-spacing*2;
-	background: $color-grey-65;
+	background: $color-grey-07;
 	cursor: pointer;
 }
 input[type=range]:focus::-ms-fill-lower {
-	background: $color-grey-15;
+	background: $color-grey-03;
 }
 input[type=range]:focus::-ms-fill-upper {
-	background: $color-grey-15;
+	background: $color-grey-03;
 }
 input[type=text] {
 	display: none;

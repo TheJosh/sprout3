@@ -13,32 +13,29 @@ You can find info on controlling colour with sass color functions here... https:
 <div class="sg-palette-list">
 
    <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #2a333e;">
-            <code>#2a333e</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--primary">
+            <code >#2a333e</code>
         </div>
         <code>$color-primary</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #f77450;">
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--secondary">
             <code>#f77450</code>
         </div>
         <code>$color-secondary</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #EE4266;">
-            <code>#EE4266</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--alternative">
         </div>
         <code>$color-alternative</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #35ab75;">
-            <code>#35ab75</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--accent-01">
         </div>
         <code>$color-accent-01</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #FFD23F;">
-            <code>#FFD23F</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--accent-02">
         </div>
         <code>$color-accent-02</code>
     </div>
@@ -53,58 +50,57 @@ You can find info on controlling colour with sass color functions here... https:
 <div class="sg-palette-list">
 
    <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #ffffff;">
-            <code>#ffffff</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--white">
         </div>
         <code>$color-white</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #e5e5e5;">
-            <code>#e5e5e5</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--grey-01">
+        </div>
+        <code>$color-grey-01</code>
+    </div>
+    <div class="sg-palette-list__item">
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--grey-02">
+        </div>
+        <code>$color-grey-02</code>
+    </div>
+    <div class="sg-palette-list__item">
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--grey-03">
+        </div>
+        <code>$color-grey-03</code>
+    </div>
+    <div class="sg-palette-list__item">
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--grey-04">
+        </div>
+        <code>$color-grey-04</code>
+    </div>
+    <div class="sg-palette-list__item">
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--grey-05">
         </div>
         <code>$color-grey-05</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #d9d9d9;">
-            <code>#d9d9d9</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--grey-06">
         </div>
-        <code>$color-grey-10</code>
+        <code>$color-grey-06</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #a5a5a5;">
-            <code>#a5a5a5</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--grey-07">
         </div>
-        <code>$color-grey-15</code>
+        <code>$color-grey-07</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #808080;">
-            <code>#808080</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--grey-08">
         </div>
-        <code>$color-grey-35</code>
+        <code>$color-grey-08</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #595959;">
-            <code>#595959</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--grey-09">
         </div>
-        <code>$color-grey-50</code>
+        <code>$color-grey-09</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #444444;">
-            <code>#444444</code>
-        </div>
-        <code>$color-grey-65</code>
-    </div>
-    <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #222222;">
-            <code>#222222</code>
-        </div>
-        <code>$color-grey-73</code>
-    </div>
-        <code>$color-grey-87</code>
-    </div>
-    <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #000000;">
-            <code>#000000</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--black">
         </div>
         <code>$color-black</code>
     </div>
@@ -117,50 +113,42 @@ You can find info on controlling colour with sass color functions here... https:
 <div class="sg-palette-list">
 
    <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #28943e;">
-            <code>#28943e</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--positive">
         </div>
         <code>$color-utility-positive</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #35ab4d;">
-            <code>#35ab4d</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--positive-subtle">
         </div>
         <code>$color-utility-positive-subtle</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #d06041;">
-            <code>#d06041</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--alert">
         </div>
         <code>$color-utility-alert</code>
     </div>
    <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #f77450;">
-            <code>#28943e</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--alert-subtle">
         </div>
         <code>$color-utility-alert-subtle</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #a23947;">
-            <code>#35ab4d</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--warning">
         </div>
         <code>$color-utility-warning</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #ce6976;">
-            <code>#ce6976</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--warning-subtle">
         </div>
         <code>$color-utility-warning-subtle</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #0192d0;">
-            <code>#0192d0</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--neutral">
         </div>
         <code>$color-utility-neutral</code>
     </div>
     <div class="sg-palette-list__item">
-        <div class="sg-palette-list__item__swatch" style="background: #d3f2ff;">
-            <code>#d3f2ff</code>
+        <div class="sg-palette-list__item__swatch sg-palette-list__item__swatch--neutral-subtle">
         </div>
         <code>$color-utility-neutral-subtle</code>
     </div>

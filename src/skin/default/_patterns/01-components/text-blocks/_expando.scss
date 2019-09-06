@@ -35,7 +35,7 @@
     position: absolute;
     top: 50%;
     left: 0;
-    background-color: $color-grey-05;
+    background-color: $color-grey-01;
     width: 26px;
     height: 26px;
     transform: translate(0, -50%);
@@ -46,7 +46,7 @@
     content: " ";
     width: 14px;
     height: 2px;
-    background-color: $color-grey-50;
+    background-color: $color-grey-06;
     display: block;
     position: absolute;
     top: 12px;
@@ -68,12 +68,12 @@
 }
 
 .expando-open:hover .expando-open__icon {
-    background-color: $color-grey-10;
+    background-color: $color-grey-02;
 }
 
 .expando-open:hover .expando-open__icon:before,
 .expando-open:hover .expando-open__icon:after {
-    background-color: $color-grey-87;
+    background-color: $color-grey-09;
 }
 
 /* - Close button - */
@@ -96,7 +96,7 @@
     content: " ";
     width: 14px;
     height: 2px;
-    background-color: $color-grey-50;
+    background-color: $color-grey-06;
     display: block;
     position: absolute;
     top: 12px;
@@ -117,7 +117,7 @@
 /* Hover */
 .expando__close:hover:before,
 .expando__close:hover:after {
-    background-color: $color-grey-87;
+    background-color: $color-grey-09;
 }
 
 
@@ -130,7 +130,7 @@
     position: relative;
     width: auto;
     padding: 25px 45px;
-    background-color: $color-grey-05;
+    background-color: $color-grey-01;
     animation: fadeInDown 200ms ease;
     animation-fill-mode: forwards;
 }

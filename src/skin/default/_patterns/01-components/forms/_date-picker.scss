@@ -17,9 +17,9 @@
     right: 9px;
     display: inline-block;
     border-right: 7px solid transparent;
-    border-bottom: 7px solid $color-grey-20;
+    border-bottom: 7px solid $color-grey-04;
     border-left: 7px solid transparent;
-    border-bottom-color: $color-grey-20;
+    border-bottom-color: $color-grey-04;
     content: '';
 }
 
@@ -44,9 +44,9 @@
     margin-right: auto;
     display: inline-block;
     border-right: 7px solid transparent;
-    border-bottom: 7px solid $color-grey-20;
+    border-bottom: 7px solid $color-grey-04;
     border-left: 7px solid transparent;
-    border-bottom-color: $color-grey-20;
+    border-bottom-color: $color-grey-04;
     content: '';
 }
 
@@ -81,7 +81,7 @@
     top: initial;
     bottom:-7px;
     border-bottom: initial;
-    border-top: 7px solid $color-grey-20;
+    border-top: 7px solid $color-grey-04;
 }
 
 .daterangepicker.dropup:after{
@@ -95,7 +95,7 @@
     max-width: none;
     z-index: 3000;
     display: none;
-    border: 1px solid $color-grey-20;
+    border: 1px solid $color-grey-04;
 }
 
 .daterangepicker.single .ranges, .daterangepicker.single .calendar {
@@ -121,11 +121,11 @@
     white-space: nowrap;
     text-align: center;
     min-width: 32px;
-    border: 1px solid $color-grey-10;
+    border: 1px solid $color-grey-02;
 }
 
 .daterangepicker .calendar-table {
-    border: 1px solid $color-grey-15;
+    border: 1px solid $color-grey-03;
     padding: 4px;
     border-radius: $standard-radius;
     background: $color-white;
@@ -153,21 +153,21 @@
 .daterangepicker td.off.in-range,
 .daterangepicker td.off.start-date,
 .daterangepicker td.off.end-date {
-    color: $color-grey-50;
-    background: $color-grey-05;
-    border-color: $color-grey-10;
+    color: $color-grey-06;
+    background: $color-grey-01;
+    border-color: $color-grey-02;
 }
 .daterangepicker td.off.in-range {
-    background-color: $color-grey-05;
+    background-color: $color-grey-01;
 }
 .daterangepicker td.off.active {
-    background-color: $color-grey-35;
+    background-color: $color-grey-05;
     color: $color-white;
 }
 
 .daterangepicker td.disabled,
 .daterangepicker option.disabled {
-    color: $color-grey-50;
+    color: $color-grey-06;
     cursor: not-allowed;
     text-decoration: line-through;
 }
@@ -188,7 +188,7 @@
 
 .daterangepicker td.week, .daterangepicker th.week {
     font-size: 80%;
-    color: $color-grey-20;
+    color: $color-grey-04;
 }
 
 .daterangepicker select.monthselect,
@@ -221,7 +221,7 @@
     font-size: 1.4rem;
     line-height: 1.2;
     padding: 5px 23px 5px 8px;
-    border: 1px solid $color-grey-20;
+    border: 1px solid $color-grey-04;
     background-image: url(../images/icon-system/icon_form_arrow-down.svg);
     background-repeat: no-repeat;
     background-size: contain;
@@ -276,14 +276,14 @@
     opacity: 0.8;
 }
 .daterangepicker .calendar-table thead tr:nth-child(2) th {
-    background-color: $color-grey-05;
+    background-color: $color-grey-01;
 }
 
 /* Text Input Above Each Calendar */
 .daterangepicker .input-mini {
-    border: 1px solid $color-grey-20;
+    border: 1px solid $color-grey-04;
     border-radius: $standard-radius;
-    color: $color-grey-65;
+    color: $color-grey-07;
     display: block;
     height: $spacing--xlarge;
     line-height: $spacing--xlarge;
@@ -295,7 +295,7 @@
 
 .daterangepicker .input-mini.active {
     border: 1px solid $color-accent-01;
-    background-color: $color-grey-05;
+    background-color: $color-grey-01;
 }
 .daterangepicker .input-mini:focus {
     outline: 4px auto $color-accent-01;
@@ -306,7 +306,7 @@
     position: absolute;
     left: 8px;
     top: 7px;
-    color: $color-grey-65;
+    color: $color-grey-07;
 }
 
 .daterangepicker .daterangepicker_input {
@@ -322,7 +322,7 @@
 }
 
 .daterangepicker .calendar-time select.disabled {
-    color: $color-grey-20;
+    color: $color-grey-04;
     cursor: not-allowed;
 }
 
@@ -345,13 +345,13 @@
 }
 
 .daterangepicker .cancelBtn {
-    background-color: $color-grey-15;
-    color: $color-grey-87;
+    background-color: $color-grey-03;
+    color: $color-grey-09;
 }
 .daterangepicker .cancelBtn:hover,
 .daterangepicker .cancelBtn:focus {
-    background-color: darken($color-grey-15, 10%);;
-    color: $color-grey-87;
+    background-color: darken($color-grey-03, 10%);;
+    color: $color-grey-09;
 }
 
 .daterangepicker .ranges ul {
@@ -363,9 +363,9 @@
 
 .daterangepicker .ranges li {
     font-size: 1.3rem;
-    background: $color-grey-10;
-    border: 1px solid $color-grey-05;
-    color: $color-grey-87;
+    background: $color-grey-02;
+    border: 1px solid $color-grey-01;
+    color: $color-grey-09;
     padding: 4px 12px 3px;
     margin-bottom: 7px;
     border-radius: 5px;

@@ -6,30 +6,30 @@
 
 input[type="file"]::-webkit-file-upload-button {
     padding: $form-spacing/2 $form-spacing;
-    border: 1px solid $color-grey-20;
+    border: 1px solid $color-grey-04;
     border-radius: $standard-radius;
-    background-color: $color-grey-05;
+    background-color: $color-grey-01;
     transition: all 250ms ease-in-out;
     outline: none;
 }
 
 input[type="file"]:hover::-webkit-file-upload-button {
-    background-color: $color-grey-10;
-    border: 1px solid darken($color-grey-20, 10%);
+    background-color: $color-grey-02;
+    border: 1px solid darken($color-grey-04, 10%);
 }
 
 input[type="file"]:focus::-webkit-file-upload-button {
-    background-color: $color-grey-10;
+    background-color: $color-grey-02;
     outline: none;
 }
 
 input[type="file"]:active::-webkit-file-upload-button {
     outline: none;
-    background-color: $color-grey-15;
+    background-color: $color-grey-03;
 }
 
 input[type="file"]:focus {
-    outline: $color-grey-50 auto 5px;
+    outline: $color-grey-06 auto 5px;
 }
 
 input[type="file" i]:focus {
@@ -42,21 +42,21 @@ input[type="file" i]:focus {
 }
 
 .field-element--white input[type="file"]:hover::-webkit-file-upload-button {
-    background-color: $color-grey-10;
-    border: 1px solid darken($color-grey-20, 10%);
+    background-color: $color-grey-02;
+    border: 1px solid darken($color-grey-04, 10%);
 }
 
 .field-element--white input[type="file"]:focus::-webkit-file-upload-button {
-    background-color: $color-grey-10;
+    background-color: $color-grey-02;
 }
 
 .field-element--white input[type="file"]:active::-webkit-file-upload-button {
-    background-color: $color-grey-15;
+    background-color: $color-grey-03;
 }
 
 // Inline form
 .field-element--upload-inline {
-    background-color: $color-grey-05;
+    background-color: $color-grey-01;
     padding: $form-spacing*2 $form-spacing*2;
 
     display: flex;
@@ -89,7 +89,7 @@ input[type="file" i]:focus {
 
     input:focus + label,
     input:active + label {
-        outline: $color-grey-50 auto 5px;
+        outline: $color-grey-06 auto 5px;
     }
 
     input[type="file"] {

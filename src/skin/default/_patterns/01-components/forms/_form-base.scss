@@ -49,15 +49,15 @@ form > * + * {
 .field-input input,
 .field-input textarea,
 .field-input select {
-    border: 1px solid $color-grey-20;
+    border: 1px solid $color-grey-04;
     border-radius: $standard-radius;
-    background-color: $color-grey-05;
+    background-color: $color-grey-01;
 }
 
 .field-input input:focus,
 .field-input textarea:focus,
 .field-input select:focus {
-    outline: $color-grey-50 auto 5px;
+    outline: $color-grey-06 auto 5px;
 }
 
 /* -- white -- */
@@ -144,7 +144,7 @@ form > * + * {
     right: 1px;
     bottom: 1px;
     border-radius: 0 5px 5px 0;
-    background: $color-grey-15;
+    background: $color-grey-03;
     border: none;
     outline: none;
     padding: 0 7px;
@@ -158,7 +158,7 @@ form > * + * {
 .field-element-attach-wrapper__button:hover,
 .field-element-attach-wrapper__button:active,
 .field-element-attach-wrapper__button:focus {
-    background-color: $color-grey-20;
+    background-color: $color-grey-04;
 }
 .field-element-attach-wrapper .field-element .field-input .textbox,
 .field-element-attach-wrapper .field-element .field-input select {
@@ -166,12 +166,12 @@ form > * + * {
 }
 /* White attachment wrapper */
 .field-element-attach-wrapper--white .field-element-attach-wrapper__button {
-    background-color: $color-grey-10;
+    background-color: $color-grey-02;
 }
 .field-element-attach-wrapper--white .field-element-attach-wrapper__button:hover,
 .field-element-attach-wrapper--white .field-element-attach-wrapper__button:active,
 .field-element-attach-wrapper--white .field-element-attach-wrapper__button:focus {
-    background-color: $color-grey-15;
+    background-color: $color-grey-03;
 }
 
 /* ---- form style extenders ---- */
@@ -181,9 +181,9 @@ form > * + * {
     left: $form-spacing*2;
     display: inline-block;
     border-right: $form-spacing solid transparent;
-    border-bottom: $form-spacing solid $color-grey-20;
+    border-bottom: $form-spacing solid $color-grey-04;
     border-left: $form-spacing solid transparent;
-    border-bottom-color: $color-grey-20;
+    border-bottom-color: $color-grey-04;
     content: '';
 }
 %form-field-pseudo-anchor--after {

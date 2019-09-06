@@ -6,26 +6,26 @@
 input[type="file"]::-webkit-file-upload-button {
     background: #000;
     padding: $form-spacing*1.5 $form-spacing*2;
-    border: 1px solid $color-grey-20;
+    border: 1px solid $color-grey-04;
     border-radius: $standard-radius;
-    background-color: $color-grey-05;
+    background-color: $color-grey-01;
     transition: all 250ms ease-in-out;
     outline: none;
 }
 input[type="file"]:hover::-webkit-file-upload-button {
-    background-color: $color-grey-10;
-    border: 1px solid darken($color-grey-20, 10%);
+    background-color: $color-grey-02;
+    border: 1px solid darken($color-grey-04, 10%);
 }
 input[type="file"]:focus::-webkit-file-upload-button {
-    background-color: $color-grey-10;
+    background-color: $color-grey-02;
     outline: none;
 }
 input[type="file"]:active::-webkit-file-upload-button {
     outline: none;
-    background-color: $color-grey-15;
+    background-color: $color-grey-03;
 }
 input[type="file"]:focus {
-    outline: $color-grey-50 auto 5px;
+    outline: $color-grey-06 auto 5px;
 }
 input[type="file" i]:focus {
     outline-offset: 0;
@@ -36,12 +36,12 @@ input[type="file" i]:focus {
     background-color: $color-white;
 }
 .field-element--white input[type="file"]:hover::-webkit-file-upload-button {
-    background-color: $color-grey-10;
-    border: 1px solid darken($color-grey-20, 10%);
+    background-color: $color-grey-02;
+    border: 1px solid darken($color-grey-04, 10%);
 }
 .field-element--white input[type="file"]:focus::-webkit-file-upload-button {
-    background-color: $color-grey-10;
+    background-color: $color-grey-02;
 }
 .field-element--white input[type="file"]:active::-webkit-file-upload-button {
-    background-color: $color-grey-15;
+    background-color: $color-grey-03;
 }

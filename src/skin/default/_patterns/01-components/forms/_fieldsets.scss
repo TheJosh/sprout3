@@ -48,8 +48,8 @@ input[type="radio"] + label:before,
     margin-right: $form-spacing*1.5;
     position: relative;
     top: $form-spacing/2;
-    background-color: $color-grey-05;
-    border: 1px solid $color-grey-20;
+    background-color: $color-grey-01;
+    border: 1px solid $color-grey-04;
     margin-left: -$form-spacing*4;
 }
 
@@ -89,7 +89,7 @@ input[type="radio"]:checked + label:after,
     width: $form-spacing*1.2;
     height: $form-spacing*1.2;
     border-radius: $form-spacing*0.6;
-    background: $color-grey-65;
+    background: $color-grey-07;
 }
 
 /* White */
@@ -100,9 +100,9 @@ input[type="radio"]:checked + label:after,
 
 /* input focus state */
 .fieldset--multiradio:focus-within {
-    outline: $color-grey-50 auto 5px;
+    outline: $color-grey-06 auto 5px;
 }
 input[type="checkbox"]:focus + label {
-    outline: $color-grey-50 auto 5px;
+    outline: $color-grey-06 auto 5px;
     outline-offset: -3px;
 }
