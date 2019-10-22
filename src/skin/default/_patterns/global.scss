@@ -172,6 +172,13 @@
 @import "01-components/navigation/related-links";
 
 
+
+/* ---- Plugins / third-party styles ---- */
+
+@import "01-components/magnific-popup/magnific-popup";
+
+
+
 /* ---- Blocks ---- */
 
 
@@ -190,11 +197,11 @@
 
 @import "01-components/media-objects/card";
 
-@import "01-components/image-slider/slick-slider/_image-slider";
+@import "01-components/image-slider/slick-slider/image-slider";
 
-@import "01-components/image-slider/slick-slider/_image-slider-theme";
+@import "01-components/image-slider/slick-slider/image-slider-theme";
 
-@import "01-components/image-slider/sans-slick/_image-slider-clean";
+@import "01-components/image-slider/sans-slick/image-slider-clean";
 
 
 
